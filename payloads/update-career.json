@@ -1,0 +1,633 @@
+{
+  "name": "UPSC Civil Services (IAS)",
+  "slug": "upsc-ias",
+  "description": "End-to-end architectural blueprint of the UPSC Civil Services Examination (CSE). Spans the 400-mark Preliminary screening gate (GS & CSAT), the compulsory qualifying language papers, the 1,750-mark written Mains core (Essay, GS I\u2013IV, Optionals), and the 275-mark Dholpur House Personality Test for All-India rank determination.",
+  "category": "civil",
+  "difficulty": "elite",
+  "tags": [
+    "government",
+    "administration",
+    "policy",
+    "leadership",
+    "public-service",
+    "blueprint"
+  ],
+  "skills": [
+    "Public Administration",
+    "Constitutional Law",
+    "Crisis Governance",
+    "Policy Analysis",
+    "Stakeholder Management",
+    "Administrative Law"
+  ],
+  "metrics": {
+    "duration_months": 18,
+    "entry_threshold": "Top 180 for IAS (out of ~1M applicants)",
+    "compensation": "\u20b956,100 \u2013 \u20b92,50,000+ (Cabinet Secretary)",
+    "selection_ratio": "1 : 1,000 (0.1%)",
+    "total_marks": 2025
+  },
+  "content_blocks": [
+    {
+      "type": "hero",
+      "title": "Civil Services Examination (CSE) \u2014 Master Blueprint",
+      "content": {
+        "kicker": "UNION PUBLIC SERVICE COMMISSION \u00b7 CIVIL SERVICES",
+        "subtitle": "Comprehensive End-to-End Blueprint (Prelims to Interview)",
+        "description": "Unified master blueprint spanning the initial 400-mark Preliminary screening gates, the compulsory qualifying language threshold, the 1,750-mark written Mains core (Essay, GS I\u2013IV, Optionals), and the 275-mark Dholpur House Personality Test for All-India Service rank determination.",
+        "scale": "2,025 Marks (Merit) + 400 Marks (Prelims)",
+        "stage": "Prelims \u00b7 Mains \u00b7 Personality Test",
+        "total_papers": "11 Papers (2 Prelims + 2 Qual + 7 Merit)",
+        "written_merit": "1,750 MARKS (Papers I\u2013VII)",
+        "interview": "275 MARKS",
+        "grand_total": "2,025 MARKS"
+      }
+    },
+    {
+      "type": "macro_metrics",
+      "title": "Macro Statistics",
+      "content": {
+        "metrics": [
+          {
+            "label": "Total Evaluation Base",
+            "value": "2,025 M",
+            "sub": "1,750 Written Merit + 275 Personality Test",
+            "highlight": true
+          },
+          {
+            "label": "Prelims Screening Filter",
+            "value": "400 M",
+            "sub": "Paper I (GS 200M) + Paper II (CSAT 200M) \u00b7 98.5% Attrition"
+          },
+          {
+            "label": "Qualifying Language Gate",
+            "value": "600 M",
+            "sub": "Paper A (Indian Lang 300M) + Paper B (English 300M) \u00b7 25% Min"
+          },
+          {
+            "label": "Core Written Merit",
+            "value": "1,750 M",
+            "sub": "Essay (250M) + GS I\u2013IV (1,000M) + Optional (500M)"
+          }
+        ]
+      }
+    },
+    {
+      "type": "blueprint_section",
+      "title": "Stage 01 \u2014 Preliminary Examination & CSAT Filter",
+      "content": {
+        "kicker": "STAGE 01 \u00b7 SCREENING GATE & NEGATIVE MARKING ANATOMY",
+        "badge": "400 MARKS TOTAL \u00b7 OBJECTIVE OMR",
+        "scale": "400 Marks (Screening Only)",
+        "weight": "Non-Merit (Qualifying Only)",
+        "papers_count": "2 Papers (200M Each)",
+        "description": "The objective screening threshold administered across twin 2-hour OMR sessions on a single day. Marks obtained in the Preliminary examination serve exclusively to qualify candidates for Mains admission and are not credited in the final All-India rank ledger.",
+        "metrics": [
+          {
+            "label": "Cutoff Decider",
+            "value": "Paper I (GS)",
+            "sub": "Score determines admission to Mains examination"
+          },
+          {
+            "label": "CSAT Floor",
+            "value": "33.34%",
+            "sub": "Mandatory 66.67 / 200 marks minimum qualifying threshold"
+          },
+          {
+            "label": "Penalty Multiplier",
+            "value": "-0.33",
+            "sub": "1/3rd mark penalty deduction for each incorrect MCQ"
+          },
+          {
+            "label": "Screening Funnel",
+            "value": "~1.3%",
+            "sub": "~13,000 candidates qualify out of ~1,000,000 applicants",
+            "highlight": true
+          }
+        ],
+        "papers": [
+          {
+            "code": "PAPER I \u00b7 SCREENING RANK",
+            "name": "General Studies Paper I",
+            "marks": "200 Marks",
+            "meta": "100 MCQs \u00b7 2 Hours Duration \u00b7 +2.0 Correct / -0.66 Penalty",
+            "desc": "The pivotal cut-off decider. Evaluates conceptual depth, factual awareness, interdisciplinary synthesis, and Indian & global governance domains.",
+            "topics": [
+              "Current events of national and international importance",
+              "History of India and Indian National Movement",
+              "Indian and World Geography: Physical, Social, Economic Geography of India & the World",
+              "Indian Polity and Governance: Constitution, Political System, Panchayati Raj, Public Policy, Rights Issues",
+              "Economic and Social Development: Sustainable Development, Poverty, Inclusion, Demographics, Social Sector Initiatives",
+              "General issues on Environmental Ecology, Biodiversity, and Climate Change",
+              "General Science & Technological advancements"
+            ],
+            "tags": [
+              "Cutoff Decider",
+              "Negative Marking (-0.66)",
+              "OMR Format",
+              "100 Questions"
+            ],
+            "highlight": true
+          },
+          {
+            "code": "PAPER II \u00b7 QUALIFYING GATE",
+            "name": "General Studies Paper II (CSAT)",
+            "marks": "200 Marks",
+            "meta": "80 MCQs \u00b7 2 Hours Duration \u00b7 +2.5 Correct / -0.83 Penalty",
+            "desc": "Civil Services Aptitude Test. Mandatory qualifying paper requiring minimum 33% (66.67 marks) to ensure analytical, logical, and linguistic competence.",
+            "topics": [
+              "Reading Comprehension (complex inference, tone, main idea, assumption extraction)",
+              "Interpersonal skills including communication skills & situational awareness",
+              "Logical reasoning, deductive syllogisms, and analytical ability",
+              "Decision making, problem solving, and administrative judgment",
+              "General mental ability and spatial/sequence reasoning",
+              "Basic numeracy (numbers, relations, orders of magnitude, Class X level)",
+              "Data interpretation (charts, graphs, tables, data sufficiency, Class X level)"
+            ],
+            "tags": [
+              "Qualifying (33% Floor)",
+              "80 Questions",
+              "Negative Marking (-0.83)",
+              "Class X Numeracy"
+            ],
+            "border_class": "gold-border"
+          }
+        ],
+        "callout": {
+          "type": "warning",
+          "title": "Negative Marking Anatomy (1/3rd Rule)",
+          "text": "Every incorrect response incurs an automatic penalty of 33.33% of the marks assigned to that question. In Paper I: +2.00 marks for correct, -0.66 marks for incorrect. In Paper II: +2.50 marks for correct, -0.83 marks for incorrect. Unattempted questions carry zero penalty. Marking multiple options for an item is scored as an incorrect response even if one selected bubble is correct."
+        }
+      }
+    },
+    {
+      "type": "merit_bar",
+      "title": "Stage 02 \u2014 Master Merit Bar (Seven Papers + Personality Test)",
+      "content": {
+        "dim_note": "Dimensioned Merit Allocation \u00b7 2,025 Total Marks",
+        "breakdown_written": "1,750 Marks (86.4%)",
+        "breakdown_interview": "275 Marks (13.6%)",
+        "total_num": "2,025",
+        "total_txt": "TOTAL EVALUATION BASE (WRITTEN + INTERVIEW)",
+        "segments": [
+          {
+            "code": "P-I",
+            "name": "Essay",
+            "marks": "250M",
+            "percentage": "12.3%",
+            "fill": "fill-a",
+            "flexGrow": 1
+          },
+          {
+            "code": "P-II",
+            "name": "GS I",
+            "marks": "250M",
+            "percentage": "12.3%",
+            "fill": "fill-a",
+            "flexGrow": 1
+          },
+          {
+            "code": "P-III",
+            "name": "GS II",
+            "marks": "250M",
+            "percentage": "12.3%",
+            "fill": "fill-a",
+            "flexGrow": 1
+          },
+          {
+            "code": "P-IV",
+            "name": "GS III",
+            "marks": "250M",
+            "percentage": "12.3%",
+            "fill": "fill-a",
+            "flexGrow": 1
+          },
+          {
+            "code": "P-V",
+            "name": "GS IV",
+            "marks": "250M",
+            "percentage": "12.3%",
+            "fill": "fill-a",
+            "flexGrow": 1
+          },
+          {
+            "code": "P-VI",
+            "name": "OPT 1",
+            "marks": "250M",
+            "percentage": "12.3%",
+            "fill": "fill-b",
+            "flexGrow": 1
+          },
+          {
+            "code": "P-VII",
+            "name": "OPT 2",
+            "marks": "250M",
+            "percentage": "12.3%",
+            "fill": "fill-b",
+            "flexGrow": 1
+          },
+          {
+            "code": "INT",
+            "name": "Personality",
+            "marks": "275M",
+            "percentage": "13.6%",
+            "fill": "fill-c",
+            "flexGrow": 1.1
+          }
+        ]
+      }
+    },
+    {
+      "type": "qualifying_gateway",
+      "title": "Stage 02 \u00b7 Part 01 \u2014 Qualifying Language Gateway",
+      "content": {
+        "badge": "25% QUALIFYING THRESHOLD \u00b7 STATUTORY ELIMINATION",
+        "warning": "CRITICAL STATUTORY NOTE (RULE 15): If a candidate fails to secure 25% (75/300) in EITHER Paper A or Paper B, their merit papers (Papers I\u2013VII) WILL NOT BE EVALUATED. The candidate is summarily disqualified regardless of performance.",
+        "cards": [
+          {
+            "title": "Paper A \u00b7 Indian Language",
+            "description": "Selected from languages included in the 8th Schedule of the Constitution. Comprehension, pr\u00e9cis writing, vocabulary, translation to/from English, and short essay.",
+            "max_marks": "300",
+            "time": "3 Hours",
+            "passing_min": "75 (25%)"
+          },
+          {
+            "title": "Paper B \u00b7 English Language",
+            "description": "Compulsory English language proficiency paper. Assesses candidate capacity to read and understand serious discursive prose, and express ideas clearly and correctly in English.",
+            "max_marks": "300",
+            "time": "3 Hours",
+            "passing_min": "75 (25%)"
+          }
+        ]
+      }
+    },
+    {
+      "type": "blueprint_section",
+      "title": "Stage 02 \u00b7 Part 02 \u2014 Essay & General Studies Core",
+      "content": {
+        "kicker": "STAGE 02 \u00b7 GENERALIST WRITTEN CORE (PAPERS I\u2013V)",
+        "badge": "1,250 MARKS \u00b7 61.7% OF MERIT LEDGER",
+        "scale": "1,250 / 2,025 Marks",
+        "weight": "61.7% Total Merit",
+        "papers_count": "5 Papers (250M Each)",
+        "description": "Detailed schematic of the five written generalist papers. Encompassing the Essay (Paper I) and General Studies Papers I through IV, this block forms the primary analytical foundation of the Civil Services Mains.",
+        "papers": [
+          {
+            "code": "PAPER I",
+            "name": "The Essay",
+            "marks": "250 Marks",
+            "meta": "2 Thematic Essays \u00b7 3 Hours \u00b7 1,000\u20131,200 Words Each",
+            "desc": "Tests coherence, philosophical depth, multidimensional argumentation, and structural clarity across Section A (Philosophical/Abstract) and Section B (Socio-Economic/Administrative).",
+            "topics": [
+              "Section A: Philosophical, epistemological, or abstract introspective propositions",
+              "Section B: Socio-economic, administrative, geopolitical, or institutional dimensions",
+              "Multidisciplinary linkages across ethics, history, polity, environment, and culture",
+              "Coherent structural transitions: Thesis, Antithesis, Synthesis, and Pragmatic Policy Roadmaps"
+            ],
+            "tags": [
+              "2 Essays",
+              "125M Each",
+              "Philosophical Synthesis",
+              "Administrative Perspective"
+            ],
+            "highlight": true
+          },
+          {
+            "code": "PAPER II",
+            "name": "General Studies I (Heritage, History, Society & Geography)",
+            "marks": "250 Marks",
+            "meta": "20 Questions (10M & 15M) \u00b7 3 Hours Duration",
+            "desc": "Indian Heritage and Culture, History and Geography of the World and Society. Spans ancient heritage through modern socio-geographical dynamics.",
+            "topics": [
+              "Indian Culture: Salient aspects of Art Forms, Literature, and Architecture from ancient to modern times",
+              "Modern Indian History from mid-18th century until present; Freedom Struggle & various stages",
+              "Post-independence consolidation, reorganization within the country, and World History",
+              "Salient features of Indian Society, Diversity of India, Role of women, Population & developmental issues",
+              "Effects of Globalization on Indian society; Social empowerment, Communalism, Regionalism & Secularism",
+              "Salient features of world Physical Geography; Distribution of key natural resources across the globe",
+              "Important Geophysical phenomena (Earthquakes, Tsunami, Volcanic activity, Cyclone), geographical features & changes"
+            ],
+            "tags": [
+              "Ancient & Modern History",
+              "Indian Society",
+              "Physical & Human Geography",
+              "Art & Architecture"
+            ]
+          },
+          {
+            "code": "PAPER III",
+            "name": "General Studies II (Governance, Constitution, Polity & IR)",
+            "marks": "250 Marks",
+            "meta": "20 Questions (10M & 15M) \u00b7 3 Hours Duration",
+            "desc": "Governance, Constitution, Polity, Social Justice and International Relations. Focuses on institutional checks, statutory bodies, and global diplomatic posture.",
+            "topics": [
+              "Indian Constitution: Historical underpinnings, evolution, features, amendments, significant provisions & basic structure",
+              "Functions and responsibilities of the Union and the States, issues pertaining to federal structure, devolution of powers",
+              "Separation of powers between various organs, dispute redressal mechanisms, and institutions",
+              "Comparison of the Indian constitutional scheme with that of other countries",
+              "Parliament and State Legislatures: Structure, functioning, conduct of business, powers & privileges",
+              "Statutory, regulatory, and various quasi-judicial bodies; Representation of People Act",
+              "Welfare schemes for vulnerable sections; Issues relating to poverty, hunger, health, and education",
+              "India and its neighborhood relations; Bilateral, regional and global groupings and agreements involving India"
+            ],
+            "tags": [
+              "Constitutional Law",
+              "Federalism",
+              "Public Policy",
+              "International Relations",
+              "Social Justice"
+            ]
+          },
+          {
+            "code": "PAPER IV",
+            "name": "General Studies III (Economy, Tech, Environment, Security)",
+            "marks": "250 Marks",
+            "meta": "20 Questions (10M & 15M) \u00b7 3 Hours Duration",
+            "desc": "Technology, Economic Development, Bio-diversity, Environment, Security and Disaster Management. Dynamic applied paper with heavy current affairs nexus.",
+            "topics": [
+              "Indian Economy and issues relating to planning, mobilization of resources, growth, development, and employment",
+              "Inclusive growth and issues arising from it; Government Budgeting",
+              "Major crop patterns, different types of irrigation, storage, transport & marketing of agricultural produce; E-technology",
+              "Issues related to direct and indirect farm subsidies, minimum support prices, PDS objectives, food security",
+              "Science and Technology: Developments and applications in everyday life; Indigenization of technology; AI, Robotics, Space",
+              "Conservation, environmental pollution and degradation, environmental impact assessment",
+              "Disaster and disaster management: Sendai framework, national policy, risk mitigation",
+              "Linkages between development and spread of extremism; Role of external state and non-state actors in security threats",
+              "Challenges to internal security through communication networks, cyber security, money-laundering & border management"
+            ],
+            "tags": [
+              "Indian Economy",
+              "Science & Tech",
+              "Internal Security",
+              "Biodiversity",
+              "Disaster Mgmt"
+            ]
+          },
+          {
+            "code": "PAPER V",
+            "name": "General Studies IV (Ethics, Integrity & Aptitude)",
+            "marks": "250 Marks",
+            "meta": "Section A (Theory) + Section B (6 Case Studies) \u00b7 3 Hours",
+            "desc": "Tests candidates attitude, integrity, moral reasoning, and conflict resolution capacity in public service through theoretical principles and complex case simulations.",
+            "topics": [
+              "Ethics and Human Interface: Essence, determinants and consequences of Ethics in human actions; Dimensions of ethics",
+              "Human Values: Lessons from the lives and teachings of great leaders, reformers and administrators",
+              "Attitude: Content, structure, function; Its influence and relation with thought and behaviour; Moral and political attitudes",
+              "Aptitude and foundational values for Civil Service: Integrity, impartiality, non-partisanship, objectivity, dedication",
+              "Emotional Intelligence: Concepts and utilities, application in administration and governance",
+              "Contributions of moral thinkers and philosophers from India and world",
+              "Public/Civil service values and Ethics in Public administration: Dilemmas, ethical concerns in government institutions",
+              "Probity in Governance: Concept of public service, philosophical basis of governance and probity, Citizen Charters, RTI, Work culture",
+              "Section B: Six Applied Administrative Case Studies on conflicts of interest, corruption, whistleblowing, and mob crisis"
+            ],
+            "tags": [
+              "Applied Ethics",
+              "6 Case Studies",
+              "Emotional Intelligence",
+              "Probity in Governance"
+            ]
+          }
+        ],
+        "callout": {
+          "type": "gold",
+          "title": "Core Answer Architecture & Directive Verbs",
+          "text": "Every GS question belongs to one of two structural templates: 10-Mark Questions (150 words / ~7 minutes) and 15-Mark Questions (250 words / ~10.5 minutes). Candidate responses must directly address the specific directive verb: Discuss requires a balanced multidimensional exploration; Critically Examine demands investigating hidden assumptions, flaws, and counter-arguments; Elucidate requires clarity through concrete administrative examples and empirical data."
+        }
+      }
+    },
+    {
+      "type": "blueprint_section",
+      "title": "Stage 02 \u00b7 Part 03 \u2014 Optional Subject Specialization",
+      "content": {
+        "kicker": "STAGE 02 \u00b7 SPECIALIST ACADEMIC DISCIPLINE (PAPERS VI & VII)",
+        "badge": "500 MARKS \u00b7 24.7% OF MERIT LEDGER",
+        "scale": "500 / 2,025 Marks",
+        "weight": "24.7% Total Merit",
+        "papers_count": "2 Papers (250M Each)",
+        "description": "Specialized deep-dive into a single chosen discipline from the 48 approved UPSC subjects. Spans theoretical foundations in Paper I to applied contemporary empirical analysis in Paper II.",
+        "papers": [
+          {
+            "code": "PAPER VI",
+            "name": "Optional Paper I (Foundations & Theoretical Doctrines)",
+            "marks": "250 Marks",
+            "meta": "8 Questions (Select 5) \u00b7 3 Hours \u00b7 Compulsory Q1 & Q5",
+            "desc": "Evaluates mastery of foundational theoretical frameworks, seminal thinkers, principles, methodological schools, and canonical doctrines of the discipline.",
+            "topics": [
+              "Comprehensive conceptual architecture of the chosen discipline",
+              "Seminal thinkers, evolutionary milestones, and theoretical paradigms",
+              "Epistemological debates, comparative methodologies, and foundational critiques",
+              "Compulsory Question 1: Five short 10-mark conceptual notes covering entire syllabus breadth",
+              "Sectional depth questions demanding rigorous academic synthesis and canonical citation"
+            ],
+            "tags": [
+              "Theoretical Depth",
+              "Seminal Thinkers",
+              "Compulsory Q1",
+              "Postgraduate Rigor"
+            ],
+            "border_class": "cyan-border"
+          },
+          {
+            "code": "PAPER VII",
+            "name": "Optional Paper II (Applied Dimensions & Indian Context)",
+            "marks": "250 Marks",
+            "meta": "8 Questions (Select 5) \u00b7 3 Hours \u00b7 Compulsory Q1 & Q5",
+            "desc": "Applied dimensions, case studies, Indian context, contemporary policy problems, and critical empirical analysis.",
+            "topics": [
+              "Application of theoretical concepts to contemporary Indian institutional & societal realities",
+              "Empirical case studies, governmental committee reports, and policy reforms",
+              "Interdisciplinary nexus with constitutional provisions, socio-economic challenges, and field governance",
+              "Compulsory Question 5: Five short 10-mark applied problems in Indian administrative context",
+              "Advanced critical evaluation integrating current data, juristic verdicts, and academic scholarship"
+            ],
+            "tags": [
+              "Indian Context",
+              "Applied Policy",
+              "Case Studies",
+              "Compulsory Q5"
+            ],
+            "border_class": "gold-border"
+          }
+        ],
+        "callout": {
+          "type": "info",
+          "title": "Optional Selection Clusters & Benchmark Scoring",
+          "text": "Candidates select one optional subject from 48 recognized disciplines categorized into Humanities (PSIR, Sociology, Geography, History, Public Administration, Anthropology, Philosophy), Sciences & Engineering (Mathematics, Physics, Chemistry, Electrical/Civil/Mechanical Engineering, Medical Science), and Literatures (48 languages). A cumulative score of 280\u2013310+ marks out of 500 across Papers VI and VII is historically essential for securing a Top 100 All-India Rank."
+        }
+      }
+    },
+    {
+      "type": "schedule",
+      "title": "Stage 02 \u00b7 5-Day Examination Protocol Schedule",
+      "content": {
+        "sub": "Total 9 Papers \u00b7 Two 3-Hour Sessions Per Day (Forenoon 09:00\u201312:00 | Afternoon 14:30\u201317:30)",
+        "days": [
+          {
+            "day_no": "DAY 01",
+            "session": "Paper I (Essay)\n[Afternoon: Rest]",
+            "hrs": "3 Hrs \u00b7 250M"
+          },
+          {
+            "day_no": "DAY 02",
+            "session": "Paper II (GS I)\nPaper III (GS II)",
+            "hrs": "6 Hrs \u00b7 500M"
+          },
+          {
+            "day_no": "DAY 03",
+            "session": "Paper IV (GS III)\nPaper V (GS IV Ethics)",
+            "hrs": "6 Hrs \u00b7 500M"
+          },
+          {
+            "day_no": "DAY 04",
+            "session": "Paper A (Indian Lang)\nPaper B (English)",
+            "hrs": "6 Hrs \u00b7 Qualifying",
+            "qual": true
+          },
+          {
+            "day_no": "DAY 05",
+            "session": "Paper VI (Optional I)\nPaper VII (Optional II)",
+            "hrs": "6 Hrs \u00b7 500M"
+          }
+        ]
+      }
+    },
+    {
+      "type": "blueprint_section",
+      "title": "Stage 03 \u2014 Personality Test & Final Merit Ledger",
+      "content": {
+        "kicker": "STAGE 03 \u00b7 FINAL EVALUATION GATE (275 MARKS)",
+        "badge": "275 MARKS \u00b7 13.6% MERIT SHARE \u00b7 DHOLPUR HOUSE",
+        "scale": "275 / 2,025 Marks",
+        "weight": "13.6% Total Merit",
+        "papers_count": "1 Board Session",
+        "description": "The culminating stage of the Civil Services Examination conducted at UPSC Headquarters, Dholpur House, New Delhi. An oral interview before a board of competent and unbiased observers to assess personal suitability for public governance.",
+        "papers": [
+          {
+            "code": "INTERVIEW BOARD",
+            "name": "The Dholpur House Personality Board",
+            "marks": "275 Marks",
+            "meta": "5-Member Board \u00b7 30\u201345 Minutes \u00b7 UPSC HQ, New Delhi",
+            "desc": "A directed and purposive conversation rather than a strict cross-examination. Probes candidate mental caliber, intellectual integrity, and social cohesion.",
+            "topics": [
+              "Mental alertness and critical powers of assimilation under high-pressure inquiry",
+              "Clear and logical exposition with balanced, mature judgment on controversial national dilemmas",
+              "Variety and depth of interest, intellectual curiosity, and social cohesion posture",
+              "DAF-I & DAF-II scrutiny: Detailed Application Form detailing home state, hobbies, achievements & academic path",
+              "Integrity, moral courage, leadership temperament, and constitutional commitment"
+            ],
+            "tags": [
+              "5-Member Board",
+              "DAF Scrutiny",
+              "Mental Alertness",
+              "Balance of Judgment"
+            ],
+            "highlight": true
+          },
+          {
+            "code": "FINAL LEDGER",
+            "name": "The All-India Merit Ledger & Service Allocation",
+            "marks": "2,025 Marks Grand Total",
+            "meta": "Written (1,750M) + Personality Test (275M)",
+            "desc": "Cumulative score determines candidate All-India Rank (AIR) and subsequent allocation into prestigious constitutional and central services.",
+            "topics": [
+              "Indian Administrative Service (IAS): Top ranks (~180 cadres allocated annually across State cadres)",
+              "Indian Foreign Service (IFS): Top ranks (~35 diplomats appointed to Ministry of External Affairs)",
+              "Indian Police Service (IPS): Top ranks (~200 officers allocated across State Police cadres)",
+              "Central Group A Services: IRS (IT & Customs), IA&AS, IDAS, IRTS, IPOS (~500+ appointments)",
+              "Tie-breaking protocol: Higher marks in written papers prioritized; if equal, candidate senior in age ranked higher"
+            ],
+            "tags": [
+              "Rank 1\u20131000",
+              "Cadre Allocation",
+              "IAS / IFS / IPS / IRS",
+              "DoPT Cadre Rules"
+            ],
+            "border_class": "gold-border"
+          }
+        ],
+        "callout": {
+          "type": "warning",
+          "title": "Interview Scoring Bands & Conversion Multipliers",
+          "text": "Interview scores typically range from 130 to 215+ marks out of 275. A score above 190 marks (69%+) provides a tremendous competitive swing that can elevate a candidate by 100 to 200 All-India ranks, frequently converting a borderline Mains result into an elite Top 50 service allocation."
+        }
+      }
+    },
+    {
+      "type": "requirements",
+      "title": "Statutory Eligibility & Attempt Regulations",
+      "content": {
+        "prerequisites": [
+          "Nationality: Must be a citizen of India for IAS, IFS, and IPS. For other services, candidate may be a subject of Nepal/Bhutan or eligible refugee.",
+          "Educational Qualification: Degree of any recognized University incorporated by an Act of the Central or State Legislature, or equivalent qualification.",
+          "Age Limit & Attempt Limits (as of August 1 of examination year):",
+          "\u2022 General Category: 21 to 32 years of age \u00b7 Maximum 6 Attempts",
+          "\u2022 Other Backward Classes (OBC): 21 to 35 years of age \u00b7 Maximum 9 Attempts",
+          "\u2022 Scheduled Castes & Scheduled Tribes (SC/ST): 21 to 37 years of age \u00b7 Unlimited Attempts",
+          "\u2022 Persons with Benchmark Disabilities (PwBD): 21 to 42 years of age \u00b7 9 Attempts (General/OBC) or Unlimited (SC/ST)"
+        ]
+      }
+    }
+  ],
+  "roadmap": [
+    {
+      "title": "NCERT Core Foundation & Generalist Grounding",
+      "description": "Master Class VI\u2013XII NCERT textbooks across History, Geography, Polity, and Economics. Establish newspaper analysis habit (The Hindu / Indian Express).",
+      "status": "completed",
+      "estimated_months": 3,
+      "dependencies": [],
+      "resources": [],
+      "tags": [],
+      "prerequisites": []
+    },
+    {
+      "title": "CSAT Analytical Mastery & Prelims Question Testing",
+      "description": "Solve 10 years of CSAT papers. Weekly mock test regimen targeting 110+ in GS Paper I and 90+ in CSAT Paper II.",
+      "status": "in-progress",
+      "estimated_months": 3,
+      "dependencies": [],
+      "resources": [],
+      "tags": [],
+      "prerequisites": []
+    },
+    {
+      "title": "Mains General Studies Core & Integrated Current Affairs",
+      "description": "Daily 2-hour answer writing practice covering GS Papers I through IV. Master the 10-mark (150 words) and 15-mark (250 words) frameworks.",
+      "status": "todo",
+      "estimated_months": 4,
+      "dependencies": [],
+      "resources": [],
+      "tags": [],
+      "prerequisites": []
+    },
+    {
+      "title": "Optional Subject Specialization & Theoretical Depth",
+      "description": "Complete syllabus of chosen optional subject across Papers I & II. Solve past 15 years question papers with canonical citations.",
+      "status": "todo",
+      "estimated_months": 3,
+      "dependencies": [],
+      "resources": [],
+      "tags": [],
+      "prerequisites": []
+    },
+    {
+      "title": "Full-Length Simulation Regimen & Speed Iteration",
+      "description": "Simulate the grueling 5-day examination timetable (two 3-hour papers per day) under strict exam conditions to build physical & mental stamina.",
+      "status": "todo",
+      "estimated_months": 2,
+      "dependencies": [],
+      "resources": [],
+      "tags": [],
+      "prerequisites": []
+    },
+    {
+      "title": "DAF Deep-Scrubbing & Dholpur House Board Simulation",
+      "description": "Formulate exhaustive Q&A briefs on every entry in DAF-I and DAF-II (home district, hobbies, service preferences). Attend 4\u20135 mock interview panels.",
+      "status": "todo",
+      "estimated_months": 1,
+      "dependencies": [],
+      "resources": [],
+      "tags": [],
+      "prerequisites": []
+    }
+  ]
+}

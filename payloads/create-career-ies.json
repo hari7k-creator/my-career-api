@@ -1,0 +1,490 @@
+{
+  "name": "UPSC Engineering Services (IES)",
+  "slug": "upsc-ies",
+  "description": "Technical leadership across Indian Railways, Central Engineering Services, Defense, Power, and Telecommunications. Manage macro infrastructure, border connectivity, and national technical assets.",
+  "category": "civil",
+  "difficulty": "elite",
+  "tags": [
+    "upsc",
+    "engineering",
+    "infrastructure",
+    "railways",
+    "cpwd",
+    "public-service",
+    "technical-governance",
+    "blueprint"
+  ],
+  "skills": [
+    "Structural & Systems Engineering",
+    "Public Procurement & Contract Law",
+    "Macro Infrastructure Project Management",
+    "Asset Lifecycle & Safety Auditing",
+    "Techno-Economic Feasibility Analysis",
+    "Engineering Ethics & Disaster Resilience"
+  ],
+  "content_blocks": [
+    {
+      "type": "hero",
+      "title": "UPSC Engineering Services Examination (ESE/IES) \u2014 Master Architecture",
+      "content": {
+        "kicker": "UNION PUBLIC SERVICE COMMISSION \u00b7 ENGINEERING SERVICES (ESE/IES)",
+        "subtitle": "Combined 3-Stage Engineering Merit Blueprint (1,300 Marks Total)",
+        "description": "End-to-end architectural blueprint of the UPSC Engineering Services Examination (ESE/IES). Unlike Civil Services (CSE), Stage 01 (Prelims) marks are cumulative and carried directly forward into the final grand merit tally of 1,300 marks across written papers and the personality interview.",
+        "scale": "1,300 Marks (Cumulative Merit)",
+        "stage": "Stages 01, 02 & 03 (All Count for Rank)",
+        "total_papers": "4 Written Papers + Interview",
+        "written_merit": "1,100 MARKS (500 Prelims + 600 Mains)",
+        "interview": "200 MARKS",
+        "grand_total": "1,300 MARKS"
+      }
+    },
+    {
+      "type": "macro_metrics",
+      "title": "Macro Statistics",
+      "content": {
+        "metrics": [
+          {
+            "label": "Grand Merit Ledger",
+            "value": "1,300 M",
+            "sub": "500 Prelims + 600 Mains + 200 Interview",
+            "highlight": true
+          },
+          {
+            "label": "Prelims Cumulative Share",
+            "value": "500 M",
+            "sub": "38.5% of final rank (Carried Forward!)"
+          },
+          {
+            "label": "Mains Conventional Share",
+            "value": "600 M",
+            "sub": "46.1% of final rank (Two 300M Papers)"
+          },
+          {
+            "label": "Interview Merit Share",
+            "value": "200 M",
+            "sub": "15.4% technical board assessment"
+          }
+        ]
+      }
+    },
+    {
+      "type": "merit_bar",
+      "title": "Three-Stage Merit Compilation \u2014 1,300 Total Marks",
+      "content": {
+        "dim_note": "Cumulative Merit Structure \u00b7 Every Stage Determines Final Service Allotment",
+        "breakdown_written": "Written Total (Prelims + Mains): 1,100 Marks (84.6%)",
+        "breakdown_interview": "Personality Test: 200 Marks (15.4%)",
+        "total_num": "1,300",
+        "total_txt": "GRAND EVALUATION BASE (PRELIMS + MAINS + INTERVIEW)",
+        "segments": [
+          {
+            "code": "P-I",
+            "name": "GS & Aptitude (Prelims)",
+            "marks": "200M",
+            "percentage": "15.4%",
+            "fill": "fill-a",
+            "flexGrow": 1
+          },
+          {
+            "code": "P-II",
+            "name": "Discipline Core (Prelims)",
+            "marks": "300M",
+            "percentage": "23.1%",
+            "fill": "fill-a",
+            "flexGrow": 1.5
+          },
+          {
+            "code": "M-I",
+            "name": "Conventional Paper I",
+            "marks": "300M",
+            "percentage": "23.1%",
+            "fill": "fill-b",
+            "flexGrow": 1.5
+          },
+          {
+            "code": "M-II",
+            "name": "Conventional Paper II",
+            "marks": "300M",
+            "percentage": "23.1%",
+            "fill": "fill-b",
+            "flexGrow": 1.5
+          },
+          {
+            "code": "INT",
+            "name": "Personality Test",
+            "marks": "200M",
+            "percentage": "15.4%",
+            "fill": "fill-c",
+            "flexGrow": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "blueprint_section",
+      "title": "Stage 01 \u2014 Objective Preliminary Examination (500 Marks)",
+      "content": {
+        "kicker": "STAGE 01 \u00b7 OBJECTIVE SCREENING & MERIT COMPILATION",
+        "badge": "500 MARKS \u00b7 CUMULATIVE MERIT SHARE (38.5%)",
+        "scale": "500 / 1,300 Marks",
+        "weight": "38.5% of Final Rank",
+        "papers_count": "2 Objective Papers",
+        "description": "Administered in OMR objective mode across two sessions on a single day. CRITICAL DISTINCTION: Unlike the Civil Services Examination, marks obtained in ESE Stage 01 are NOT discarded; they contribute 38.5% to the final All-India rank ledger.",
+        "papers": [
+          {
+            "code": "PAPER I \u00b7 GENERAL STUDIES & APTITUDE",
+            "name": "General Studies & Engineering Aptitude",
+            "marks": "200 Marks",
+            "meta": "100 MCQs \u00b7 2 Hours Duration \u00b7 +2.0 / -0.66 Penalty",
+            "desc": "Tests holistic technical awareness, ethical responsibility, environmental stewardship, project management, and information technologies.",
+            "topics": [
+              "Current issues of national and international importance relating to socio-economic development",
+              "Engineering Aptitude covering Logical Reasoning, Analytical Ability, and Spatial Visualization",
+              "Engineering Mathematics (Linear Algebra, Calculus, Differential Equations, Numerical Methods)",
+              "General Principles of Design, Drawing, and Importance of Safety",
+              "Standards and Quality practices in production, construction, maintenance and services",
+              "Basics of Energy and Environment: Conservation, pollution control, Climate Change, EIA",
+              "Project Management basics, Information and Communication Technologies (ICT), and Ethics"
+            ],
+            "tags": [
+              "100 MCQs",
+              "Engg Mathematics",
+              "Project Mgmt",
+              "Ethics & Safety"
+            ],
+            "highlight": true
+          },
+          {
+            "code": "PAPER II \u00b7 DISCIPLINE CORE",
+            "name": "Engineering Discipline Objective Paper",
+            "marks": "300 Marks",
+            "meta": "150 MCQs \u00b7 3 Hours Duration \u00b7 +2.0 / -0.66 Penalty",
+            "desc": "Deep technical objective test in the chosen engineering discipline: Civil, Mechanical, Electrical, or Electronics & Telecommunications.",
+            "topics": [
+              "Comprehensive coverage of undergraduate engineering curriculum across all core subjects",
+              "Theoretical principles, formula derivations, and standard empirical relationships",
+              "High-speed numerical problem solving without calculator assistance",
+              "Standard codes of practice (IS / IEC / ASME / IEEE guidelines)",
+              "Material science, structural analysis, circuit theory, and thermodynamics"
+            ],
+            "tags": [
+              "150 MCQs",
+              "No Calculator",
+              "3 Hours",
+              "Discipline Core"
+            ],
+            "border_class": "cyan-border"
+          }
+        ],
+        "callout": {
+          "type": "warning",
+          "title": "Cumulative Scoring & Negative Marking Warning",
+          "text": "Every incorrect answer incurs a deduction of 1/3rd (-33.33%) of the assigned marks. Because Stage 01 marks are carried forward into the final rank list, candidates cannot treat Prelims as a mere pass/fail threshold. A lead of 40\u201350 marks in Stage 01 often proves insurmountable in the final service allotment."
+        }
+      }
+    },
+    {
+      "type": "qualifying_gateway",
+      "title": "Engineering Cadres & Qualifying Stream Gateways",
+      "content": {
+        "badge": "4 CORE ENGINEERING STREAMS \u00b7 UPSC STATUTORY NOTICE",
+        "warning": "Candidates must hold a recognized Engineering Degree (B.E. / B.Tech) or pass Sections A & B of the Institution Examinations (AMIE) in the appropriate discipline.",
+        "cards": [
+          {
+            "title": "Civil Engineering Cadres",
+            "description": "Indian Railway Management Service (IRMS-Civil), Central Public Works Department (CPWD), Military Engineer Services (MES), Border Roads Organisation (BRO).",
+            "max_marks": "1,300",
+            "time": "3 Stages",
+            "passing_min": "Merit Cutoff"
+          },
+          {
+            "title": "Mechanical Engineering Cadres",
+            "description": "Indian Railway Management Service (IRMS-Mech), Indian Defense Service of Engineers (IDSE), Geological Survey of India, Central Water Engineering Service.",
+            "max_marks": "1,300",
+            "time": "3 Stages",
+            "passing_min": "Merit Cutoff"
+          },
+          {
+            "title": "Electrical Engineering Cadres",
+            "description": "IRMS-Electrical, Central Power Engineering Service (CPES), Military Engineer Services, Indian Naval Armament Service (INAS).",
+            "max_marks": "1,300",
+            "time": "3 Stages",
+            "passing_min": "Merit Cutoff"
+          },
+          {
+            "title": "Electronics & Telecom Cadres",
+            "description": "Indian Radio Regulatory Service, Indian Telecommunication Service (ITS), Wireless Planning and Coordination, Defense Aeronautical Quality Assurance.",
+            "max_marks": "1,300",
+            "time": "3 Stages",
+            "passing_min": "Merit Cutoff"
+          }
+        ]
+      }
+    },
+    {
+      "type": "blueprint_section",
+      "title": "Stage 02 \u2014 Conventional Technical Examination (600 Marks)",
+      "content": {
+        "kicker": "STAGE 02 \u00b7 SUBJECTIVE CONVENTIONAL PAPERS",
+        "badge": "600 MARKS \u00b7 46.1% OF MERIT LEDGER",
+        "scale": "600 / 1,300 Marks",
+        "weight": "46.1% of Final Rank",
+        "papers_count": "2 Subjective Papers (300M Each)",
+        "description": "Two 3-hour subjective written papers in the candidate chosen engineering discipline. Tests analytical derivations, numerical proofs, structural design problems, and technical drawing standards. Non-programmable scientific calculators are permitted.",
+        "papers": [
+          {
+            "code": "PAPER I \u00b7 CONVENTIONAL PART A",
+            "name": "Discipline Technical Paper I",
+            "marks": "300 Marks",
+            "meta": "8 Questions (Attempt 5) \u00b7 3 Hours \u00b7 Calculator Permitted",
+            "desc": "Tests fundamental physical principles, foundational equations, analytical proofs, and structural calculations.",
+            "topics": [
+              "Civil: Building Materials, Solid Mechanics, Structural Analysis, Steel & Concrete Design",
+              "Mechanical: Thermodynamics, Fluid Mechanics, Heat Transfer, IC Engines & Power Plant",
+              "Electrical: Circuit Analysis, Electromagnetic Fields, Electrical Materials, Measurements & Instrumentation",
+              "Electronics: Basic Electronics, Analog & Digital Circuits, Materials & Components, Signals & Systems"
+            ],
+            "tags": [
+              "300 Marks",
+              "Calculators Permitted",
+              "Analytical Derivations",
+              "3 Hours"
+            ],
+            "highlight": true
+          },
+          {
+            "code": "PAPER II \u00b7 CONVENTIONAL PART B",
+            "name": "Discipline Technical Paper II",
+            "marks": "300 Marks",
+            "meta": "8 Questions (Attempt 5) \u00b7 3 Hours \u00b7 Calculator Permitted",
+            "desc": "Advanced systems, applied field engineering, environmental systems, telecommunications, and digital control.",
+            "topics": [
+              "Civil: Geotechnical Engineering, Water Resources, Environmental Engineering, Transportation & Surveying",
+              "Mechanical: Theory of Machines, Machine Design, Manufacturing & Industrial Engineering",
+              "Electrical: Control Systems, Electrical Machines, Power Systems, Power Electronics & Drives",
+              "Electronics: Network Protocols, Control Systems, Communications Engineering, Computer Architecture"
+            ],
+            "tags": [
+              "300 Marks",
+              "Applied Systems",
+              "Field Engineering",
+              "Design Codes"
+            ],
+            "border_class": "cyan-border"
+          }
+        ],
+        "callout": {
+          "type": "gold",
+          "title": "Conventional Answer Architecture & Step-Marking",
+          "text": "UPSC awards marks for step-by-step mathematical reasoning, stated assumptions, free-body diagrams, and explicit units. Neatly labeled sketches with standard engineering notations receive substantial bonus consideration compared to raw numerical answers without intermediate work."
+        }
+      }
+    },
+    {
+      "type": "schedule",
+      "title": "Two-Stage Written Examination Protocol Schedule",
+      "content": {
+        "sub": "Total 4 Written Papers across Prelims & Mains + Personality Interview",
+        "days": [
+          {
+            "day_no": "PRELIMS FN",
+            "session": "Paper I: GS & Engineering Aptitude\n[Objective OMR]",
+            "hrs": "2 Hours \u00b7 200 Marks",
+            "qual": true
+          },
+          {
+            "day_no": "PRELIMS AN",
+            "session": "Paper II: Engineering Discipline Core\n[Objective OMR]",
+            "hrs": "3 Hours \u00b7 300 Marks",
+            "qual": true
+          },
+          {
+            "day_no": "MAINS FN",
+            "session": "Conventional Technical Paper I\n[Written Descriptive]",
+            "hrs": "3 Hours \u00b7 300 Marks"
+          },
+          {
+            "day_no": "MAINS AN",
+            "session": "Conventional Technical Paper II\n[Written Descriptive]",
+            "hrs": "3 Hours \u00b7 300 Marks"
+          },
+          {
+            "day_no": "STAGE 03",
+            "session": "Personality Test & Technical Interview\n[Dholpur House Board]",
+            "hrs": "30\u201345 Mins \u00b7 200 Marks"
+          }
+        ]
+      }
+    },
+    {
+      "type": "blueprint_section",
+      "title": "Stage 03 \u2014 Personality Test & Final Technical Ledger (200 Marks)",
+      "content": {
+        "kicker": "STAGE 03 \u00b7 DHOLPUR HOUSE TECHNICAL INTERVIEW",
+        "badge": "200 MARKS \u00b7 15.4% OF MERIT LEDGER",
+        "scale": "200 / 1,300 Marks",
+        "weight": "15.4% of Final Rank",
+        "papers_count": "1 Board Session",
+        "description": "The culminating stage conducted at UPSC Headquarters, Dholpur House, New Delhi. An eminent board consisting of UPSC members, senior chief engineers, and technical ministry advisors assesses professional acumen, leadership, and public safety ethics.",
+        "papers": [
+          {
+            "code": "INTERVIEW BOARD",
+            "name": "The ESE Technical Personality Board",
+            "marks": "200 Marks",
+            "meta": "5-Member Board \u00b7 30\u201345 Minutes \u00b7 UPSC HQ, New Delhi",
+            "desc": "Evaluates engineering judgment, integrity, handling of public emergencies, knowledge of national infrastructure initiatives, and field project management.",
+            "topics": [
+              "Technical problem solving on practical engineering dilemmas (e.g. bridge collapse, power grid failure)",
+              "Knowledge of National Infrastructure Pipeline (NIP), Gati Shakti, and smart governance programs",
+              "Leadership composure, moral integrity, public safety ethics, and contract transparency",
+              "DAF scrutiny: engineering final-year project, industrial training, and cadre preferences"
+            ],
+            "tags": [
+              "200 Marks",
+              "Technical Judgment",
+              "DAF Defense",
+              "Safety Ethics"
+            ],
+            "highlight": true
+          },
+          {
+            "code": "FINAL LEDGER",
+            "name": "All-India Merit Ledger & Service Allocation",
+            "marks": "1,300 Marks Total",
+            "meta": "500 Prelims + 600 Mains + 200 Interview",
+            "desc": "Rank determination across the four engineering disciplines for gazetted Group A appointments under the Government of India.",
+            "topics": [
+              "Civil Engineering: Top ranks allocated to IRMS-Civil, CPWD, and Military Engineer Services",
+              "Mechanical Engineering: Allotments across IRMS-Mech, IDSE, and Central Water Engineering",
+              "Electrical Engineering: Cadres in IRMS-Elec, CPES, and Naval Armament Service",
+              "Electronics & Telecom: Allotments to Indian Telecommunication Service (ITS) and Radio Regulatory"
+            ],
+            "tags": [
+              "Group A Gazetted",
+              "Cadre Allotment",
+              "IRMS / CPWD / MES",
+              "Ministry Postings"
+            ],
+            "border_class": "gold-border"
+          }
+        ],
+        "callout": {
+          "type": "warning",
+          "title": "Service Allotment & Cadre Seniority",
+          "text": "Final service preference and cadre allocation are determined strictly by the 1,300-mark cumulative tally. Top scorers secure first-choice services such as IRMS and CPWD, granting immediate executive authority as Assistant Executive Engineers (AEE) in Junior Time Scale."
+        }
+      }
+    },
+    {
+      "type": "requirements",
+      "title": "Statutory Eligibility & Qualifications",
+      "content": {
+        "prerequisites": [
+          "Nationality: Must be a citizen of India, subject of Nepal/Bhutan, or eligible Tibetan refugee.",
+          "Educational Qualification: Degree in Engineering (B.E. / B.Tech) from a recognized University, or passed Sections A & B of the Institution Examinations of the Institution of Engineers (India).",
+          "Age Limit (as of 1st January of examination year): 21 to 30 years (relaxable up to 35 for SC/ST, 33 for OBC, and up to 35 for departmental candidates).",
+          "Physical Fitness: Candidates must pass the rigorous medical fitness examination as per the Regulations for Physical Examination of Candidates."
+        ]
+      }
+    }
+  ],
+  "roadmap": [
+    {
+      "title": "Undergraduate Core Mastery & Engineering Mathematics",
+      "description": "Master core engineering subjects from standard textbooks and complete engineering mathematics and general aptitude.",
+      "estimated_months": 4,
+      "status": "completed",
+      "dependencies": [],
+      "resources": [],
+      "tags": [
+        "math",
+        "engineering",
+        "aptitude",
+        "undergrad"
+      ],
+      "prerequisites": []
+    },
+    {
+      "title": "Stage 01 Objective Question Practice & Formula Fluency",
+      "description": "Solve past 15 years ESE Prelims papers and build speed solving objective MCQs without a calculator.",
+      "estimated_months": 3,
+      "status": "in-progress",
+      "dependencies": [],
+      "resources": [],
+      "tags": [
+        "prelims",
+        "mcqs",
+        "no-calculator",
+        "speed"
+      ],
+      "prerequisites": []
+    },
+    {
+      "title": "General Studies & Engineering Aptitude Synthesis",
+      "description": "Study energy and environment, safety standards, project management, ethics, and current technical developments.",
+      "estimated_months": 2,
+      "status": "todo",
+      "dependencies": [],
+      "resources": [],
+      "tags": [
+        "ethics",
+        "environment",
+        "project-mgmt",
+        "safety"
+      ],
+      "prerequisites": []
+    },
+    {
+      "title": "Stage 02 Conventional Numerical Derivation & Design Problems",
+      "description": "Practice step-by-step answer writing with non-programmable scientific calculators adhering to IS/IEC codes.",
+      "estimated_months": 4,
+      "status": "todo",
+      "dependencies": [],
+      "resources": [],
+      "tags": [
+        "conventional",
+        "derivations",
+        "calculator",
+        "design-codes"
+      ],
+      "prerequisites": []
+    },
+    {
+      "title": "Full-Length Simulation Regimen (Prelims & Mains Mocks)",
+      "description": "Simulate back-to-back testing days to build physical stamina, mental clarity, and calculation speed.",
+      "estimated_months": 2,
+      "status": "todo",
+      "dependencies": [],
+      "resources": [],
+      "tags": [
+        "mocks",
+        "simulation",
+        "stamina",
+        "timing"
+      ],
+      "prerequisites": []
+    },
+    {
+      "title": "DAF Technical Defense & Dholpur House Mock Panels",
+      "description": "Scrub project details in DAF, review national infrastructure initiatives, and attend mock interview panels.",
+      "estimated_months": 1,
+      "status": "todo",
+      "dependencies": [],
+      "resources": [],
+      "tags": [
+        "interview",
+        "daf",
+        "dholpur-house",
+        "infrastructure"
+      ],
+      "prerequisites": []
+    }
+  ],
+  "metrics": {
+    "duration_months": 18,
+    "entry_threshold": "B.E. / B.Tech in Civil, Mech, Elec, or E&T",
+    "compensation": "\u20b956,100 \u2013 \u20b92,25,000+ (Level 10 to Level 17 Apex)",
+    "selection_ratio": "1 : 500 (0.2%)",
+    "total_marks": 1300
+  }
+}

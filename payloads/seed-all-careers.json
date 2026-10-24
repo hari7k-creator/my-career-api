@@ -1,0 +1,2670 @@
+{
+  "careers": [
+    {
+      "name": "UPSC Civil Services (IAS)",
+      "slug": "upsc-ias",
+      "description": "End-to-end architectural blueprint of the UPSC Civil Services Examination (CSE). Spans the 400-mark Preliminary screening gate (GS & CSAT), the compulsory qualifying language papers, the 1,750-mark written Mains core (Essay, GS I\u2013IV, Optionals), and the 275-mark Dholpur House Personality Test for All-India rank determination.",
+      "category": "civil",
+      "difficulty": "elite",
+      "tags": [
+        "government",
+        "administration",
+        "policy",
+        "leadership",
+        "public-service",
+        "blueprint"
+      ],
+      "skills": [
+        "Public Administration",
+        "Constitutional Law",
+        "Crisis Governance",
+        "Policy Analysis",
+        "Stakeholder Management",
+        "Administrative Law"
+      ],
+      "metrics": {
+        "duration_months": 18,
+        "entry_threshold": "Top 180 for IAS (out of ~1M applicants)",
+        "compensation": "\u20b956,100 \u2013 \u20b92,50,000+ (Cabinet Secretary)",
+        "selection_ratio": "1 : 1,000 (0.1%)",
+        "total_marks": 2025
+      },
+      "content_blocks": [
+        {
+          "type": "hero",
+          "title": "Civil Services Examination (CSE) \u2014 Master Blueprint",
+          "content": {
+            "kicker": "UNION PUBLIC SERVICE COMMISSION \u00b7 CIVIL SERVICES",
+            "subtitle": "Comprehensive End-to-End Blueprint (Prelims to Interview)",
+            "description": "Unified master blueprint spanning the initial 400-mark Preliminary screening gates, the compulsory qualifying language threshold, the 1,750-mark written Mains core (Essay, GS I\u2013IV, Optionals), and the 275-mark Dholpur House Personality Test for All-India Service rank determination.",
+            "scale": "2,025 Marks (Merit) + 400 Marks (Prelims)",
+            "stage": "Prelims \u00b7 Mains \u00b7 Personality Test",
+            "total_papers": "11 Papers (2 Prelims + 2 Qual + 7 Merit)",
+            "written_merit": "1,750 MARKS (Papers I\u2013VII)",
+            "interview": "275 MARKS",
+            "grand_total": "2,025 MARKS"
+          }
+        },
+        {
+          "type": "macro_metrics",
+          "title": "Macro Statistics",
+          "content": {
+            "metrics": [
+              {
+                "label": "Total Evaluation Base",
+                "value": "2,025 M",
+                "sub": "1,750 Written Merit + 275 Personality Test",
+                "highlight": true
+              },
+              {
+                "label": "Prelims Screening Filter",
+                "value": "400 M",
+                "sub": "Paper I (GS 200M) + Paper II (CSAT 200M) \u00b7 98.5% Attrition"
+              },
+              {
+                "label": "Qualifying Language Gate",
+                "value": "600 M",
+                "sub": "Paper A (Indian Lang 300M) + Paper B (English 300M) \u00b7 25% Min"
+              },
+              {
+                "label": "Core Written Merit",
+                "value": "1,750 M",
+                "sub": "Essay (250M) + GS I\u2013IV (1,000M) + Optional (500M)"
+              }
+            ]
+          }
+        },
+        {
+          "type": "blueprint_section",
+          "title": "Stage 01 \u2014 Preliminary Examination & CSAT Filter",
+          "content": {
+            "kicker": "STAGE 01 \u00b7 SCREENING GATE & NEGATIVE MARKING ANATOMY",
+            "badge": "400 MARKS TOTAL \u00b7 OBJECTIVE OMR",
+            "scale": "400 Marks (Screening Only)",
+            "weight": "Non-Merit (Qualifying Only)",
+            "papers_count": "2 Papers (200M Each)",
+            "description": "The objective screening threshold administered across twin 2-hour OMR sessions on a single day. Marks obtained in the Preliminary examination serve exclusively to qualify candidates for Mains admission and are not credited in the final All-India rank ledger.",
+            "metrics": [
+              {
+                "label": "Cutoff Decider",
+                "value": "Paper I (GS)",
+                "sub": "Score determines admission to Mains examination"
+              },
+              {
+                "label": "CSAT Floor",
+                "value": "33.34%",
+                "sub": "Mandatory 66.67 / 200 marks minimum qualifying threshold"
+              },
+              {
+                "label": "Penalty Multiplier",
+                "value": "-0.33",
+                "sub": "1/3rd mark penalty deduction for each incorrect MCQ"
+              },
+              {
+                "label": "Screening Funnel",
+                "value": "~1.3%",
+                "sub": "~13,000 candidates qualify out of ~1,000,000 applicants",
+                "highlight": true
+              }
+            ],
+            "papers": [
+              {
+                "code": "PAPER I \u00b7 SCREENING RANK",
+                "name": "General Studies Paper I",
+                "marks": "200 Marks",
+                "meta": "100 MCQs \u00b7 2 Hours Duration \u00b7 +2.0 Correct / -0.66 Penalty",
+                "desc": "The pivotal cut-off decider. Evaluates conceptual depth, factual awareness, interdisciplinary synthesis, and Indian & global governance domains.",
+                "topics": [
+                  "Current events of national and international importance",
+                  "History of India and Indian National Movement",
+                  "Indian and World Geography: Physical, Social, Economic Geography of India & the World",
+                  "Indian Polity and Governance: Constitution, Political System, Panchayati Raj, Public Policy, Rights Issues",
+                  "Economic and Social Development: Sustainable Development, Poverty, Inclusion, Demographics, Social Sector Initiatives",
+                  "General issues on Environmental Ecology, Biodiversity, and Climate Change",
+                  "General Science & Technological advancements"
+                ],
+                "tags": [
+                  "Cutoff Decider",
+                  "Negative Marking (-0.66)",
+                  "OMR Format",
+                  "100 Questions"
+                ],
+                "highlight": true
+              },
+              {
+                "code": "PAPER II \u00b7 QUALIFYING GATE",
+                "name": "General Studies Paper II (CSAT)",
+                "marks": "200 Marks",
+                "meta": "80 MCQs \u00b7 2 Hours Duration \u00b7 +2.5 Correct / -0.83 Penalty",
+                "desc": "Civil Services Aptitude Test. Mandatory qualifying paper requiring minimum 33% (66.67 marks) to ensure analytical, logical, and linguistic competence.",
+                "topics": [
+                  "Reading Comprehension (complex inference, tone, main idea, assumption extraction)",
+                  "Interpersonal skills including communication skills & situational awareness",
+                  "Logical reasoning, deductive syllogisms, and analytical ability",
+                  "Decision making, problem solving, and administrative judgment",
+                  "General mental ability and spatial/sequence reasoning",
+                  "Basic numeracy (numbers, relations, orders of magnitude, Class X level)",
+                  "Data interpretation (charts, graphs, tables, data sufficiency, Class X level)"
+                ],
+                "tags": [
+                  "Qualifying (33% Floor)",
+                  "80 Questions",
+                  "Negative Marking (-0.83)",
+                  "Class X Numeracy"
+                ],
+                "border_class": "gold-border"
+              }
+            ],
+            "callout": {
+              "type": "warning",
+              "title": "Negative Marking Anatomy (1/3rd Rule)",
+              "text": "Every incorrect response incurs an automatic penalty of 33.33% of the marks assigned to that question. In Paper I: +2.00 marks for correct, -0.66 marks for incorrect. In Paper II: +2.50 marks for correct, -0.83 marks for incorrect. Unattempted questions carry zero penalty. Marking multiple options for an item is scored as an incorrect response even if one selected bubble is correct."
+            }
+          }
+        },
+        {
+          "type": "merit_bar",
+          "title": "Stage 02 \u2014 Master Merit Bar (Seven Papers + Personality Test)",
+          "content": {
+            "dim_note": "Dimensioned Merit Allocation \u00b7 2,025 Total Marks",
+            "breakdown_written": "1,750 Marks (86.4%)",
+            "breakdown_interview": "275 Marks (13.6%)",
+            "total_num": "2,025",
+            "total_txt": "TOTAL EVALUATION BASE (WRITTEN + INTERVIEW)",
+            "segments": [
+              {
+                "code": "P-I",
+                "name": "Essay",
+                "marks": "250M",
+                "percentage": "12.3%",
+                "fill": "fill-a",
+                "flexGrow": 1
+              },
+              {
+                "code": "P-II",
+                "name": "GS I",
+                "marks": "250M",
+                "percentage": "12.3%",
+                "fill": "fill-a",
+                "flexGrow": 1
+              },
+              {
+                "code": "P-III",
+                "name": "GS II",
+                "marks": "250M",
+                "percentage": "12.3%",
+                "fill": "fill-a",
+                "flexGrow": 1
+              },
+              {
+                "code": "P-IV",
+                "name": "GS III",
+                "marks": "250M",
+                "percentage": "12.3%",
+                "fill": "fill-a",
+                "flexGrow": 1
+              },
+              {
+                "code": "P-V",
+                "name": "GS IV",
+                "marks": "250M",
+                "percentage": "12.3%",
+                "fill": "fill-a",
+                "flexGrow": 1
+              },
+              {
+                "code": "P-VI",
+                "name": "OPT 1",
+                "marks": "250M",
+                "percentage": "12.3%",
+                "fill": "fill-b",
+                "flexGrow": 1
+              },
+              {
+                "code": "P-VII",
+                "name": "OPT 2",
+                "marks": "250M",
+                "percentage": "12.3%",
+                "fill": "fill-b",
+                "flexGrow": 1
+              },
+              {
+                "code": "INT",
+                "name": "Personality",
+                "marks": "275M",
+                "percentage": "13.6%",
+                "fill": "fill-c",
+                "flexGrow": 1.1
+              }
+            ]
+          }
+        },
+        {
+          "type": "qualifying_gateway",
+          "title": "Stage 02 \u00b7 Part 01 \u2014 Qualifying Language Gateway",
+          "content": {
+            "badge": "25% QUALIFYING THRESHOLD \u00b7 STATUTORY ELIMINATION",
+            "warning": "CRITICAL STATUTORY NOTE (RULE 15): If a candidate fails to secure 25% (75/300) in EITHER Paper A or Paper B, their merit papers (Papers I\u2013VII) WILL NOT BE EVALUATED. The candidate is summarily disqualified regardless of performance.",
+            "cards": [
+              {
+                "title": "Paper A \u00b7 Indian Language",
+                "description": "Selected from languages included in the 8th Schedule of the Constitution. Comprehension, pr\u00e9cis writing, vocabulary, translation to/from English, and short essay.",
+                "max_marks": "300",
+                "time": "3 Hours",
+                "passing_min": "75 (25%)"
+              },
+              {
+                "title": "Paper B \u00b7 English Language",
+                "description": "Compulsory English language proficiency paper. Assesses candidate capacity to read and understand serious discursive prose, and express ideas clearly and correctly in English.",
+                "max_marks": "300",
+                "time": "3 Hours",
+                "passing_min": "75 (25%)"
+              }
+            ]
+          }
+        },
+        {
+          "type": "blueprint_section",
+          "title": "Stage 02 \u00b7 Part 02 \u2014 Essay & General Studies Core",
+          "content": {
+            "kicker": "STAGE 02 \u00b7 GENERALIST WRITTEN CORE (PAPERS I\u2013V)",
+            "badge": "1,250 MARKS \u00b7 61.7% OF MERIT LEDGER",
+            "scale": "1,250 / 2,025 Marks",
+            "weight": "61.7% Total Merit",
+            "papers_count": "5 Papers (250M Each)",
+            "description": "Detailed schematic of the five written generalist papers. Encompassing the Essay (Paper I) and General Studies Papers I through IV, this block forms the primary analytical foundation of the Civil Services Mains.",
+            "papers": [
+              {
+                "code": "PAPER I",
+                "name": "The Essay",
+                "marks": "250 Marks",
+                "meta": "2 Thematic Essays \u00b7 3 Hours \u00b7 1,000\u20131,200 Words Each",
+                "desc": "Tests coherence, philosophical depth, multidimensional argumentation, and structural clarity across Section A (Philosophical/Abstract) and Section B (Socio-Economic/Administrative).",
+                "topics": [
+                  "Section A: Philosophical, epistemological, or abstract introspective propositions",
+                  "Section B: Socio-economic, administrative, geopolitical, or institutional dimensions",
+                  "Multidisciplinary linkages across ethics, history, polity, environment, and culture",
+                  "Coherent structural transitions: Thesis, Antithesis, Synthesis, and Pragmatic Policy Roadmaps"
+                ],
+                "tags": [
+                  "2 Essays",
+                  "125M Each",
+                  "Philosophical Synthesis",
+                  "Administrative Perspective"
+                ],
+                "highlight": true
+              },
+              {
+                "code": "PAPER II",
+                "name": "General Studies I (Heritage, History, Society & Geography)",
+                "marks": "250 Marks",
+                "meta": "20 Questions (10M & 15M) \u00b7 3 Hours Duration",
+                "desc": "Indian Heritage and Culture, History and Geography of the World and Society. Spans ancient heritage through modern socio-geographical dynamics.",
+                "topics": [
+                  "Indian Culture: Salient aspects of Art Forms, Literature, and Architecture from ancient to modern times",
+                  "Modern Indian History from mid-18th century until present; Freedom Struggle & various stages",
+                  "Post-independence consolidation, reorganization within the country, and World History",
+                  "Salient features of Indian Society, Diversity of India, Role of women, Population & developmental issues",
+                  "Effects of Globalization on Indian society; Social empowerment, Communalism, Regionalism & Secularism",
+                  "Salient features of world Physical Geography; Distribution of key natural resources across the globe",
+                  "Important Geophysical phenomena (Earthquakes, Tsunami, Volcanic activity, Cyclone), geographical features & changes"
+                ],
+                "tags": [
+                  "Ancient & Modern History",
+                  "Indian Society",
+                  "Physical & Human Geography",
+                  "Art & Architecture"
+                ]
+              },
+              {
+                "code": "PAPER III",
+                "name": "General Studies II (Governance, Constitution, Polity & IR)",
+                "marks": "250 Marks",
+                "meta": "20 Questions (10M & 15M) \u00b7 3 Hours Duration",
+                "desc": "Governance, Constitution, Polity, Social Justice and International Relations. Focuses on institutional checks, statutory bodies, and global diplomatic posture.",
+                "topics": [
+                  "Indian Constitution: Historical underpinnings, evolution, features, amendments, significant provisions & basic structure",
+                  "Functions and responsibilities of the Union and the States, issues pertaining to federal structure, devolution of powers",
+                  "Separation of powers between various organs, dispute redressal mechanisms, and institutions",
+                  "Comparison of the Indian constitutional scheme with that of other countries",
+                  "Parliament and State Legislatures: Structure, functioning, conduct of business, powers & privileges",
+                  "Statutory, regulatory, and various quasi-judicial bodies; Representation of People Act",
+                  "Welfare schemes for vulnerable sections; Issues relating to poverty, hunger, health, and education",
+                  "India and its neighborhood relations; Bilateral, regional and global groupings and agreements involving India"
+                ],
+                "tags": [
+                  "Constitutional Law",
+                  "Federalism",
+                  "Public Policy",
+                  "International Relations",
+                  "Social Justice"
+                ]
+              },
+              {
+                "code": "PAPER IV",
+                "name": "General Studies III (Economy, Tech, Environment, Security)",
+                "marks": "250 Marks",
+                "meta": "20 Questions (10M & 15M) \u00b7 3 Hours Duration",
+                "desc": "Technology, Economic Development, Bio-diversity, Environment, Security and Disaster Management. Dynamic applied paper with heavy current affairs nexus.",
+                "topics": [
+                  "Indian Economy and issues relating to planning, mobilization of resources, growth, development, and employment",
+                  "Inclusive growth and issues arising from it; Government Budgeting",
+                  "Major crop patterns, different types of irrigation, storage, transport & marketing of agricultural produce; E-technology",
+                  "Issues related to direct and indirect farm subsidies, minimum support prices, PDS objectives, food security",
+                  "Science and Technology: Developments and applications in everyday life; Indigenization of technology; AI, Robotics, Space",
+                  "Conservation, environmental pollution and degradation, environmental impact assessment",
+                  "Disaster and disaster management: Sendai framework, national policy, risk mitigation",
+                  "Linkages between development and spread of extremism; Role of external state and non-state actors in security threats",
+                  "Challenges to internal security through communication networks, cyber security, money-laundering & border management"
+                ],
+                "tags": [
+                  "Indian Economy",
+                  "Science & Tech",
+                  "Internal Security",
+                  "Biodiversity",
+                  "Disaster Mgmt"
+                ]
+              },
+              {
+                "code": "PAPER V",
+                "name": "General Studies IV (Ethics, Integrity & Aptitude)",
+                "marks": "250 Marks",
+                "meta": "Section A (Theory) + Section B (6 Case Studies) \u00b7 3 Hours",
+                "desc": "Tests candidates attitude, integrity, moral reasoning, and conflict resolution capacity in public service through theoretical principles and complex case simulations.",
+                "topics": [
+                  "Ethics and Human Interface: Essence, determinants and consequences of Ethics in human actions; Dimensions of ethics",
+                  "Human Values: Lessons from the lives and teachings of great leaders, reformers and administrators",
+                  "Attitude: Content, structure, function; Its influence and relation with thought and behaviour; Moral and political attitudes",
+                  "Aptitude and foundational values for Civil Service: Integrity, impartiality, non-partisanship, objectivity, dedication",
+                  "Emotional Intelligence: Concepts and utilities, application in administration and governance",
+                  "Contributions of moral thinkers and philosophers from India and world",
+                  "Public/Civil service values and Ethics in Public administration: Dilemmas, ethical concerns in government institutions",
+                  "Probity in Governance: Concept of public service, philosophical basis of governance and probity, Citizen Charters, RTI, Work culture",
+                  "Section B: Six Applied Administrative Case Studies on conflicts of interest, corruption, whistleblowing, and mob crisis"
+                ],
+                "tags": [
+                  "Applied Ethics",
+                  "6 Case Studies",
+                  "Emotional Intelligence",
+                  "Probity in Governance"
+                ]
+              }
+            ],
+            "callout": {
+              "type": "gold",
+              "title": "Core Answer Architecture & Directive Verbs",
+              "text": "Every GS question belongs to one of two structural templates: 10-Mark Questions (150 words / ~7 minutes) and 15-Mark Questions (250 words / ~10.5 minutes). Candidate responses must directly address the specific directive verb: Discuss requires a balanced multidimensional exploration; Critically Examine demands investigating hidden assumptions, flaws, and counter-arguments; Elucidate requires clarity through concrete administrative examples and empirical data."
+            }
+          }
+        },
+        {
+          "type": "blueprint_section",
+          "title": "Stage 02 \u00b7 Part 03 \u2014 Optional Subject Specialization",
+          "content": {
+            "kicker": "STAGE 02 \u00b7 SPECIALIST ACADEMIC DISCIPLINE (PAPERS VI & VII)",
+            "badge": "500 MARKS \u00b7 24.7% OF MERIT LEDGER",
+            "scale": "500 / 2,025 Marks",
+            "weight": "24.7% Total Merit",
+            "papers_count": "2 Papers (250M Each)",
+            "description": "Specialized deep-dive into a single chosen discipline from the 48 approved UPSC subjects. Spans theoretical foundations in Paper I to applied contemporary empirical analysis in Paper II.",
+            "papers": [
+              {
+                "code": "PAPER VI",
+                "name": "Optional Paper I (Foundations & Theoretical Doctrines)",
+                "marks": "250 Marks",
+                "meta": "8 Questions (Select 5) \u00b7 3 Hours \u00b7 Compulsory Q1 & Q5",
+                "desc": "Evaluates mastery of foundational theoretical frameworks, seminal thinkers, principles, methodological schools, and canonical doctrines of the discipline.",
+                "topics": [
+                  "Comprehensive conceptual architecture of the chosen discipline",
+                  "Seminal thinkers, evolutionary milestones, and theoretical paradigms",
+                  "Epistemological debates, comparative methodologies, and foundational critiques",
+                  "Compulsory Question 1: Five short 10-mark conceptual notes covering entire syllabus breadth",
+                  "Sectional depth questions demanding rigorous academic synthesis and canonical citation"
+                ],
+                "tags": [
+                  "Theoretical Depth",
+                  "Seminal Thinkers",
+                  "Compulsory Q1",
+                  "Postgraduate Rigor"
+                ],
+                "border_class": "cyan-border"
+              },
+              {
+                "code": "PAPER VII",
+                "name": "Optional Paper II (Applied Dimensions & Indian Context)",
+                "marks": "250 Marks",
+                "meta": "8 Questions (Select 5) \u00b7 3 Hours \u00b7 Compulsory Q1 & Q5",
+                "desc": "Applied dimensions, case studies, Indian context, contemporary policy problems, and critical empirical analysis.",
+                "topics": [
+                  "Application of theoretical concepts to contemporary Indian institutional & societal realities",
+                  "Empirical case studies, governmental committee reports, and policy reforms",
+                  "Interdisciplinary nexus with constitutional provisions, socio-economic challenges, and field governance",
+                  "Compulsory Question 5: Five short 10-mark applied problems in Indian administrative context",
+                  "Advanced critical evaluation integrating current data, juristic verdicts, and academic scholarship"
+                ],
+                "tags": [
+                  "Indian Context",
+                  "Applied Policy",
+                  "Case Studies",
+                  "Compulsory Q5"
+                ],
+                "border_class": "gold-border"
+              }
+            ],
+            "callout": {
+              "type": "info",
+              "title": "Optional Selection Clusters & Benchmark Scoring",
+              "text": "Candidates select one optional subject from 48 recognized disciplines categorized into Humanities (PSIR, Sociology, Geography, History, Public Administration, Anthropology, Philosophy), Sciences & Engineering (Mathematics, Physics, Chemistry, Electrical/Civil/Mechanical Engineering, Medical Science), and Literatures (48 languages). A cumulative score of 280\u2013310+ marks out of 500 across Papers VI and VII is historically essential for securing a Top 100 All-India Rank."
+            }
+          }
+        },
+        {
+          "type": "schedule",
+          "title": "Stage 02 \u00b7 5-Day Examination Protocol Schedule",
+          "content": {
+            "sub": "Total 9 Papers \u00b7 Two 3-Hour Sessions Per Day (Forenoon 09:00\u201312:00 | Afternoon 14:30\u201317:30)",
+            "days": [
+              {
+                "day_no": "DAY 01",
+                "session": "Paper I (Essay)\n[Afternoon: Rest]",
+                "hrs": "3 Hrs \u00b7 250M"
+              },
+              {
+                "day_no": "DAY 02",
+                "session": "Paper II (GS I)\nPaper III (GS II)",
+                "hrs": "6 Hrs \u00b7 500M"
+              },
+              {
+                "day_no": "DAY 03",
+                "session": "Paper IV (GS III)\nPaper V (GS IV Ethics)",
+                "hrs": "6 Hrs \u00b7 500M"
+              },
+              {
+                "day_no": "DAY 04",
+                "session": "Paper A (Indian Lang)\nPaper B (English)",
+                "hrs": "6 Hrs \u00b7 Qualifying",
+                "qual": true
+              },
+              {
+                "day_no": "DAY 05",
+                "session": "Paper VI (Optional I)\nPaper VII (Optional II)",
+                "hrs": "6 Hrs \u00b7 500M"
+              }
+            ]
+          }
+        },
+        {
+          "type": "blueprint_section",
+          "title": "Stage 03 \u2014 Personality Test & Final Merit Ledger",
+          "content": {
+            "kicker": "STAGE 03 \u00b7 FINAL EVALUATION GATE (275 MARKS)",
+            "badge": "275 MARKS \u00b7 13.6% MERIT SHARE \u00b7 DHOLPUR HOUSE",
+            "scale": "275 / 2,025 Marks",
+            "weight": "13.6% Total Merit",
+            "papers_count": "1 Board Session",
+            "description": "The culminating stage of the Civil Services Examination conducted at UPSC Headquarters, Dholpur House, New Delhi. An oral interview before a board of competent and unbiased observers to assess personal suitability for public governance.",
+            "papers": [
+              {
+                "code": "INTERVIEW BOARD",
+                "name": "The Dholpur House Personality Board",
+                "marks": "275 Marks",
+                "meta": "5-Member Board \u00b7 30\u201345 Minutes \u00b7 UPSC HQ, New Delhi",
+                "desc": "A directed and purposive conversation rather than a strict cross-examination. Probes candidate mental caliber, intellectual integrity, and social cohesion.",
+                "topics": [
+                  "Mental alertness and critical powers of assimilation under high-pressure inquiry",
+                  "Clear and logical exposition with balanced, mature judgment on controversial national dilemmas",
+                  "Variety and depth of interest, intellectual curiosity, and social cohesion posture",
+                  "DAF-I & DAF-II scrutiny: Detailed Application Form detailing home state, hobbies, achievements & academic path",
+                  "Integrity, moral courage, leadership temperament, and constitutional commitment"
+                ],
+                "tags": [
+                  "5-Member Board",
+                  "DAF Scrutiny",
+                  "Mental Alertness",
+                  "Balance of Judgment"
+                ],
+                "highlight": true
+              },
+              {
+                "code": "FINAL LEDGER",
+                "name": "The All-India Merit Ledger & Service Allocation",
+                "marks": "2,025 Marks Grand Total",
+                "meta": "Written (1,750M) + Personality Test (275M)",
+                "desc": "Cumulative score determines candidate All-India Rank (AIR) and subsequent allocation into prestigious constitutional and central services.",
+                "topics": [
+                  "Indian Administrative Service (IAS): Top ranks (~180 cadres allocated annually across State cadres)",
+                  "Indian Foreign Service (IFS): Top ranks (~35 diplomats appointed to Ministry of External Affairs)",
+                  "Indian Police Service (IPS): Top ranks (~200 officers allocated across State Police cadres)",
+                  "Central Group A Services: IRS (IT & Customs), IA&AS, IDAS, IRTS, IPOS (~500+ appointments)",
+                  "Tie-breaking protocol: Higher marks in written papers prioritized; if equal, candidate senior in age ranked higher"
+                ],
+                "tags": [
+                  "Rank 1\u20131000",
+                  "Cadre Allocation",
+                  "IAS / IFS / IPS / IRS",
+                  "DoPT Cadre Rules"
+                ],
+                "border_class": "gold-border"
+              }
+            ],
+            "callout": {
+              "type": "warning",
+              "title": "Interview Scoring Bands & Conversion Multipliers",
+              "text": "Interview scores typically range from 130 to 215+ marks out of 275. A score above 190 marks (69%+) provides a tremendous competitive swing that can elevate a candidate by 100 to 200 All-India ranks, frequently converting a borderline Mains result into an elite Top 50 service allocation."
+            }
+          }
+        },
+        {
+          "type": "requirements",
+          "title": "Statutory Eligibility & Attempt Regulations",
+          "content": {
+            "prerequisites": [
+              "Nationality: Must be a citizen of India for IAS, IFS, and IPS. For other services, candidate may be a subject of Nepal/Bhutan or eligible refugee.",
+              "Educational Qualification: Degree of any recognized University incorporated by an Act of the Central or State Legislature, or equivalent qualification.",
+              "Age Limit & Attempt Limits (as of August 1 of examination year):",
+              "\u2022 General Category: 21 to 32 years of age \u00b7 Maximum 6 Attempts",
+              "\u2022 Other Backward Classes (OBC): 21 to 35 years of age \u00b7 Maximum 9 Attempts",
+              "\u2022 Scheduled Castes & Scheduled Tribes (SC/ST): 21 to 37 years of age \u00b7 Unlimited Attempts",
+              "\u2022 Persons with Benchmark Disabilities (PwBD): 21 to 42 years of age \u00b7 9 Attempts (General/OBC) or Unlimited (SC/ST)"
+            ]
+          }
+        }
+      ],
+      "roadmap": [
+        {
+          "title": "NCERT Core Foundation & Generalist Grounding",
+          "description": "Master Class VI\u2013XII NCERT textbooks across History, Geography, Polity, and Economics. Establish newspaper analysis habit (The Hindu / Indian Express).",
+          "status": "completed",
+          "estimated_months": 3,
+          "dependencies": [],
+          "resources": [],
+          "tags": [],
+          "prerequisites": []
+        },
+        {
+          "title": "CSAT Analytical Mastery & Prelims Question Testing",
+          "description": "Solve 10 years of CSAT papers. Weekly mock test regimen targeting 110+ in GS Paper I and 90+ in CSAT Paper II.",
+          "status": "in-progress",
+          "estimated_months": 3,
+          "dependencies": [],
+          "resources": [],
+          "tags": [],
+          "prerequisites": []
+        },
+        {
+          "title": "Mains General Studies Core & Integrated Current Affairs",
+          "description": "Daily 2-hour answer writing practice covering GS Papers I through IV. Master the 10-mark (150 words) and 15-mark (250 words) frameworks.",
+          "status": "todo",
+          "estimated_months": 4,
+          "dependencies": [],
+          "resources": [],
+          "tags": [],
+          "prerequisites": []
+        },
+        {
+          "title": "Optional Subject Specialization & Theoretical Depth",
+          "description": "Complete syllabus of chosen optional subject across Papers I & II. Solve past 15 years question papers with canonical citations.",
+          "status": "todo",
+          "estimated_months": 3,
+          "dependencies": [],
+          "resources": [],
+          "tags": [],
+          "prerequisites": []
+        },
+        {
+          "title": "Full-Length Simulation Regimen & Speed Iteration",
+          "description": "Simulate the grueling 5-day examination timetable (two 3-hour papers per day) under strict exam conditions to build physical & mental stamina.",
+          "status": "todo",
+          "estimated_months": 2,
+          "dependencies": [],
+          "resources": [],
+          "tags": [],
+          "prerequisites": []
+        },
+        {
+          "title": "DAF Deep-Scrubbing & Dholpur House Board Simulation",
+          "description": "Formulate exhaustive Q&A briefs on every entry in DAF-I and DAF-II (home district, hobbies, service preferences). Attend 4\u20135 mock interview panels.",
+          "status": "todo",
+          "estimated_months": 1,
+          "dependencies": [],
+          "resources": [],
+          "tags": [],
+          "prerequisites": []
+        }
+      ]
+    },
+    {
+      "name": "UPSC Engineering Services (IES)",
+      "slug": "upsc-ies",
+      "description": "Technical leadership across Indian Railways, Central Engineering Services, Defense, Power, and Telecommunications. Manage macro infrastructure, border connectivity, and national technical assets.",
+      "category": "civil",
+      "difficulty": "elite",
+      "tags": [
+        "upsc",
+        "engineering",
+        "infrastructure",
+        "railways",
+        "cpwd",
+        "public-service",
+        "technical-governance",
+        "blueprint"
+      ],
+      "skills": [
+        "Structural & Systems Engineering",
+        "Public Procurement & Contract Law",
+        "Macro Infrastructure Project Management",
+        "Asset Lifecycle & Safety Auditing",
+        "Techno-Economic Feasibility Analysis",
+        "Engineering Ethics & Disaster Resilience"
+      ],
+      "content_blocks": [
+        {
+          "type": "hero",
+          "title": "UPSC Engineering Services Examination (ESE/IES) \u2014 Master Architecture",
+          "content": {
+            "kicker": "UNION PUBLIC SERVICE COMMISSION \u00b7 ENGINEERING SERVICES (ESE/IES)",
+            "subtitle": "Combined 3-Stage Engineering Merit Blueprint (1,300 Marks Total)",
+            "description": "End-to-end architectural blueprint of the UPSC Engineering Services Examination (ESE/IES). Unlike Civil Services (CSE), Stage 01 (Prelims) marks are cumulative and carried directly forward into the final grand merit tally of 1,300 marks across written papers and the personality interview.",
+            "scale": "1,300 Marks (Cumulative Merit)",
+            "stage": "Stages 01, 02 & 03 (All Count for Rank)",
+            "total_papers": "4 Written Papers + Interview",
+            "written_merit": "1,100 MARKS (500 Prelims + 600 Mains)",
+            "interview": "200 MARKS",
+            "grand_total": "1,300 MARKS"
+          }
+        },
+        {
+          "type": "macro_metrics",
+          "title": "Macro Statistics",
+          "content": {
+            "metrics": [
+              {
+                "label": "Grand Merit Ledger",
+                "value": "1,300 M",
+                "sub": "500 Prelims + 600 Mains + 200 Interview",
+                "highlight": true
+              },
+              {
+                "label": "Prelims Cumulative Share",
+                "value": "500 M",
+                "sub": "38.5% of final rank (Carried Forward!)"
+              },
+              {
+                "label": "Mains Conventional Share",
+                "value": "600 M",
+                "sub": "46.1% of final rank (Two 300M Papers)"
+              },
+              {
+                "label": "Interview Merit Share",
+                "value": "200 M",
+                "sub": "15.4% technical board assessment"
+              }
+            ]
+          }
+        },
+        {
+          "type": "merit_bar",
+          "title": "Three-Stage Merit Compilation \u2014 1,300 Total Marks",
+          "content": {
+            "dim_note": "Cumulative Merit Structure \u00b7 Every Stage Determines Final Service Allotment",
+            "breakdown_written": "Written Total (Prelims + Mains): 1,100 Marks (84.6%)",
+            "breakdown_interview": "Personality Test: 200 Marks (15.4%)",
+            "total_num": "1,300",
+            "total_txt": "GRAND EVALUATION BASE (PRELIMS + MAINS + INTERVIEW)",
+            "segments": [
+              {
+                "code": "P-I",
+                "name": "GS & Aptitude (Prelims)",
+                "marks": "200M",
+                "percentage": "15.4%",
+                "fill": "fill-a",
+                "flexGrow": 1
+              },
+              {
+                "code": "P-II",
+                "name": "Discipline Core (Prelims)",
+                "marks": "300M",
+                "percentage": "23.1%",
+                "fill": "fill-a",
+                "flexGrow": 1.5
+              },
+              {
+                "code": "M-I",
+                "name": "Conventional Paper I",
+                "marks": "300M",
+                "percentage": "23.1%",
+                "fill": "fill-b",
+                "flexGrow": 1.5
+              },
+              {
+                "code": "M-II",
+                "name": "Conventional Paper II",
+                "marks": "300M",
+                "percentage": "23.1%",
+                "fill": "fill-b",
+                "flexGrow": 1.5
+              },
+              {
+                "code": "INT",
+                "name": "Personality Test",
+                "marks": "200M",
+                "percentage": "15.4%",
+                "fill": "fill-c",
+                "flexGrow": 1
+              }
+            ]
+          }
+        },
+        {
+          "type": "blueprint_section",
+          "title": "Stage 01 \u2014 Objective Preliminary Examination (500 Marks)",
+          "content": {
+            "kicker": "STAGE 01 \u00b7 OBJECTIVE SCREENING & MERIT COMPILATION",
+            "badge": "500 MARKS \u00b7 CUMULATIVE MERIT SHARE (38.5%)",
+            "scale": "500 / 1,300 Marks",
+            "weight": "38.5% of Final Rank",
+            "papers_count": "2 Objective Papers",
+            "description": "Administered in OMR objective mode across two sessions on a single day. CRITICAL DISTINCTION: Unlike the Civil Services Examination, marks obtained in ESE Stage 01 are NOT discarded; they contribute 38.5% to the final All-India rank ledger.",
+            "papers": [
+              {
+                "code": "PAPER I \u00b7 GENERAL STUDIES & APTITUDE",
+                "name": "General Studies & Engineering Aptitude",
+                "marks": "200 Marks",
+                "meta": "100 MCQs \u00b7 2 Hours Duration \u00b7 +2.0 / -0.66 Penalty",
+                "desc": "Tests holistic technical awareness, ethical responsibility, environmental stewardship, project management, and information technologies.",
+                "topics": [
+                  "Current issues of national and international importance relating to socio-economic development",
+                  "Engineering Aptitude covering Logical Reasoning, Analytical Ability, and Spatial Visualization",
+                  "Engineering Mathematics (Linear Algebra, Calculus, Differential Equations, Numerical Methods)",
+                  "General Principles of Design, Drawing, and Importance of Safety",
+                  "Standards and Quality practices in production, construction, maintenance and services",
+                  "Basics of Energy and Environment: Conservation, pollution control, Climate Change, EIA",
+                  "Project Management basics, Information and Communication Technologies (ICT), and Ethics"
+                ],
+                "tags": [
+                  "100 MCQs",
+                  "Engg Mathematics",
+                  "Project Mgmt",
+                  "Ethics & Safety"
+                ],
+                "highlight": true
+              },
+              {
+                "code": "PAPER II \u00b7 DISCIPLINE CORE",
+                "name": "Engineering Discipline Objective Paper",
+                "marks": "300 Marks",
+                "meta": "150 MCQs \u00b7 3 Hours Duration \u00b7 +2.0 / -0.66 Penalty",
+                "desc": "Deep technical objective test in the chosen engineering discipline: Civil, Mechanical, Electrical, or Electronics & Telecommunications.",
+                "topics": [
+                  "Comprehensive coverage of undergraduate engineering curriculum across all core subjects",
+                  "Theoretical principles, formula derivations, and standard empirical relationships",
+                  "High-speed numerical problem solving without calculator assistance",
+                  "Standard codes of practice (IS / IEC / ASME / IEEE guidelines)",
+                  "Material science, structural analysis, circuit theory, and thermodynamics"
+                ],
+                "tags": [
+                  "150 MCQs",
+                  "No Calculator",
+                  "3 Hours",
+                  "Discipline Core"
+                ],
+                "border_class": "cyan-border"
+              }
+            ],
+            "callout": {
+              "type": "warning",
+              "title": "Cumulative Scoring & Negative Marking Warning",
+              "text": "Every incorrect answer incurs a deduction of 1/3rd (-33.33%) of the assigned marks. Because Stage 01 marks are carried forward into the final rank list, candidates cannot treat Prelims as a mere pass/fail threshold. A lead of 40\u201350 marks in Stage 01 often proves insurmountable in the final service allotment."
+            }
+          }
+        },
+        {
+          "type": "qualifying_gateway",
+          "title": "Engineering Cadres & Qualifying Stream Gateways",
+          "content": {
+            "badge": "4 CORE ENGINEERING STREAMS \u00b7 UPSC STATUTORY NOTICE",
+            "warning": "Candidates must hold a recognized Engineering Degree (B.E. / B.Tech) or pass Sections A & B of the Institution Examinations (AMIE) in the appropriate discipline.",
+            "cards": [
+              {
+                "title": "Civil Engineering Cadres",
+                "description": "Indian Railway Management Service (IRMS-Civil), Central Public Works Department (CPWD), Military Engineer Services (MES), Border Roads Organisation (BRO).",
+                "max_marks": "1,300",
+                "time": "3 Stages",
+                "passing_min": "Merit Cutoff"
+              },
+              {
+                "title": "Mechanical Engineering Cadres",
+                "description": "Indian Railway Management Service (IRMS-Mech), Indian Defense Service of Engineers (IDSE), Geological Survey of India, Central Water Engineering Service.",
+                "max_marks": "1,300",
+                "time": "3 Stages",
+                "passing_min": "Merit Cutoff"
+              },
+              {
+                "title": "Electrical Engineering Cadres",
+                "description": "IRMS-Electrical, Central Power Engineering Service (CPES), Military Engineer Services, Indian Naval Armament Service (INAS).",
+                "max_marks": "1,300",
+                "time": "3 Stages",
+                "passing_min": "Merit Cutoff"
+              },
+              {
+                "title": "Electronics & Telecom Cadres",
+                "description": "Indian Radio Regulatory Service, Indian Telecommunication Service (ITS), Wireless Planning and Coordination, Defense Aeronautical Quality Assurance.",
+                "max_marks": "1,300",
+                "time": "3 Stages",
+                "passing_min": "Merit Cutoff"
+              }
+            ]
+          }
+        },
+        {
+          "type": "blueprint_section",
+          "title": "Stage 02 \u2014 Conventional Technical Examination (600 Marks)",
+          "content": {
+            "kicker": "STAGE 02 \u00b7 SUBJECTIVE CONVENTIONAL PAPERS",
+            "badge": "600 MARKS \u00b7 46.1% OF MERIT LEDGER",
+            "scale": "600 / 1,300 Marks",
+            "weight": "46.1% of Final Rank",
+            "papers_count": "2 Subjective Papers (300M Each)",
+            "description": "Two 3-hour subjective written papers in the candidate chosen engineering discipline. Tests analytical derivations, numerical proofs, structural design problems, and technical drawing standards. Non-programmable scientific calculators are permitted.",
+            "papers": [
+              {
+                "code": "PAPER I \u00b7 CONVENTIONAL PART A",
+                "name": "Discipline Technical Paper I",
+                "marks": "300 Marks",
+                "meta": "8 Questions (Attempt 5) \u00b7 3 Hours \u00b7 Calculator Permitted",
+                "desc": "Tests fundamental physical principles, foundational equations, analytical proofs, and structural calculations.",
+                "topics": [
+                  "Civil: Building Materials, Solid Mechanics, Structural Analysis, Steel & Concrete Design",
+                  "Mechanical: Thermodynamics, Fluid Mechanics, Heat Transfer, IC Engines & Power Plant",
+                  "Electrical: Circuit Analysis, Electromagnetic Fields, Electrical Materials, Measurements & Instrumentation",
+                  "Electronics: Basic Electronics, Analog & Digital Circuits, Materials & Components, Signals & Systems"
+                ],
+                "tags": [
+                  "300 Marks",
+                  "Calculators Permitted",
+                  "Analytical Derivations",
+                  "3 Hours"
+                ],
+                "highlight": true
+              },
+              {
+                "code": "PAPER II \u00b7 CONVENTIONAL PART B",
+                "name": "Discipline Technical Paper II",
+                "marks": "300 Marks",
+                "meta": "8 Questions (Attempt 5) \u00b7 3 Hours \u00b7 Calculator Permitted",
+                "desc": "Advanced systems, applied field engineering, environmental systems, telecommunications, and digital control.",
+                "topics": [
+                  "Civil: Geotechnical Engineering, Water Resources, Environmental Engineering, Transportation & Surveying",
+                  "Mechanical: Theory of Machines, Machine Design, Manufacturing & Industrial Engineering",
+                  "Electrical: Control Systems, Electrical Machines, Power Systems, Power Electronics & Drives",
+                  "Electronics: Network Protocols, Control Systems, Communications Engineering, Computer Architecture"
+                ],
+                "tags": [
+                  "300 Marks",
+                  "Applied Systems",
+                  "Field Engineering",
+                  "Design Codes"
+                ],
+                "border_class": "cyan-border"
+              }
+            ],
+            "callout": {
+              "type": "gold",
+              "title": "Conventional Answer Architecture & Step-Marking",
+              "text": "UPSC awards marks for step-by-step mathematical reasoning, stated assumptions, free-body diagrams, and explicit units. Neatly labeled sketches with standard engineering notations receive substantial bonus consideration compared to raw numerical answers without intermediate work."
+            }
+          }
+        },
+        {
+          "type": "schedule",
+          "title": "Two-Stage Written Examination Protocol Schedule",
+          "content": {
+            "sub": "Total 4 Written Papers across Prelims & Mains + Personality Interview",
+            "days": [
+              {
+                "day_no": "PRELIMS FN",
+                "session": "Paper I: GS & Engineering Aptitude\n[Objective OMR]",
+                "hrs": "2 Hours \u00b7 200 Marks",
+                "qual": true
+              },
+              {
+                "day_no": "PRELIMS AN",
+                "session": "Paper II: Engineering Discipline Core\n[Objective OMR]",
+                "hrs": "3 Hours \u00b7 300 Marks",
+                "qual": true
+              },
+              {
+                "day_no": "MAINS FN",
+                "session": "Conventional Technical Paper I\n[Written Descriptive]",
+                "hrs": "3 Hours \u00b7 300 Marks"
+              },
+              {
+                "day_no": "MAINS AN",
+                "session": "Conventional Technical Paper II\n[Written Descriptive]",
+                "hrs": "3 Hours \u00b7 300 Marks"
+              },
+              {
+                "day_no": "STAGE 03",
+                "session": "Personality Test & Technical Interview\n[Dholpur House Board]",
+                "hrs": "30\u201345 Mins \u00b7 200 Marks"
+              }
+            ]
+          }
+        },
+        {
+          "type": "blueprint_section",
+          "title": "Stage 03 \u2014 Personality Test & Final Technical Ledger (200 Marks)",
+          "content": {
+            "kicker": "STAGE 03 \u00b7 DHOLPUR HOUSE TECHNICAL INTERVIEW",
+            "badge": "200 MARKS \u00b7 15.4% OF MERIT LEDGER",
+            "scale": "200 / 1,300 Marks",
+            "weight": "15.4% of Final Rank",
+            "papers_count": "1 Board Session",
+            "description": "The culminating stage conducted at UPSC Headquarters, Dholpur House, New Delhi. An eminent board consisting of UPSC members, senior chief engineers, and technical ministry advisors assesses professional acumen, leadership, and public safety ethics.",
+            "papers": [
+              {
+                "code": "INTERVIEW BOARD",
+                "name": "The ESE Technical Personality Board",
+                "marks": "200 Marks",
+                "meta": "5-Member Board \u00b7 30\u201345 Minutes \u00b7 UPSC HQ, New Delhi",
+                "desc": "Evaluates engineering judgment, integrity, handling of public emergencies, knowledge of national infrastructure initiatives, and field project management.",
+                "topics": [
+                  "Technical problem solving on practical engineering dilemmas (e.g. bridge collapse, power grid failure)",
+                  "Knowledge of National Infrastructure Pipeline (NIP), Gati Shakti, and smart governance programs",
+                  "Leadership composure, moral integrity, public safety ethics, and contract transparency",
+                  "DAF scrutiny: engineering final-year project, industrial training, and cadre preferences"
+                ],
+                "tags": [
+                  "200 Marks",
+                  "Technical Judgment",
+                  "DAF Defense",
+                  "Safety Ethics"
+                ],
+                "highlight": true
+              },
+              {
+                "code": "FINAL LEDGER",
+                "name": "All-India Merit Ledger & Service Allocation",
+                "marks": "1,300 Marks Total",
+                "meta": "500 Prelims + 600 Mains + 200 Interview",
+                "desc": "Rank determination across the four engineering disciplines for gazetted Group A appointments under the Government of India.",
+                "topics": [
+                  "Civil Engineering: Top ranks allocated to IRMS-Civil, CPWD, and Military Engineer Services",
+                  "Mechanical Engineering: Allotments across IRMS-Mech, IDSE, and Central Water Engineering",
+                  "Electrical Engineering: Cadres in IRMS-Elec, CPES, and Naval Armament Service",
+                  "Electronics & Telecom: Allotments to Indian Telecommunication Service (ITS) and Radio Regulatory"
+                ],
+                "tags": [
+                  "Group A Gazetted",
+                  "Cadre Allotment",
+                  "IRMS / CPWD / MES",
+                  "Ministry Postings"
+                ],
+                "border_class": "gold-border"
+              }
+            ],
+            "callout": {
+              "type": "warning",
+              "title": "Service Allotment & Cadre Seniority",
+              "text": "Final service preference and cadre allocation are determined strictly by the 1,300-mark cumulative tally. Top scorers secure first-choice services such as IRMS and CPWD, granting immediate executive authority as Assistant Executive Engineers (AEE) in Junior Time Scale."
+            }
+          }
+        },
+        {
+          "type": "requirements",
+          "title": "Statutory Eligibility & Qualifications",
+          "content": {
+            "prerequisites": [
+              "Nationality: Must be a citizen of India, subject of Nepal/Bhutan, or eligible Tibetan refugee.",
+              "Educational Qualification: Degree in Engineering (B.E. / B.Tech) from a recognized University, or passed Sections A & B of the Institution Examinations of the Institution of Engineers (India).",
+              "Age Limit (as of 1st January of examination year): 21 to 30 years (relaxable up to 35 for SC/ST, 33 for OBC, and up to 35 for departmental candidates).",
+              "Physical Fitness: Candidates must pass the rigorous medical fitness examination as per the Regulations for Physical Examination of Candidates."
+            ]
+          }
+        }
+      ],
+      "roadmap": [
+        {
+          "title": "Undergraduate Core Mastery & Engineering Mathematics",
+          "description": "Master core engineering subjects from standard textbooks and complete engineering mathematics and general aptitude.",
+          "estimated_months": 4,
+          "status": "completed",
+          "dependencies": [],
+          "resources": [],
+          "tags": [
+            "math",
+            "engineering",
+            "aptitude",
+            "undergrad"
+          ],
+          "prerequisites": []
+        },
+        {
+          "title": "Stage 01 Objective Question Practice & Formula Fluency",
+          "description": "Solve past 15 years ESE Prelims papers and build speed solving objective MCQs without a calculator.",
+          "estimated_months": 3,
+          "status": "in-progress",
+          "dependencies": [],
+          "resources": [],
+          "tags": [
+            "prelims",
+            "mcqs",
+            "no-calculator",
+            "speed"
+          ],
+          "prerequisites": []
+        },
+        {
+          "title": "General Studies & Engineering Aptitude Synthesis",
+          "description": "Study energy and environment, safety standards, project management, ethics, and current technical developments.",
+          "estimated_months": 2,
+          "status": "todo",
+          "dependencies": [],
+          "resources": [],
+          "tags": [
+            "ethics",
+            "environment",
+            "project-mgmt",
+            "safety"
+          ],
+          "prerequisites": []
+        },
+        {
+          "title": "Stage 02 Conventional Numerical Derivation & Design Problems",
+          "description": "Practice step-by-step answer writing with non-programmable scientific calculators adhering to IS/IEC codes.",
+          "estimated_months": 4,
+          "status": "todo",
+          "dependencies": [],
+          "resources": [],
+          "tags": [
+            "conventional",
+            "derivations",
+            "calculator",
+            "design-codes"
+          ],
+          "prerequisites": []
+        },
+        {
+          "title": "Full-Length Simulation Regimen (Prelims & Mains Mocks)",
+          "description": "Simulate back-to-back testing days to build physical stamina, mental clarity, and calculation speed.",
+          "estimated_months": 2,
+          "status": "todo",
+          "dependencies": [],
+          "resources": [],
+          "tags": [
+            "mocks",
+            "simulation",
+            "stamina",
+            "timing"
+          ],
+          "prerequisites": []
+        },
+        {
+          "title": "DAF Technical Defense & Dholpur House Mock Panels",
+          "description": "Scrub project details in DAF, review national infrastructure initiatives, and attend mock interview panels.",
+          "estimated_months": 1,
+          "status": "todo",
+          "dependencies": [],
+          "resources": [],
+          "tags": [
+            "interview",
+            "daf",
+            "dholpur-house",
+            "infrastructure"
+          ],
+          "prerequisites": []
+        }
+      ],
+      "metrics": {
+        "duration_months": 18,
+        "entry_threshold": "B.E. / B.Tech in Civil, Mech, Elec, or E&T",
+        "compensation": "\u20b956,100 \u2013 \u20b92,25,000+ (Level 10 to Level 17 Apex)",
+        "selection_ratio": "1 : 500 (0.2%)",
+        "total_marks": 1300
+      }
+    },
+    {
+      "name": "AI & Machine Learning Engineer",
+      "slug": "ai-ml-engineer",
+      "description": "Architect foundation models, fine-tune LLMs, design RAG pipelines, and deploy scalable inference infrastructure.",
+      "category": "tech",
+      "difficulty": "advanced",
+      "tags": [
+        "technology",
+        "ai",
+        "ml",
+        "deep-learning",
+        "llm",
+        "data-science",
+        "generative-ai",
+        "blueprint"
+      ],
+      "skills": [
+        "Python",
+        "PyTorch",
+        "TensorFlow",
+        "Transformer Architectures",
+        "Vector Databases",
+        "RAG Pipelines",
+        "CUDA & TensorRT",
+        "MLOps & Triton"
+      ],
+      "content_blocks": [
+        {
+          "type": "hero",
+          "title": "AI & Machine Learning Engineer \u2014 Technical Architecture Blueprint",
+          "content": {
+            "kicker": "TECHNOLOGY & SYSTEMS ARCHITECTURE \u00b7 AI & MACHINE LEARNING",
+            "subtitle": "Architecting Foundation Models, Generative Systems & Autonomous Intelligence",
+            "description": "End-to-end architectural blueprint of the AI & Machine Learning Engineering pathway. Spans mathematical foundations in linear algebra, deep learning transformer mechanics, parameter-efficient fine-tuning (PEFT), enterprise retrieval-augmented generation (RAG), and high-throughput inference serving with vLLM and TensorRT.",
+            "scale": "40k \u2013 20k+ / \u20b925L\u201370L+",
+            "stage": "Stages 01, 02, 03 & 04",
+            "total_papers": "4 Evaluation Tracks",
+            "written_merit": "Portfolio & Live System Design",
+            "interview": "Architecture & ML Systems",
+            "grand_total": "Senior / Staff Band"
+          }
+        },
+        {
+          "type": "macro_metrics",
+          "title": "Macro Statistics",
+          "content": {
+            "metrics": [
+              {
+                "label": "Base Preparation Horizon",
+                "value": "18\u201324 M",
+                "sub": "Mathematical grounding through production deployment"
+              },
+              {
+                "label": "Compensation Spectrum",
+                "value": "40k \u2013 20k+",
+                "sub": "US: 40k\u201320k+ \u00b7 India: \u20b925L\u2013\u20b970L+ Base + Equity",
+                "highlight": true
+              },
+              {
+                "label": "Core Technology Tracks",
+                "value": "4 Stages",
+                "sub": "Math & Python \u00b7 Deep Learning \u00b7 LLMs/RAG \u00b7 Production MLOps"
+              },
+              {
+                "label": "Industry Selection Bar",
+                "value": "Top 1%",
+                "sub": "Vectorized coding & distributed systems rigor"
+              }
+            ]
+          }
+        },
+        {
+          "type": "merit_bar",
+          "title": "Technical Competency Distribution & Skill Ledger",
+          "content": {
+            "dim_note": "Relative Weighting across Core Production Competencies",
+            "breakdown_written": "Mathematical Foundations & Neural Systems: 70%",
+            "breakdown_interview": "Architecture Design & MLOps Infrastructure: 30%",
+            "total_num": "100%",
+            "total_txt": "PRODUCTION AI READINESS BENCHMARK",
+            "segments": [
+              {
+                "code": "MATH",
+                "name": "Linear Algebra & Calculus",
+                "marks": "15%",
+                "percentage": "15%",
+                "fill": "fill-a",
+                "flexGrow": 1
+              },
+              {
+                "code": "ML",
+                "name": "Classical ML & Modeling",
+                "marks": "20%",
+                "percentage": "20%",
+                "fill": "fill-a",
+                "flexGrow": 1.2
+              },
+              {
+                "code": "DL",
+                "name": "PyTorch & Transformers",
+                "marks": "25%",
+                "percentage": "25%",
+                "fill": "fill-a",
+                "flexGrow": 1.5
+              },
+              {
+                "code": "LLM",
+                "name": "Generative AI & RAG",
+                "marks": "20%",
+                "percentage": "20%",
+                "fill": "fill-b",
+                "flexGrow": 1.2
+              },
+              {
+                "code": "OPS",
+                "name": "MLOps & vLLM Inference",
+                "marks": "20%",
+                "percentage": "20%",
+                "fill": "fill-c",
+                "flexGrow": 1.2
+              }
+            ]
+          }
+        },
+        {
+          "type": "blueprint_section",
+          "title": "Stage 01 \u2014 Mathematical Foundations & Scientific Computing",
+          "content": {
+            "kicker": "STAGE 01 \u00b7 MATHEMATICS & VECTORIZED ALGORITHMS",
+            "badge": "FOUNDATIONAL SCIENTIFIC COMPUTING",
+            "scale": "Core Prerequisite",
+            "weight": "20% Total Competency",
+            "papers_count": "2 Core Modules",
+            "description": "The fundamental mathematical substrate required for modern machine learning. Emphasizes matrix decomposition, vector calculus gradients, numerical stability, and high-performance tensor broadcasting in Python and C++.",
+            "papers": [
+              {
+                "code": "MODULE A \u00b7 LINEAR ALGEBRA & CALCULUS",
+                "name": "Matrix Decompositions & Gradient Optimization",
+                "marks": "100 pts",
+                "meta": "Mathematical Rigor \u00b7 Vector Calculus \u00b7 Convex Optimization",
+                "desc": "Core theoretical foundations powering gradient descent, latent embedding spaces, and dimensionality transformations.",
+                "topics": [
+                  "Vector spaces, subspaces, basis, and linear independence",
+                  "Matrix transformations, Eigenvalues, Eigenvectors, and Spectral Decomposition",
+                  "Singular Value Decomposition (SVD) and Principal Component Analysis (PCA)",
+                  "Multivariable calculus, Jacobian and Hessian matrices, Taylor approximations",
+                  "Convex optimization, Gradient Descent, Momentum, and Adam optimizer dynamics",
+                  "Probability distributions, Maximum Likelihood Estimation (MLE), and Bayesian priors"
+                ],
+                "tags": [
+                  "Linear Algebra",
+                  "SVD & PCA",
+                  "Multivariable Calculus",
+                  "Convex Optimization"
+                ],
+                "highlight": true
+              },
+              {
+                "code": "MODULE B \u00b7 VECTORIZED PYTHON",
+                "name": "High-Performance NumPy & Algorithmics",
+                "marks": "100 pts",
+                "meta": "Vectorized Data Structures \u00b7 Memory Strides \u00b7 Cache Locality",
+                "desc": "Writing vectorized numerical code without slow Python loops, understanding memory strides, contiguous arrays, and cache efficiency.",
+                "topics": [
+                  "NumPy tensor strides, broadcasting rules, and memory layout (C vs Fortran contiguous)",
+                  "Vectorized algorithm design: avoiding iterative loops for matrix calculations",
+                  "Scientific computing with SciPy, sparse matrix representations, and linear solvers",
+                  "Custom autograd function implementation and computational graph construction",
+                  "Complexity profiling with cProfile, line_profiler, and memory_profiler"
+                ],
+                "tags": [
+                  "Vectorization",
+                  "NumPy Strides",
+                  "Computational Graphs",
+                  "Memory Profiling"
+                ],
+                "border_class": "cyan-border"
+              }
+            ],
+            "callout": {
+              "type": "warning",
+              "title": "Vectorization Rule & Numerical Stability",
+              "text": "Explicit for-loops over data samples are prohibited in production pipelines. All data transformations must be vectorized using NumPy or PyTorch tensor broadcasting. Numerical stability techniques\u2014such as Log-Sum-Exp tricks and gradient clipping\u2014must be strictly applied to avoid underflow/overflow during backpropagation."
+            }
+          }
+        },
+        {
+          "type": "blueprint_section",
+          "title": "Stage 02 \u2014 Deep Learning & Transformer Architectures",
+          "content": {
+            "kicker": "STAGE 02 \u00b7 NEURAL NETWORKS & ATTENTION MECHANISMS",
+            "badge": "CORE DEEP LEARNING ARCHITECTURE",
+            "scale": "Advanced Modeling",
+            "weight": "30% Total Competency",
+            "papers_count": "2 Deep Learning Tracks",
+            "description": "Mastery of modern deep neural network architectures, autograd computation engines, convolutional feature extractors, and self-attention mechanisms powering state-of-the-art foundation models.",
+            "papers": [
+              {
+                "code": "MODULE A \u00b7 PYTORCH FOUNDATIONS",
+                "name": "Neural Network Architectures & Autograd",
+                "marks": "100 pts",
+                "meta": "PyTorch Deep Dive \u00b7 Custom Layers \u00b7 GPU Memory Management",
+                "desc": "Implementing custom PyTorch modules, loss functions, CUDA tensor pinning, mixed precision (FP16/BF16), and distributed data parallel (DDP).",
+                "topics": [
+                  "Custom PyTorch nn.Module, autograd functions, and tensor memory management",
+                  "Convolutional Neural Networks (CNNs), residual connections (ResNet), and vision backbones",
+                  "Recurrent models, LSTMs, and sequence-to-sequence encoder-decoder paradigms",
+                  "Normalization layers: BatchNorm, LayerNorm, GroupNorm, and RMSNorm mechanics",
+                  "Automatic Mixed Precision (AMP), gradient scaling, and CUDA out-of-memory mitigation"
+                ],
+                "tags": [
+                  "PyTorch Autograd",
+                  "Mixed Precision (BF16)",
+                  "DDP Training",
+                  "RMSNorm"
+                ],
+                "highlight": true
+              },
+              {
+                "code": "MODULE B \u00b7 TRANSFORMERS & ATTENTION",
+                "name": "Self-Attention & Foundation Model Architecture",
+                "marks": "100 pts",
+                "meta": "Transformer Anatomy \u00b7 Multi-Head Attention \u00b7 Rotary Embeddings",
+                "desc": "Deep structural breakdown of Scaled Dot-Product Attention, Multi-Head Attention (MHA), Grouped-Query Attention (GQA), and positional encodings.",
+                "topics": [
+                  "Scaled Dot-Product Attention: Q, K, V matrix projections and softmax scaling",
+                  "Multi-Head Attention (MHA), Multi-Query Attention (MQA), and Grouped-Query Attention (GQA)",
+                  "Positional embeddings: Sinusoidal, Learned, and Rotary Position Embeddings (RoPE)",
+                  "FlashAttention: IO-aware tiled matrix computation mitigating quadratic memory overhead",
+                  "Mixture of Experts (MoE): Router networks, top-k expert gating, and load balancing"
+                ],
+                "tags": [
+                  "Self-Attention",
+                  "GQA & MQA",
+                  "RoPE",
+                  "FlashAttention",
+                  "MoE"
+                ],
+                "border_class": "gold-border"
+              }
+            ],
+            "callout": {
+              "type": "gold",
+              "title": "Attention Complexity & KV Cache Optimization",
+              "text": "Standard self-attention scales quadratically O(N^2) with sequence length N. Modern production transformer deployments utilize FlashAttention algorithms to exploit SRAM memory locality and maintain a Key-Value (KV) cache during autoregressive decoding to prevent redundant matrix recomputations."
+            }
+          }
+        },
+        {
+          "type": "blueprint_section",
+          "title": "Stage 03 \u2014 Large Language Models, Generative AI & Enterprise RAG",
+          "content": {
+            "kicker": "STAGE 03 \u00b7 GENERATIVE SYSTEMS & RETRIEVAL (LLMs)",
+            "badge": "FOUNDATION MODELS & VECTOR RETRIEVAL",
+            "scale": "Generative AI Specialization",
+            "weight": "30% Total Competency",
+            "papers_count": "2 Applied LLM Tracks",
+            "description": "Advanced generative AI engineering covering parameter-efficient fine-tuning (PEFT), model alignment (DPO/RLHF), semantic vector search, hybrid retrieval pipelines, and production RAG architecture.",
+            "papers": [
+              {
+                "code": "MODULE A \u00b7 PEFT & ALIGNMENT",
+                "name": "LoRA, QLoRA & Foundation Model Adaptation",
+                "marks": "100 pts",
+                "meta": "Parameter-Efficient Fine-Tuning \u00b7 Quantization \u00b7 Alignment",
+                "desc": "Adapting massive foundation models to proprietary enterprise domains with minimal GPU compute using Low-Rank Adaptation and 4-bit quantization.",
+                "topics": [
+                  "LoRA (Low-Rank Adaptation) and QLoRA 4-bit NF4 quantized fine-tuning",
+                  "Tokenizer architecture: Byte-Pair Encoding (BPE), WordPiece, and vocabulary expansion",
+                  "Instruction fine-tuning, dataset formatting, and multi-turn conversation templates",
+                  "Alignment strategies: Reinforcement Learning from Human Feedback (RLHF) and Direct Preference Optimization (DPO)",
+                  "Evaluation benchmarks: MMLU, GSM8k, HumanEval, and LLM-as-a-Judge frameworks"
+                ],
+                "tags": [
+                  "LoRA / QLoRA",
+                  "DPO Alignment",
+                  "Tokenization",
+                  "Benchmark Evaluation"
+                ],
+                "border_class": "cyan-border"
+              },
+              {
+                "code": "MODULE B \u00b7 ENTERPRISE RAG SYSTEMS",
+                "name": "Retrieval-Augmented Generation & Vector DBs",
+                "marks": "100 pts",
+                "meta": "Vector Databases \u00b7 Hybrid Search \u00b7 Re-Ranking \u00b7 Guardrails",
+                "desc": "Constructing fault-tolerant retrieval pipelines that dynamically fetch enterprise knowledge and ground LLM outputs against factual documents.",
+                "topics": [
+                  "Semantic chunking strategies, parent-child documents, and contextual embeddings",
+                  "Vector databases: Qdrant, Pinecone, Milvus, Chroma, and HNSW indexing mechanics",
+                  "Hybrid retrieval: fusing sparse keyword search (BM25) with dense vector embeddings",
+                  "Cross-encoder re-ranking (Cohere, BGE) and contextual compression for noise reduction",
+                  "Agentic workflows, function calling, tool use, and hallucination guardrails (NeMo Guardrails)"
+                ],
+                "tags": [
+                  "Enterprise RAG",
+                  "Vector Databases",
+                  "Hybrid BM25 + Dense",
+                  "Cross-Encoders"
+                ],
+                "border_class": "gold-border"
+              }
+            ],
+            "callout": {
+              "type": "info",
+              "title": "RAG Production Quality & Grounding Framework",
+              "text": "A naive vector search pipeline fails in production due to embedding drift and irrelevant context noise. Modern enterprise RAG systems enforce hybrid search (BM25 + Dense), cross-encoder re-ranking, and dynamic context trimming to guarantee sub-second response times and zero-hallucination factual grounding."
+            }
+          }
+        },
+        {
+          "type": "blueprint_section",
+          "title": "Stage 04 \u2014 Production MLOps, Triton & Low-Latency Serving",
+          "content": {
+            "kicker": "STAGE 04 \u00b7 INFERENCE ACCELERATION & DISTRIBUTED SYSTEMS",
+            "badge": "PRODUCTION INFERENCE ENGINEERING",
+            "scale": "Production Infrastructure",
+            "weight": "20% Total Competency",
+            "papers_count": "2 Infrastructure Tracks",
+            "description": "Packaging deep learning models into ultra-low-latency, high-concurrency microservices deployed across distributed GPU clusters using specialized inference engines.",
+            "papers": [
+              {
+                "code": "MODULE A \u00b7 INFERENCE ACCELERATION",
+                "name": "vLLM, TensorRT-LLM & Triton Inference Server",
+                "marks": "100 pts",
+                "meta": "PagedAttention \u00b7 Continuous Batching \u00b7 Model Quantization",
+                "desc": "Optimizing inference throughput using PagedAttention, TensorRT engine compilation, and multi-model Triton deployment.",
+                "topics": [
+                  "vLLM architecture: PagedAttention algorithm preventing GPU VRAM fragmentation",
+                  "Continuous batching & speculative decoding to double token generation speed",
+                  "NVIDIA TensorRT-LLM and ONNX Runtime compilation for custom kernel fusion",
+                  "Weight quantization: AWQ (Activation-aware Weight Quantization) and GPTQ 4-bit serving",
+                  "NVIDIA Triton Inference Server: dynamic batching, concurrent model execution, and GPU metrics"
+                ],
+                "tags": [
+                  "vLLM",
+                  "PagedAttention",
+                  "TensorRT-LLM",
+                  "Triton",
+                  "AWQ Quantization"
+                ],
+                "highlight": true
+              },
+              {
+                "code": "MODULE B \u00b7 CLUSTER ORCHESTRATION",
+                "name": "Kubernetes GPU Scheduling & MLflow Observability",
+                "marks": "100 pts",
+                "meta": "Cloud GPU Infrastructure \u00b7 Autoscaling \u00b7 Drift Monitoring",
+                "desc": "Orchestrating GPU infrastructure on AWS/GCP, automated canary deployments, model registry management, and continuous data drift monitoring.",
+                "topics": [
+                  "Kubernetes with NVIDIA GPU Operator, resource requests/limits, and node affinities",
+                  "Distributed training & inference with Ray (Ray Train, Ray Serve)",
+                  "Model registry, versioning, and lineage tracking with MLflow and Weights & Biases",
+                  "Real-time observability: Prometheus GPU metrics, Grafana dashboards, and latency percentiles (p95, p99)",
+                  "CI/CD pipelines for automated model weight validation and regression testing"
+                ],
+                "tags": [
+                  "Kubernetes GPU",
+                  "Ray Serve",
+                  "MLflow",
+                  "Prometheus & Grafana",
+                  "CI/CD"
+                ],
+                "border_class": "cyan-border"
+              }
+            ],
+            "callout": {
+              "type": "warning",
+              "title": "SLA Latency Budget & VRAM Fragmentation",
+              "text": "Production LLM APIs enforce strict Service Level Agreements (SLAs): Time-To-First-Token (TTFT) must remain below 150ms and Inter-Token Latency (ITL) below 25ms. PagedAttention must be configured to eliminate the 60\u201380% VRAM waste typical of traditional memory allocators."
+            }
+          }
+        },
+        {
+          "type": "schedule",
+          "title": "Technical Milestone Progression Schedule",
+          "content": {
+            "sub": "Phased 18-Month Mastery Protocol \u00b7 Foundations to Distributed Inference Clusters",
+            "days": [
+              {
+                "day_no": "PHASE 01",
+                "session": "Math & Calculus\nVectorized NumPy",
+                "hrs": "Months 01\u201303 \u00b7 100 pts"
+              },
+              {
+                "day_no": "PHASE 02",
+                "session": "Classical ML\nStatistical Inference",
+                "hrs": "Months 04\u201306 \u00b7 100 pts"
+              },
+              {
+                "day_no": "PHASE 03",
+                "session": "PyTorch & Autograd\nTransformer Attention",
+                "hrs": "Months 07\u201310 \u00b7 100 pts"
+              },
+              {
+                "day_no": "PHASE 04",
+                "session": "LLMs & Fine-Tuning\nEnterprise RAG",
+                "hrs": "Months 11\u201314 \u00b7 100 pts"
+              },
+              {
+                "day_no": "PHASE 05",
+                "session": "vLLM Serving\nKubernetes MLOps",
+                "hrs": "Months 15\u201318 \u00b7 100 pts"
+              }
+            ]
+          }
+        },
+        {
+          "type": "requirements",
+          "title": "Statutory & Industry Engineering Prerequisites",
+          "content": {
+            "prerequisites": [
+              "Academic Background: Bachelor or Master degree in Computer Science, Data Science, Mathematics, Electrical Engineering, or equivalent verified portfolio.",
+              "Core Software Engineering: Proficiency in modular Python, Git, Linux CLI, containerization (Docker), and asynchronous API development (FastAPI/gRPC).",
+              "Mathematical Rigor: Fluency in linear algebra, multivariable gradients, probability distributions, and loss formulation mechanics.",
+              "Model Deployment Portfolio: Production repository demonstrating a fine-tuned model or production RAG pipeline with quantifiable latency & benchmark metrics."
+            ]
+          }
+        }
+      ],
+      "roadmap": [
+        {
+          "title": "Mathematics & Scientific Python Foundations",
+          "description": "Master linear algebra, vector calculus, probability distributions, NumPy vectorization, and data structures.",
+          "estimated_months": 3,
+          "status": "completed",
+          "dependencies": [],
+          "resources": [],
+          "tags": [
+            "python",
+            "math",
+            "statistics"
+          ],
+          "prerequisites": []
+        },
+        {
+          "title": "Classical Machine Learning & Statistical Pipelines",
+          "description": "Build classification, regression, and clustering models using Scikit-Learn and gradient-boosted trees with statistical evaluation.",
+          "estimated_months": 3,
+          "status": "in-progress",
+          "dependencies": [],
+          "resources": [],
+          "tags": [
+            "scikit-learn",
+            "xgboost",
+            "validation"
+          ],
+          "prerequisites": []
+        },
+        {
+          "title": "Deep Learning with PyTorch & Neural Architectures",
+          "description": "Implement backpropagation, CNNs, attention mechanisms, and custom PyTorch training loops with GPU acceleration.",
+          "estimated_months": 4,
+          "status": "todo",
+          "dependencies": [],
+          "resources": [],
+          "tags": [
+            "pytorch",
+            "deep-learning",
+            "transformers"
+          ],
+          "prerequisites": []
+        },
+        {
+          "title": "Foundation Models, LLMs & Retrieval Systems (RAG)",
+          "description": "Fine-tune language models with LoRA/QLoRA, construct semantic search engines with vector databases, and integrate LlamaIndex/LangChain.",
+          "estimated_months": 4,
+          "status": "todo",
+          "dependencies": [],
+          "resources": [],
+          "tags": [
+            "llm",
+            "rag",
+            "lora",
+            "vector-db"
+          ],
+          "prerequisites": []
+        },
+        {
+          "title": "High-Throughput Inference & Quantization",
+          "description": "Optimize inference latency using vLLM, TensorRT-LLM, ONNX Runtime, and 4-bit/8-bit quantization techniques.",
+          "estimated_months": 2,
+          "status": "todo",
+          "dependencies": [],
+          "resources": [],
+          "tags": [
+            "inference",
+            "vllm",
+            "tensorrt",
+            "quantization"
+          ],
+          "prerequisites": []
+        },
+        {
+          "title": "Production MLOps, Orchestration & Observability",
+          "description": "Deploy distributed inference pipelines on Kubernetes, configure automated CI/CD for model weights, and track drift with MLflow.",
+          "estimated_months": 2,
+          "status": "todo",
+          "dependencies": [],
+          "resources": [],
+          "tags": [
+            "mlops",
+            "kubernetes",
+            "docker",
+            "monitoring"
+          ],
+          "prerequisites": []
+        }
+      ],
+      "metrics": {
+        "duration_months": 18,
+        "entry_threshold": "Bachelor's in CS/Related field or Equivalent Portfolio",
+        "compensation": "40k \u2013 20k+ / \u20b925L\u201370L+",
+        "selection_ratio": "High demand",
+        "total_marks": 0
+      }
+    },
+    {
+      "name": "Quantitative Trader",
+      "slug": "quantitative-trader",
+      "description": "Develop mathematical models to identify market inefficiencies and execute algorithmic high-frequency trading strategies.",
+      "category": "finance",
+      "difficulty": "elite",
+      "tags": [
+        "finance",
+        "trading",
+        "quant",
+        "mathematics",
+        "algorithmic",
+        "high-frequency",
+        "stochastic-calculus",
+        "blueprint"
+      ],
+      "skills": [
+        "Probability & Combinatorics",
+        "Stochastic Calculus & It\u00f4 Lemma",
+        "Ultra-Low Latency C++ (C++20)",
+        "Market Microstructure & Order Books",
+        "Statistical Arbitrage & Cointegration",
+        "Risk Management & Kelly Criterion",
+        "Kernel Bypass & Hardware Acceleration"
+      ],
+      "content_blocks": [
+        {
+          "type": "hero",
+          "title": "Quantitative Trader \u2014 Algorithmic & Market Microstructure Blueprint",
+          "content": {
+            "kicker": "QUANTITATIVE SYSTEMS & STOCHASTIC FINANCE \u00b7 PROPRIETARY TRADING",
+            "subtitle": "Mathematical Modeling, Market Microstructure & Sub-Microsecond Execution",
+            "description": "Comprehensive architectural blueprint of the Quantitative Trading pathway. Spans discrete probability distributions, stochastic differential equations, market making order book dynamics, statistical arbitrage signal research, and ultra-low-latency C++ execution engines.",
+            "scale": "50k \u2013 00k+ / \u20b940L\u20132.5Cr+",
+            "stage": "Stages 01, 02, 03 & 04",
+            "total_papers": "4 Quantitative Pillars",
+            "written_merit": "Math Modeling & Backtested Alpha",
+            "interview": "Mental Math, Probability & Market Making Games",
+            "grand_total": "Portfolio Manager / Partner Track"
+          }
+        },
+        {
+          "type": "macro_metrics",
+          "title": "Macro Statistics",
+          "content": {
+            "metrics": [
+              {
+                "label": "Base Preparation Horizon",
+                "value": "24\u201336 M",
+                "sub": "Stochastic calculus, statistical arbitrage & modern C++"
+              },
+              {
+                "label": "Compensation Spectrum",
+                "value": "50k \u2013 00k+",
+                "sub": "Global Prop Desks: 50k\u201300k+ \u00b7 India: \u20b940L\u2013\u20b92.5Cr+ Base + PnL Bonus",
+                "highlight": true
+              },
+              {
+                "label": "Core Quantitative Tracks",
+                "value": "4 Pillars",
+                "sub": "Stochastics \u00b7 Systems C++ \u00b7 Microstructure \u00b7 Alpha Research"
+              },
+              {
+                "label": "Selection Selectivity",
+                "value": "< 0.5%",
+                "sub": "Olympiad (IMO) & Putnam level mathematical intuition"
+              }
+            ]
+          }
+        },
+        {
+          "type": "merit_bar",
+          "title": "Quantitative Competency Distribution & Skill Ledger",
+          "content": {
+            "dim_note": "Relative Weighting across Core Production Trading Competencies",
+            "breakdown_written": "Mathematical Foundations & Systems Architecture: 70%",
+            "breakdown_interview": "Market Intuition, Signal Research & Risk Controls: 30%",
+            "total_num": "100%",
+            "total_txt": "PROPRIETARY TRADING READINESS BENCHMARK",
+            "segments": [
+              {
+                "code": "PROB",
+                "name": "Probability & Stochastics",
+                "marks": "25%",
+                "percentage": "25%",
+                "fill": "fill-a",
+                "flexGrow": 1.25
+              },
+              {
+                "code": "CPP",
+                "name": "Ultra-Low Latency C++",
+                "marks": "25%",
+                "percentage": "25%",
+                "fill": "fill-a",
+                "flexGrow": 1.25
+              },
+              {
+                "code": "LOB",
+                "name": "Market Microstructure",
+                "marks": "20%",
+                "percentage": "20%",
+                "fill": "fill-a",
+                "flexGrow": 1
+              },
+              {
+                "code": "ALPHA",
+                "name": "Statistical Arbitrage",
+                "marks": "20%",
+                "percentage": "20%",
+                "fill": "fill-b",
+                "flexGrow": 1
+              },
+              {
+                "code": "RISK",
+                "name": "Risk & Kelly Criterion",
+                "marks": "10%",
+                "percentage": "10%",
+                "fill": "fill-c",
+                "flexGrow": 0.5
+              }
+            ]
+          }
+        },
+        {
+          "type": "blueprint_section",
+          "title": "Stage 01 \u2014 Probability Theory, Mental Math & Stochastic Calculus",
+          "content": {
+            "kicker": "STAGE 01 \u00b7 PROBABILITY & STOCHASTIC CALCULUS",
+            "badge": "MATHEMATICAL PROBABILITY & MARKOV SYSTEMS",
+            "scale": "Core Mathematical Foundation",
+            "weight": "25% Total Competency",
+            "papers_count": "2 Core Modules",
+            "description": "The rigorous mathematical foundation powering quantitative pricing, risk management, and probabilistic decision-making under uncertainty.",
+            "papers": [
+              {
+                "code": "MODULE A \u00b7 DISCRETE PROBABILITY & GAMES",
+                "name": "Probability Theory, Combinatorics & Martingales",
+                "marks": "100 pts",
+                "meta": "Conditional Expectation \u00b7 Martingales \u00b7 Game Theory",
+                "desc": "Solving complex probability puzzles, stopping times, random walks, and Bayesian probability estimation under intense time pressure.",
+                "topics": [
+                  "Combinatorics, inclusion-exclusion principle, and discrete distributions (Poisson, Binomial, Geometric)",
+                  "Conditional expectation, law of total probability, and Bayesian updating",
+                  "Markov chains, transition probability matrices, stationary distributions, and absorbing states",
+                  "Martingales, Optional Stopping Theorem, and random walk hitting times",
+                  "Game theory: zero-sum games, Nash equilibrium, and Kelly Criterion for optimal capital allocation"
+                ],
+                "tags": [
+                  "Martingales",
+                  "Markov Chains",
+                  "Bayesian Updating",
+                  "Kelly Criterion"
+                ],
+                "highlight": true
+              },
+              {
+                "code": "MODULE B \u00b7 STOCHASTIC CALCULUS",
+                "name": "Continuous-Time Finance & Option Pricing",
+                "marks": "100 pts",
+                "meta": "It\u00f4 Lemma \u00b7 Brownian Motion \u00b7 Black-Scholes PDE",
+                "desc": "Formulating continuous stochastic processes to model asset price evolution, volatility surfaces, and derivative hedging.",
+                "topics": [
+                  "Standard Brownian motion, Wiener processes, and quadratic variation properties",
+                  "It\u00f4\u2019s Lemma and stochastic integration for nonlinear financial instruments",
+                  "Geometric Brownian Motion (GBM) and mean-reverting Ornstein-Uhlenbeck processes",
+                  "Black-Scholes-Merton Partial Differential Equation (PDE) derivation via risk-neutral replication",
+                  "The Greeks (Delta, Gamma, Vega, Theta, Rho) and dynamic volatility surface modeling"
+                ],
+                "tags": [
+                  "It\u00f4 Lemma",
+                  "Brownian Motion",
+                  "Black-Scholes",
+                  "The Greeks"
+                ],
+                "border_class": "cyan-border"
+              }
+            ],
+            "callout": {
+              "type": "warning",
+              "title": "Mental Math & Fast Heuristics Protocol",
+              "text": "Proprietary trading desks (Jane Street, Optiver, Citadel Securities) evaluate candidates on rapid mental arithmetic, expected value estimation in dice/card games, and market making under 15-second time limits. Mathematical intuition must be instantaneous and mathematically sound without reliance on calculators."
+            }
+          }
+        },
+        {
+          "type": "blueprint_section",
+          "title": "Stage 02 \u2014 High-Performance C++, Systems Architecture & FPGA",
+          "content": {
+            "kicker": "STAGE 02 \u00b7 ULTRA-LOW LATENCY SYSTEMS & C++",
+            "badge": "SUB-MICROSECOND EXECUTION ARCHITECTURE",
+            "scale": "Systems Engineering",
+            "weight": "25% Total Competency",
+            "papers_count": "2 Systems Tracks",
+            "description": "Engineering algorithmic execution engines where latency is measured in nanoseconds. Eliminating OS bottlenecks via lock-free programming, cache-line alignment, and kernel bypass networking.",
+            "papers": [
+              {
+                "code": "MODULE A \u00b7 MODERN C++ FOR TRADING",
+                "name": "Lock-Free Algorithms & Memory Alignment",
+                "marks": "100 pts",
+                "meta": "C++20/23 \u00b7 RAII \u00b7 Template Metaprogramming \u00b7 Cache Lines",
+                "desc": "Writing allocation-free, branch-predictable C++ code that executes along the critical trading path without CPU pipeline stalls.",
+                "topics": [
+                  "C++20/23 concepts, move semantics, and zero-overhead template metaprogramming",
+                  "Lock-free data structures: Single-Producer Single-Consumer (SPSC) ring buffers and atomic primitives",
+                  "Memory layout optimization: cache-line alignment (64-byte padding), false sharing prevention, and struct packing",
+                  "Eliminating dynamic heap allocation along the hot path: object pools and stack memory allocators",
+                  "CPU branch prediction optimization: [[likely]] and [[unlikely]] attributes, and inlining policies"
+                ],
+                "tags": [
+                  "Lock-Free SPSC",
+                  "C++20",
+                  "False Sharing",
+                  "Object Pools"
+                ],
+                "highlight": true
+              },
+              {
+                "code": "MODULE B \u00b7 KERNEL BYPASS & NETWORKING",
+                "name": "Kernel Bypass (Solarflare/DPDK) & FPGA Acceleration",
+                "marks": "100 pts",
+                "meta": "Solarflare OpenOnload \u00b7 DPDK \u00b7 FPGA Synthesis \u00b7 ITCH/OUCH",
+                "desc": "Bypassing the standard Linux TCP/IP stack to ingest exchange market data feeds directly into user-space memory with sub-microsecond latency.",
+                "topics": [
+                  "Kernel bypass technologies: Solarflare OpenOnload and Intel DPDK (Data Plane Development Kit)",
+                  "Exchange feed protocols: NASDAQ ITCH (market data multicast) and OUCH (order entry TCP)",
+                  "Ring buffers in shared memory and inter-process communication (IPC) via POSIX shm",
+                  "FPGA (Field-Programmable Gate Array) integration: hardware tick-to-trade logic in Verilog/VHDL",
+                  "High-precision timestamping: PTP (Precision Time Protocol IEEE 1588) and hardware packet capture"
+                ],
+                "tags": [
+                  "Kernel Bypass",
+                  "Solarflare",
+                  "ITCH / OUCH",
+                  "FPGA Tick-to-Trade"
+                ],
+                "border_class": "gold-border"
+              }
+            ],
+            "callout": {
+              "type": "gold",
+              "title": "Nanosecond Latency Budget",
+              "text": "In High-Frequency Trading (HFT), order book tick-to-trade latency is measured in nanoseconds. Any OS kernel context switch, page fault, or dynamic heap malloc() during order evaluation results in queue priority loss and immediate adverse trade execution."
+            }
+          }
+        },
+        {
+          "type": "blueprint_section",
+          "title": "Stage 03 \u2014 Market Microstructure, Order Books & Execution",
+          "content": {
+            "kicker": "STAGE 03 \u00b7 MARKET MICROSTRUCTURE & LIQUIDITY",
+            "badge": "LIMIT ORDER BOOK DYNAMICS & PRICING",
+            "scale": "Market Microstructure",
+            "weight": "25% Total Competency",
+            "papers_count": "2 Trading Tracks",
+            "description": "Analyzing how orders interact inside electronic financial exchanges. Modeling Limit Order Books (LOB), adverse selection, market impact, and automated market-making algorithms.",
+            "papers": [
+              {
+                "code": "MODULE A \u00b7 LIMIT ORDER BOOK MECHANICS",
+                "name": "Order Book Topology & Queue Dynamics",
+                "marks": "100 pts",
+                "meta": "L1/L2/L3 Depth \u00b7 Matching Engines \u00b7 Queue Priority",
+                "desc": "Modeling the discrete auction dynamics of electronic exchanges: price-time priority, pro-rata matching, cancellations, and order book imbalance.",
+                "topics": [
+                  "Level 1 (Top of Book), Level 2 (Aggregated Depth), and Level 3 (Individual Order Queue) data",
+                  "Order book matching engine algorithms: Price-Time Priority (FIFO) vs Pro-Rata matching",
+                  "Order book imbalance (OBI) metrics and short-term price drift forecasting",
+                  "Tick sizes, bid-ask spread constraints, and exchange rebate/fee structures (Maker-Taker)",
+                  "Simulating synthetic limit order books from raw packet PCAP captures"
+                ],
+                "tags": [
+                  "L3 Order Book",
+                  "Order Book Imbalance",
+                  "Matching Engines",
+                  "Maker-Taker"
+                ],
+                "border_class": "cyan-border"
+              },
+              {
+                "code": "MODULE B \u00b7 MARKET MAKING ALGORITHMS",
+                "name": "Liquidity Provision & Avellaneda-Stoikov Model",
+                "marks": "100 pts",
+                "meta": "Inventory Risk \u00b7 Optimal Spreads \u00b7 Adverse Selection",
+                "desc": "Executing automated market-making strategies that harvest the bid-ask spread while dynamically managing inventory risk against informed toxic flow.",
+                "topics": [
+                  "Avellaneda-Stoikov optimal bid-ask quotation model under inventory constraints",
+                  "Glosten-Milgrom and Kyle models of adverse selection from informed traders",
+                  "Inventory decay functions and reservation price skewing to shed toxic position accumulation",
+                  "Algorithmic execution strategies: VWAP (Volume-Weighted Average Price) and TWAP (Time-Weighted)",
+                  "Cross-venue latency arbitrage and dark pool routing dynamics"
+                ],
+                "tags": [
+                  "Avellaneda-Stoikov",
+                  "Inventory Risk",
+                  "Adverse Selection",
+                  "VWAP / TWAP"
+                ],
+                "border_class": "gold-border"
+              }
+            ],
+            "callout": {
+              "type": "info",
+              "title": "Adverse Selection & Toxic Flow",
+              "text": "A naive market maker who quotes symmetric bid-ask spreads will rapidly lose capital due to adverse selection: orders filled immediately are typically informed traders anticipating market moves. Spreads must dynamically skew based on inventory level and high-frequency trade order flow toxicity (VPIN)."
+            }
+          }
+        },
+        {
+          "type": "blueprint_section",
+          "title": "Stage 04 \u2014 Statistical Arbitrage, Alpha Research & Risk Management",
+          "content": {
+            "kicker": "STAGE 04 \u00b7 ALPHA GENERATION & PORTFOLIO RISK",
+            "badge": "STATISTICAL ARBITRAGE & QUANT RESEARCH",
+            "scale": "Alpha Generation & Risk",
+            "weight": "25% Total Competency",
+            "papers_count": "2 Research Tracks",
+            "description": "Identifying quantitative alpha signals across equities, futures, FX, and crypto. Rigorous backtesting to isolate statistically significant predictive edge while avoiding overfitting.",
+            "papers": [
+              {
+                "code": "MODULE A \u00b7 STATISTICAL ARBITRAGE SIGNALS",
+                "name": "Pairs Trading, Cointegration & Momentum",
+                "marks": "100 pts",
+                "meta": "Cointegration \u00b7 Mean Reversion \u00b7 Multi-Factor Models",
+                "desc": "Constructing market-neutral portfolios that generate alpha independent of broad market direction through statistical mean-reversion and cross-asset momentum.",
+                "topics": [
+                  "Time series econometrics: Augmented Dickey-Fuller (ADF) test and Johansen cointegration test",
+                  "Pairs trading and statistical arbitrage: Engle-Granger two-step method and z-score spread trading",
+                  "Cross-asset momentum, lead-lag relationships, and order flow cross-correlation",
+                  "Multi-factor equity risk models: Barra risk models, Fama-French 5-factor model, and PCA factor extraction",
+                  "Machine learning for alpha research: Gradient boosted decision trees on engineered micro-features"
+                ],
+                "tags": [
+                  "Pairs Trading",
+                  "Cointegration",
+                  "Mean Reversion",
+                  "Factor Investing"
+                ],
+                "highlight": true
+              },
+              {
+                "code": "MODULE B \u00b7 RISK MANAGEMENT & OVERFITTING",
+                "name": "Backtest Hygiene, Sharpe Ratios & VaR Controls",
+                "marks": "100 pts",
+                "meta": "Sharpe / Sortino \u00b7 Deflated Sharpe Ratio \u00b7 Value-at-Risk",
+                "desc": "Preventing backtest overfitting (p-hacking) and designing real-time risk throttles to protect trading capital from fat-tailed black swan events.",
+                "topics": [
+                  "Walk-forward cross-validation and Purged K-Fold Cross-Validation for non-stationary financial data",
+                  "Deflated Sharpe Ratio (Bailey & Lopez de Prado) adjusting for multiple testing and selection bias",
+                  "Risk metrics: Sharpe Ratio, Sortino Ratio, Maximum Drawdown (MDD), and Calmar Ratio",
+                  "Value-at-Risk (VaR) and Expected Shortfall (CVaR) under heavy-tailed Student-t distributions",
+                  "Automated circuit breakers, kill-switches, and real-time portfolio gross/net exposure caps"
+                ],
+                "tags": [
+                  "Sharpe Ratio",
+                  "Backtest Hygiene",
+                  "VaR & CVaR",
+                  "Circuit Breakers"
+                ],
+                "border_class": "cyan-border"
+              }
+            ],
+            "callout": {
+              "type": "warning",
+              "title": "The Backtest Overfitting Trap",
+              "text": "A strategy backtest that appears highly profitable in simulation often collapses in production due to lookahead bias, survivorship bias, and failure to factor in realistic slippage, market impact, and exchange exchange fees. Backtests must be subjected to walk-forward validation and deflated Sharpe ratio analysis."
+            }
+          }
+        },
+        {
+          "type": "schedule",
+          "title": "Quantitative Mastery Milestone Progression Schedule",
+          "content": {
+            "sub": "Phased 24 to 36-Month Quantitative Protocol \u00b7 Discrete Math to Sub-Microsecond Production Trading",
+            "days": [
+              {
+                "day_no": "PHASE 01",
+                "session": "Probability & Combinatorics\nMental Math Heuristics",
+                "hrs": "Months 01\u201306 \u00b7 100 pts"
+              },
+              {
+                "day_no": "PHASE 02",
+                "session": "Modern C++ (C++20)\nLock-Free Data Structures",
+                "hrs": "Months 07\u201312 \u00b7 100 pts"
+              },
+              {
+                "day_no": "PHASE 03",
+                "session": "Stochastic Calculus\nOptions & Volatility Greeks",
+                "hrs": "Months 13\u201318 \u00b7 100 pts"
+              },
+              {
+                "day_no": "PHASE 04",
+                "session": "LOB Microstructure\nMarket Making Models",
+                "hrs": "Months 19\u201324 \u00b7 100 pts"
+              },
+              {
+                "day_no": "PHASE 05",
+                "session": "Statistical Arbitrage\nLive Desk Simulation",
+                "hrs": "Months 25\u201330 \u00b7 100 pts"
+              }
+            ]
+          }
+        },
+        {
+          "type": "requirements",
+          "title": "Statutory & Industry Mathematical Prerequisites",
+          "content": {
+            "prerequisites": [
+              "Academic Pedigree: Bachelor, Master, or PhD in Mathematics, Theoretical Physics, Computer Science, Quantitative Finance, or Electrical Engineering from a globally elite institution.",
+              "Competitive Mathematics Background: Proven track record in International Mathematical Olympiad (IMO), Putnam Competition, Codeforces (Master/Grandmaster), or elite competitive programming.",
+              "Systems Software Mastery: Expert-level C++ programming skills with deep comprehension of CPU architectures, memory hierarchy, cache lines, assembly instructions, and multithreading.",
+              "Commercial Mental Discipline: High emotional resilience, risk tolerance, and the ability to make rapid expected-value calculations under financial pressure."
+            ]
+          }
+        }
+      ],
+      "roadmap": [
+        {
+          "title": "Discrete Probability, Combinatorics & Mental Math",
+          "description": "Master probability distributions, martingales, random walks, Bayesian inference, and rapid mental math calculation drills.",
+          "estimated_months": 6,
+          "status": "completed",
+          "dependencies": [],
+          "resources": [],
+          "tags": [
+            "probability",
+            "mental-math",
+            "combinatorics",
+            "martingales"
+          ],
+          "prerequisites": []
+        },
+        {
+          "title": "Modern Ultra-Low-Latency C++ & Systems Architecture",
+          "description": "Master C++20, lock-free ring buffers, cache-line alignment, zero-allocation patterns, and memory-mapped IPC.",
+          "estimated_months": 6,
+          "status": "in-progress",
+          "dependencies": [],
+          "resources": [],
+          "tags": [
+            "cpp",
+            "low-latency",
+            "lock-free",
+            "systems"
+          ],
+          "prerequisites": []
+        },
+        {
+          "title": "Stochastic Calculus, Brownian Motion & Volatility Surfaces",
+          "description": "Implement It\u00f4 Lemma, Geometric Brownian Motion, Black-Scholes PDE, and option Greeks hedging algorithms.",
+          "estimated_months": 6,
+          "status": "todo",
+          "dependencies": [],
+          "resources": [],
+          "tags": [
+            "stochastic-calculus",
+            "options",
+            "ito-lemma",
+            "black-scholes"
+          ],
+          "prerequisites": []
+        },
+        {
+          "title": "Market Microstructure, Order Books & Market Making",
+          "description": "Build L2/L3 order book matching engines, implement Avellaneda-Stoikov inventory models, and model adverse selection.",
+          "estimated_months": 6,
+          "status": "todo",
+          "dependencies": [],
+          "resources": [],
+          "tags": [
+            "microstructure",
+            "order-book",
+            "market-making",
+            "avellaneda-stoikov"
+          ],
+          "prerequisites": []
+        },
+        {
+          "title": "Statistical Arbitrage, Cointegration & Alpha Signal Research",
+          "description": "Develop pairs trading models, Johansen cointegration tests, cross-asset momentum strategies, and multi-factor models.",
+          "estimated_months": 6,
+          "status": "todo",
+          "dependencies": [],
+          "resources": [],
+          "tags": [
+            "stat-arb",
+            "cointegration",
+            "pairs-trading",
+            "alpha"
+          ],
+          "prerequisites": []
+        },
+        {
+          "title": "Backtest Hygiene, Risk Management & Live Desk Preparation",
+          "description": "Implement walk-forward validation, deflated Sharpe ratio analysis, VaR circuit breakers, and practice proprietary trading interviews.",
+          "estimated_months": 4,
+          "status": "todo",
+          "dependencies": [],
+          "resources": [],
+          "tags": [
+            "risk-management",
+            "backtesting",
+            "interview-prep",
+            "sharpe-ratio"
+          ],
+          "prerequisites": []
+        }
+      ],
+      "metrics": {
+        "duration_months": 24,
+        "entry_threshold": "Top quant programs / elite universities / Math Olympiad",
+        "compensation": "Elite base + performance bonus (50k\u201300k+ / \u20b940L\u20132.5Cr+)",
+        "selection_ratio": "Very competitive (<0.5%)",
+        "total_marks": 0
+      }
+    },
+    {
+      "name": "Product Designer",
+      "slug": "product-designer",
+      "description": "Craft intuitive multi-platform user journeys, establish scalable design tokens and UI component libraries.",
+      "category": "design",
+      "difficulty": "intermediate",
+      "tags": [
+        "design",
+        "ui/ux",
+        "product",
+        "research",
+        "design-systems",
+        "interaction-design",
+        "blueprint"
+      ],
+      "skills": [
+        "Figma & Auto Layout",
+        "Interaction Design",
+        "User Research & Usability Testing",
+        "Design Systems & Tokens",
+        "Information Architecture",
+        "WCAG Accessibility",
+        "Prototyping & Motion"
+      ],
+      "content_blocks": [
+        {
+          "type": "hero",
+          "title": "Product Designer \u2014 Experience Architecture & Systems Blueprint",
+          "content": {
+            "kicker": "EXPERIENCE ARCHITECTURE & INTERFACE SYSTEMS \u00b7 PRODUCT DESIGN",
+            "subtitle": "Architecting Multi-Platform User Journeys, Design Tokens & Component Libraries",
+            "description": "End-to-end architectural blueprint of the Product Design discipline. Bridges user psychology, empirical research, atomic design systems, and product metrics to craft digital experiences that balance user satisfaction with scalable business outcomes.",
+            "scale": "5k \u2013 20k+ / \u20b912L\u201345L+",
+            "stage": "Stages 01, 02, 03 & 04",
+            "total_papers": "4 Competency Tracks",
+            "written_merit": "Portfolio Case Studies & System Handoff",
+            "interview": "App Critique & Whiteboard Design",
+            "grand_total": "Lead / Principal Band"
+          }
+        },
+        {
+          "type": "macro_metrics",
+          "title": "Macro Statistics",
+          "content": {
+            "metrics": [
+              {
+                "label": "Base Preparation Horizon",
+                "value": "12\u201318 M",
+                "sub": "Foundational visual design to enterprise design systems"
+              },
+              {
+                "label": "Compensation Spectrum",
+                "value": "5k \u2013 20k+",
+                "sub": "Global: 5k\u201320k+ \u00b7 India: \u20b912L\u2013\u20b945L+ Base + Equity",
+                "highlight": true
+              },
+              {
+                "label": "Core Design Pillars",
+                "value": "4 Pillars",
+                "sub": "Research \u00b7 Interaction \u00b7 Design Systems \u00b7 Product Strategy"
+              },
+              {
+                "label": "Industry Selection Metric",
+                "value": "Portfolio-Led",
+                "sub": "End-to-end case studies with measurable ROI"
+              }
+            ]
+          }
+        },
+        {
+          "type": "merit_bar",
+          "title": "Design Competency Distribution & Skill Ledger",
+          "content": {
+            "dim_note": "Relative Weighting across Core Production Design Competencies",
+            "breakdown_written": "Research, Interaction & Systems: 70%",
+            "breakdown_interview": "Visual Polish & Product Strategy: 30%",
+            "total_num": "100%",
+            "total_txt": "ENTERPRISE PRODUCT DESIGN READINESS",
+            "segments": [
+              {
+                "code": "RES",
+                "name": "UX Research & Testing",
+                "marks": "20%",
+                "percentage": "20%",
+                "fill": "fill-a",
+                "flexGrow": 1
+              },
+              {
+                "code": "IXD",
+                "name": "Interaction & Wireframes",
+                "marks": "25%",
+                "percentage": "25%",
+                "fill": "fill-a",
+                "flexGrow": 1.25
+              },
+              {
+                "code": "SYS",
+                "name": "Design Systems & Tokens",
+                "marks": "25%",
+                "percentage": "25%",
+                "fill": "fill-a",
+                "flexGrow": 1.25
+              },
+              {
+                "code": "VIS",
+                "name": "Visual Polish & Hierarchy",
+                "marks": "15%",
+                "percentage": "15%",
+                "fill": "fill-b",
+                "flexGrow": 0.8
+              },
+              {
+                "code": "STRAT",
+                "name": "Business Strategy & Metrics",
+                "marks": "15%",
+                "percentage": "15%",
+                "fill": "fill-c",
+                "flexGrow": 0.8
+              }
+            ]
+          }
+        },
+        {
+          "type": "blueprint_section",
+          "title": "Stage 01 \u2014 User Research, Discovery & Information Architecture",
+          "content": {
+            "kicker": "STAGE 01 \u00b7 EMPIRICAL RESEARCH & DISCOVERY",
+            "badge": "FOUNDATIONAL DISCOVERY & MENTAL MODELS",
+            "scale": "Core Prerequisite",
+            "weight": "20% Total Competency",
+            "papers_count": "2 Core Modules",
+            "description": "The empirical foundation of product design. Anchors solutions in genuine user psychology through rigorous qualitative inquiry, behavioral telemetry, journey mapping, and structural information hierarchy.",
+            "papers": [
+              {
+                "code": "MODULE A \u00b7 QUALITATIVE & QUANTITATIVE RESEARCH",
+                "name": "User Discovery & Usability Telemetry",
+                "marks": "100 pts",
+                "meta": "Generative Research \u00b7 Evaluative Testing \u00b7 Cohort Analysis",
+                "desc": "Synthesizing raw user problems into structured insights through interviews, surveys, telemetry analytics, and usability benchmarks.",
+                "topics": [
+                  "Semi-structured user interviews and contextual inquiry methods",
+                  "Usability testing protocols: moderated vs unmoderated task analysis",
+                  "Quantitative metrics: System Usability Scale (SUS), Single Ease Question (SEQ), and Task Success Rate",
+                  "Customer Journey Mapping (CJM), empathy matrices, and behavioral persona synthesis",
+                  "Competitive landscape auditing and heuristic feature gap matrices"
+                ],
+                "tags": [
+                  "User Interviews",
+                  "SUS Benchmarks",
+                  "Journey Mapping",
+                  "Evaluative Testing"
+                ],
+                "highlight": true
+              },
+              {
+                "code": "MODULE B \u00b7 INFORMATION ARCHITECTURE",
+                "name": "Mental Models, Ontologies & Navigation",
+                "marks": "100 pts",
+                "meta": "Card Sorting \u00b7 Tree Testing \u00b7 Structural Site Hierarchies",
+                "desc": "Structuring product content and navigation paths to reflect intuitive mental models, minimizing cognitive load and cognitive friction.",
+                "topics": [
+                  "Open and closed card sorting methodologies for taxonomic classification",
+                  "Tree testing for navigational hierarchy validation and category labeling",
+                  "Object-Oriented UX (OOUX): defining core objects, relationships, and actions",
+                  "Sitemap architecture and multi-tier navigation paradigms (nested, drill-down, hub-and-spoke)",
+                  "Search indexing, facet taxonomy, and breadcrumb navigation schemes"
+                ],
+                "tags": [
+                  "Information Architecture",
+                  "OOUX",
+                  "Tree Testing",
+                  "Card Sorting"
+                ],
+                "border_class": "cyan-border"
+              }
+            ],
+            "callout": {
+              "type": "warning",
+              "title": "Research Anchoring Rule",
+              "text": "Design without research is decoration. Every layout, affordance, and flow must be defensible through concrete user quotes, analytics drop-off points, or validated usability benchmarks. Assumptions must be formulated as testable hypotheses before high-fidelity visual design begins."
+            }
+          }
+        },
+        {
+          "type": "blueprint_section",
+          "title": "Stage 02 \u2014 Interaction Design, Wireframing & Prototyping",
+          "content": {
+            "kicker": "STAGE 02 \u00b7 INTERACTION ARCHITECTURE & FLOWS",
+            "badge": "CORE WIREFRAMING & INTERACTIVE STATES",
+            "scale": "Interaction Design",
+            "weight": "25% Total Competency",
+            "papers_count": "2 Core Modules",
+            "description": "Translating research insights into high-functioning interaction systems. Covers rapid low-fidelity wireframing, behavioral micro-interactions, responsive layout logic, and realistic state prototyping in Figma and Protopie.",
+            "papers": [
+              {
+                "code": "MODULE A \u00b7 INTERACTION FLOWS & WIREFRAMING",
+                "name": "Low-to-Mid Fidelity Flow Architecture",
+                "marks": "100 pts",
+                "meta": "User Flows \u00b7 Heuristics \u00b7 Edge Case Coverage",
+                "desc": "Drafting structural wireframes that map out complete operational paths, user forks, error boundaries, and edge states.",
+                "topics": [
+                  "User flow diagramming and state transition mapping (happy path vs failure modes)",
+                  "Wireframing with strict layout grids (8pt spatial system) and visual hierarchy",
+                  "Applying Nielsen Norman Group\u2019s 10 Usability Heuristics to workflow design",
+                  "Comprehensive edge case specification: empty states, timeout states, zero-data states, and permissions gates",
+                  "Fitts\u2019s Law, Hick\u2019s Law, and Miller\u2019s Law applied to button placement and form completion"
+                ],
+                "tags": [
+                  "User Flows",
+                  "Edge Cases",
+                  "10 Heuristics",
+                  "8pt Grid"
+                ],
+                "highlight": true
+              },
+              {
+                "code": "MODULE B \u00b7 PROTOTYPING & MOTION DESIGN",
+                "name": "Interactive Prototyping & Motion Choreography",
+                "marks": "100 pts",
+                "meta": "Figma Smart Animate \u00b7 Protopie \u00b7 Micro-Interactions",
+                "desc": "Building realistic interactive prototypes with natural physics-based motion to test complex user scenarios with real stakeholders.",
+                "topics": [
+                  "Figma prototyping: Smart Animate, interactive components, variables, and boolean conditions",
+                  "Advanced micro-interactions with Protopie (sensor inputs, conditional logic, formula calculations)",
+                  "Functional animation principles: spatial continuity, focus management, and transition easing (cubic-bezier)",
+                  "Micro-haptic and auditory feedback design for critical user confirmation triggers",
+                  "Rapid stakeholder walkthroughs and clickable testing protocol"
+                ],
+                "tags": [
+                  "Figma Variables",
+                  "Protopie",
+                  "Motion Curves",
+                  "Smart Animate"
+                ],
+                "border_class": "gold-border"
+              }
+            ],
+            "callout": {
+              "type": "gold",
+              "title": "Edge Case Specification Protocol",
+              "text": "A designer is evaluated by their edge cases, not their happy path. Production-ready designs must specify: (1) Empty states with clear calls-to-action, (2) Network latency skeletons, (3) Boundary inputs (1-character vs 10,000-character truncation), and (4) Reversible destructive actions (undo toasts over modal confirmation)."
+            }
+          }
+        },
+        {
+          "type": "blueprint_section",
+          "title": "Stage 03 \u2014 Design Systems, Tokens & Accessibility (WCAG)",
+          "content": {
+            "kicker": "STAGE 03 \u00b7 SYSTEMATIZED UI & DESIGN TOKENS",
+            "badge": "SCALABLE ATOMIC DESIGN SYSTEMS",
+            "scale": "Design Engineering",
+            "weight": "25% Total Competency",
+            "papers_count": "2 Systems Tracks",
+            "description": "Constructing unified, reusable component ecosystems across web and native mobile platforms. Focuses on W3C Design Tokens, Figma variant architecture, WCAG 2.2 accessibility compliance, and developer parity.",
+            "papers": [
+              {
+                "code": "MODULE A \u00b7 DESIGN TOKEN ARCHITECTURE",
+                "name": "Design Tokens & Atomic Components",
+                "marks": "100 pts",
+                "meta": "W3C Token Specs \u00b7 Multi-Brand Theming \u00b7 Auto Layout 5.0",
+                "desc": "Architecting atomic design libraries in Figma that mirror code components (React/Tailwind) via semantic tokens and variables.",
+                "topics": [
+                  "3-Tier Design Token Architecture: Global (Raw), Semantic (Alias), and Component tokens",
+                  "Multi-brand and dark mode theming using Figma Variables and Modes",
+                  "Atomic component modeling: Atoms (Buttons, Inputs), Molecules (Search bars), Organisms (Headers)",
+                  "Advanced Auto Layout: flex wrapping, absolute positioning within auto layout, and responsive min/max constraints",
+                  "Component governance: versioning, deprecation lifecycle, and documentation in Storybook/Zeroheight"
+                ],
+                "tags": [
+                  "Design Tokens",
+                  "Figma Variables",
+                  "Atomic Design",
+                  "Storybook Sync"
+                ],
+                "border_class": "cyan-border"
+              },
+              {
+                "code": "MODULE B \u00b7 ACCESSIBILITY & CODE HANDOFF",
+                "name": "WCAG 2.2 Compliance & Developer Spec Handoff",
+                "marks": "100 pts",
+                "meta": "WCAG 2.2 AA/AAA \u00b7 Screen Readers \u00b7 Dev Mode Specs",
+                "desc": "Ensuring digital products are inclusive for all users regardless of ability, while generating pixel-perfect technical handoff specs for engineering.",
+                "topics": [
+                  "WCAG 2.2 Guidelines: AA and AAA compliance across contrast ratios (4.5:1 text, 3:1 graphical elements)",
+                  "Semantic HTML mapping: headings (H1\u2013H6), landmarks (main, nav), button vs anchor tags, and ARIA roles",
+                  "Keyboard navigation flows: logical tab index order, visible focus rings, and skip links",
+                  "Figma Dev Mode specs: redlining, CSS snippet generation, spacing tokens, and asset optimization (SVG/WebP)",
+                  "Color-blindness simulation (Deuteranopia, Protanopia) and motion sensitivity fallbacks (prefers-reduced-motion)"
+                ],
+                "tags": [
+                  "WCAG 2.2 AA",
+                  "Screen Readers",
+                  "Keyboard Navigation",
+                  "Dev Mode Handoff"
+                ],
+                "border_class": "gold-border"
+              }
+            ],
+            "callout": {
+              "type": "info",
+              "title": "Token Governance & Dev Parity",
+              "text": "A design system is only as strong as its code parity. Semantic tokens (e.g., color.background.surface.default) must match 1:1 between Figma variables and the frontend CSS/Tailwind config. Changes must be governed with semantic versioning to prevent breaking component changes in production."
+            }
+          }
+        },
+        {
+          "type": "blueprint_section",
+          "title": "Stage 04 \u2014 Product Strategy, Metrics & Design Leadership",
+          "content": {
+            "kicker": "STAGE 04 \u00b7 PRODUCT LEADERSHIP & BUSINESS IMPACT",
+            "badge": "PRODUCT STRATEGY & METRIC ALIGNMENT",
+            "scale": "Product Strategy",
+            "weight": "30% Total Competency",
+            "papers_count": "2 Strategy Tracks",
+            "description": "Elevating product design from visual craft to executive business impact. Connecting design decisions directly to acquisition, conversion, retention, North Star metrics, and cross-functional leadership.",
+            "papers": [
+              {
+                "code": "MODULE A \u00b7 BEHAVIORAL METRICS & EXPERIMENTATION",
+                "name": "Product Telemetry & A/B Experimentation",
+                "marks": "100 pts",
+                "meta": "North Star Metrics \u00b7 Retention Cohorts \u00b7 Growth Funnels",
+                "desc": "Using product analytics tools (Mixpanel, Amplitude, PostHog) to identify drop-off friction and orchestrate continuous A/B experimentation.",
+                "topics": [
+                  "Defining product North Star metrics and input metric drivers",
+                  "Funnel analysis: diagnosing drop-offs in onboarding, checkout, and activation flows",
+                  "Designing rigorous A/B experiment variants with hypothesis-driven design changes",
+                  "Measuring qualitative feedback alongside quantitative telemetry (NPS vs CSAT vs CES)",
+                  "Design ROI formulation: translating usability improvements into quantifiable revenue & retention uplift"
+                ],
+                "tags": [
+                  "A/B Testing",
+                  "Funnel Optimization",
+                  "Amplitude / Mixpanel",
+                  "North Star Metric"
+                ],
+                "highlight": true
+              },
+              {
+                "code": "MODULE B \u00b7 DESIGN LEADERSHIP & CRITIQUE",
+                "name": "Case Study Architecture & Design Critique",
+                "marks": "100 pts",
+                "meta": "Portfolio Presentation \u00b7 Whiteboard Challenges \u00b7 Stakeholder Alignment",
+                "desc": "Structuring high-impact case studies that tell a compelling narrative of problem discovery, iteration, technical trade-offs, and measurable outcomes.",
+                "topics": [
+                  "Structuring portfolio case studies: Context, Problem, Constraints, Hypothesis, Iterations, and Outcome",
+                  "Conducting structured design critiques: providing actionable feedback and defending trade-offs without ego",
+                  "Executive stakeholder management: pitching design proposals to C-suite and engineering leads",
+                  "Live whiteboard design challenge mastery: framing ambiguous product briefs in 45-minute live interviews",
+                  "App critique framework: evaluating mobile/web apps on interaction elegance, business model, and information hierarchy"
+                ],
+                "tags": [
+                  "Portfolio Case Studies",
+                  "App Critique",
+                  "Whiteboard Challenge",
+                  "Executive Pitching"
+                ],
+                "border_class": "cyan-border"
+              }
+            ],
+            "callout": {
+              "type": "warning",
+              "title": "Business Impact Multiplier",
+              "text": "Elite product designers speak the language of business. During portfolio evaluations and executive reviews, candidates who clearly demonstrate how their UX decisions increased activation rates by 18% or decreased churn by 12% outperform designers who only present polished visual mockups."
+            }
+          }
+        },
+        {
+          "type": "schedule",
+          "title": "Design Mastery Milestone Progression Schedule",
+          "content": {
+            "sub": "Phased 12 to 18-Month Mastery Protocol \u00b7 Visual Foundations to Enterprise Product Systems",
+            "days": [
+              {
+                "day_no": "PHASE 01",
+                "session": "Visual Foundations\nTypography & 8pt Grids",
+                "hrs": "Months 01\u201303 \u00b7 100 pts"
+              },
+              {
+                "day_no": "PHASE 02",
+                "session": "UX Research\nWireframing & IA",
+                "hrs": "Months 04\u201306 \u00b7 100 pts"
+              },
+              {
+                "day_no": "PHASE 03",
+                "session": "Figma Prototyping\nInteractive States",
+                "hrs": "Months 07\u201309 \u00b7 100 pts"
+              },
+              {
+                "day_no": "PHASE 04",
+                "session": "Design Systems\nTokens & WCAG 2.2",
+                "hrs": "Months 10\u201313 \u00b7 100 pts"
+              },
+              {
+                "day_no": "PHASE 05",
+                "session": "Product Telemetry\nPortfolio Case Studies",
+                "hrs": "Months 14\u201318 \u00b7 100 pts"
+              }
+            ]
+          }
+        },
+        {
+          "type": "requirements",
+          "title": "Statutory & Industry Portfolio Prerequisites",
+          "content": {
+            "prerequisites": [
+              "Portfolio Requirement: Minimum 3 comprehensive, documented case studies showcasing end-to-end design thinking from discovery and wireframes to component tokens and shipped impact.",
+              "Tooling Mastery: Expert-level fluency in Figma (Auto Layout 5.0, Component Variants, Variables, Dev Mode) and modern prototyping suites (Protopie / Framer).",
+              "Design System Literacy: Deep understanding of atomic design principles, W3C design tokens, multi-platform design guidelines (Apple HIG, Google Material Design 3).",
+              "Cross-Functional Fluency: Proven capacity to partner with frontend engineering teams, read basic HTML/CSS structures, and participate in sprint planning rituals."
+            ]
+          }
+        }
+      ],
+      "roadmap": [
+        {
+          "title": "Visual Design Fundamentals & Typography Systems",
+          "description": "Master the 8pt grid system, typographic scale, color theory, visual hierarchy, and spatial rhythm in interface design.",
+          "estimated_months": 3,
+          "status": "completed",
+          "dependencies": [],
+          "resources": [],
+          "tags": [
+            "typography",
+            "visual-design",
+            "grids",
+            "figma"
+          ],
+          "prerequisites": []
+        },
+        {
+          "title": "User Research, Journey Mapping & Information Architecture",
+          "description": "Conduct qualitative user interviews, construct journey maps, execute card sorting, and design intuitive navigation taxonomies.",
+          "estimated_months": 3,
+          "status": "in-progress",
+          "dependencies": [],
+          "resources": [],
+          "tags": [
+            "research",
+            "journey-mapping",
+            "information-architecture",
+            "heuristics"
+          ],
+          "prerequisites": []
+        },
+        {
+          "title": "Low-to-High Fidelity Prototyping & Edge Cases",
+          "description": "Translate research into wireframes, design comprehensive empty and error states, and build interactive prototypes in Figma and Protopie.",
+          "estimated_months": 3,
+          "status": "todo",
+          "dependencies": [],
+          "resources": [],
+          "tags": [
+            "wireframing",
+            "prototyping",
+            "protopie",
+            "micro-interactions"
+          ],
+          "prerequisites": []
+        },
+        {
+          "title": "Design Tokens, Atomic Systems & WCAG Accessibility",
+          "description": "Architect multi-brand token ecosystems, establish accessible WCAG 2.2 component libraries, and configure developer handoff specs.",
+          "estimated_months": 4,
+          "status": "todo",
+          "dependencies": [],
+          "resources": [],
+          "tags": [
+            "design-systems",
+            "tokens",
+            "wcag",
+            "storybook"
+          ],
+          "prerequisites": []
+        },
+        {
+          "title": "Product Telemetry, Growth Funnels & A/B Experimentation",
+          "description": "Diagnose funnel friction with Amplitude and Mixpanel, formulate testable design hypotheses, and design A/B experiment variants.",
+          "estimated_months": 3,
+          "status": "todo",
+          "dependencies": [],
+          "resources": [],
+          "tags": [
+            "metrics",
+            "experimentation",
+            "telemetry",
+            "analytics"
+          ],
+          "prerequisites": []
+        },
+        {
+          "title": "Portfolio Production & Live Whiteboard Challenge Readiness",
+          "description": "Author 3 polished case studies articulating measurable business impact, and practice live app critiques and whiteboard design sessions.",
+          "estimated_months": 2,
+          "status": "todo",
+          "dependencies": [],
+          "resources": [],
+          "tags": [
+            "portfolio",
+            "case-studies",
+            "interview-prep",
+            "whiteboarding"
+          ],
+          "prerequisites": []
+        }
+      ],
+      "metrics": {
+        "duration_months": 12,
+        "entry_threshold": "Portfolio Case Studies + Design Degree or Equivalent Experience",
+        "compensation": "\u20b912L\u201345L+ / 5k\u2013220k+",
+        "selection_ratio": "High demand for senior systems talent",
+        "total_marks": 0
+      }
+    }
+  ]
+}

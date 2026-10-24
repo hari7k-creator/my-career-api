@@ -1,0 +1,513 @@
+{
+  "name": "Product Designer",
+  "slug": "product-designer",
+  "description": "Craft intuitive multi-platform user journeys, establish scalable design tokens and UI component libraries.",
+  "category": "design",
+  "difficulty": "intermediate",
+  "tags": [
+    "design",
+    "ui/ux",
+    "product",
+    "research",
+    "design-systems",
+    "interaction-design",
+    "blueprint"
+  ],
+  "skills": [
+    "Figma & Auto Layout",
+    "Interaction Design",
+    "User Research & Usability Testing",
+    "Design Systems & Tokens",
+    "Information Architecture",
+    "WCAG Accessibility",
+    "Prototyping & Motion"
+  ],
+  "content_blocks": [
+    {
+      "type": "hero",
+      "title": "Product Designer \u2014 Experience Architecture & Systems Blueprint",
+      "content": {
+        "kicker": "EXPERIENCE ARCHITECTURE & INTERFACE SYSTEMS \u00b7 PRODUCT DESIGN",
+        "subtitle": "Architecting Multi-Platform User Journeys, Design Tokens & Component Libraries",
+        "description": "End-to-end architectural blueprint of the Product Design discipline. Bridges user psychology, empirical research, atomic design systems, and product metrics to craft digital experiences that balance user satisfaction with scalable business outcomes.",
+        "scale": "5k \u2013 20k+ / \u20b912L\u201345L+",
+        "stage": "Stages 01, 02, 03 & 04",
+        "total_papers": "4 Competency Tracks",
+        "written_merit": "Portfolio Case Studies & System Handoff",
+        "interview": "App Critique & Whiteboard Design",
+        "grand_total": "Lead / Principal Band"
+      }
+    },
+    {
+      "type": "macro_metrics",
+      "title": "Macro Statistics",
+      "content": {
+        "metrics": [
+          {
+            "label": "Base Preparation Horizon",
+            "value": "12\u201318 M",
+            "sub": "Foundational visual design to enterprise design systems"
+          },
+          {
+            "label": "Compensation Spectrum",
+            "value": "5k \u2013 20k+",
+            "sub": "Global: 5k\u201320k+ \u00b7 India: \u20b912L\u2013\u20b945L+ Base + Equity",
+            "highlight": true
+          },
+          {
+            "label": "Core Design Pillars",
+            "value": "4 Pillars",
+            "sub": "Research \u00b7 Interaction \u00b7 Design Systems \u00b7 Product Strategy"
+          },
+          {
+            "label": "Industry Selection Metric",
+            "value": "Portfolio-Led",
+            "sub": "End-to-end case studies with measurable ROI"
+          }
+        ]
+      }
+    },
+    {
+      "type": "merit_bar",
+      "title": "Design Competency Distribution & Skill Ledger",
+      "content": {
+        "dim_note": "Relative Weighting across Core Production Design Competencies",
+        "breakdown_written": "Research, Interaction & Systems: 70%",
+        "breakdown_interview": "Visual Polish & Product Strategy: 30%",
+        "total_num": "100%",
+        "total_txt": "ENTERPRISE PRODUCT DESIGN READINESS",
+        "segments": [
+          {
+            "code": "RES",
+            "name": "UX Research & Testing",
+            "marks": "20%",
+            "percentage": "20%",
+            "fill": "fill-a",
+            "flexGrow": 1
+          },
+          {
+            "code": "IXD",
+            "name": "Interaction & Wireframes",
+            "marks": "25%",
+            "percentage": "25%",
+            "fill": "fill-a",
+            "flexGrow": 1.25
+          },
+          {
+            "code": "SYS",
+            "name": "Design Systems & Tokens",
+            "marks": "25%",
+            "percentage": "25%",
+            "fill": "fill-a",
+            "flexGrow": 1.25
+          },
+          {
+            "code": "VIS",
+            "name": "Visual Polish & Hierarchy",
+            "marks": "15%",
+            "percentage": "15%",
+            "fill": "fill-b",
+            "flexGrow": 0.8
+          },
+          {
+            "code": "STRAT",
+            "name": "Business Strategy & Metrics",
+            "marks": "15%",
+            "percentage": "15%",
+            "fill": "fill-c",
+            "flexGrow": 0.8
+          }
+        ]
+      }
+    },
+    {
+      "type": "blueprint_section",
+      "title": "Stage 01 \u2014 User Research, Discovery & Information Architecture",
+      "content": {
+        "kicker": "STAGE 01 \u00b7 EMPIRICAL RESEARCH & DISCOVERY",
+        "badge": "FOUNDATIONAL DISCOVERY & MENTAL MODELS",
+        "scale": "Core Prerequisite",
+        "weight": "20% Total Competency",
+        "papers_count": "2 Core Modules",
+        "description": "The empirical foundation of product design. Anchors solutions in genuine user psychology through rigorous qualitative inquiry, behavioral telemetry, journey mapping, and structural information hierarchy.",
+        "papers": [
+          {
+            "code": "MODULE A \u00b7 QUALITATIVE & QUANTITATIVE RESEARCH",
+            "name": "User Discovery & Usability Telemetry",
+            "marks": "100 pts",
+            "meta": "Generative Research \u00b7 Evaluative Testing \u00b7 Cohort Analysis",
+            "desc": "Synthesizing raw user problems into structured insights through interviews, surveys, telemetry analytics, and usability benchmarks.",
+            "topics": [
+              "Semi-structured user interviews and contextual inquiry methods",
+              "Usability testing protocols: moderated vs unmoderated task analysis",
+              "Quantitative metrics: System Usability Scale (SUS), Single Ease Question (SEQ), and Task Success Rate",
+              "Customer Journey Mapping (CJM), empathy matrices, and behavioral persona synthesis",
+              "Competitive landscape auditing and heuristic feature gap matrices"
+            ],
+            "tags": [
+              "User Interviews",
+              "SUS Benchmarks",
+              "Journey Mapping",
+              "Evaluative Testing"
+            ],
+            "highlight": true
+          },
+          {
+            "code": "MODULE B \u00b7 INFORMATION ARCHITECTURE",
+            "name": "Mental Models, Ontologies & Navigation",
+            "marks": "100 pts",
+            "meta": "Card Sorting \u00b7 Tree Testing \u00b7 Structural Site Hierarchies",
+            "desc": "Structuring product content and navigation paths to reflect intuitive mental models, minimizing cognitive load and cognitive friction.",
+            "topics": [
+              "Open and closed card sorting methodologies for taxonomic classification",
+              "Tree testing for navigational hierarchy validation and category labeling",
+              "Object-Oriented UX (OOUX): defining core objects, relationships, and actions",
+              "Sitemap architecture and multi-tier navigation paradigms (nested, drill-down, hub-and-spoke)",
+              "Search indexing, facet taxonomy, and breadcrumb navigation schemes"
+            ],
+            "tags": [
+              "Information Architecture",
+              "OOUX",
+              "Tree Testing",
+              "Card Sorting"
+            ],
+            "border_class": "cyan-border"
+          }
+        ],
+        "callout": {
+          "type": "warning",
+          "title": "Research Anchoring Rule",
+          "text": "Design without research is decoration. Every layout, affordance, and flow must be defensible through concrete user quotes, analytics drop-off points, or validated usability benchmarks. Assumptions must be formulated as testable hypotheses before high-fidelity visual design begins."
+        }
+      }
+    },
+    {
+      "type": "blueprint_section",
+      "title": "Stage 02 \u2014 Interaction Design, Wireframing & Prototyping",
+      "content": {
+        "kicker": "STAGE 02 \u00b7 INTERACTION ARCHITECTURE & FLOWS",
+        "badge": "CORE WIREFRAMING & INTERACTIVE STATES",
+        "scale": "Interaction Design",
+        "weight": "25% Total Competency",
+        "papers_count": "2 Core Modules",
+        "description": "Translating research insights into high-functioning interaction systems. Covers rapid low-fidelity wireframing, behavioral micro-interactions, responsive layout logic, and realistic state prototyping in Figma and Protopie.",
+        "papers": [
+          {
+            "code": "MODULE A \u00b7 INTERACTION FLOWS & WIREFRAMING",
+            "name": "Low-to-Mid Fidelity Flow Architecture",
+            "marks": "100 pts",
+            "meta": "User Flows \u00b7 Heuristics \u00b7 Edge Case Coverage",
+            "desc": "Drafting structural wireframes that map out complete operational paths, user forks, error boundaries, and edge states.",
+            "topics": [
+              "User flow diagramming and state transition mapping (happy path vs failure modes)",
+              "Wireframing with strict layout grids (8pt spatial system) and visual hierarchy",
+              "Applying Nielsen Norman Group\u2019s 10 Usability Heuristics to workflow design",
+              "Comprehensive edge case specification: empty states, timeout states, zero-data states, and permissions gates",
+              "Fitts\u2019s Law, Hick\u2019s Law, and Miller\u2019s Law applied to button placement and form completion"
+            ],
+            "tags": [
+              "User Flows",
+              "Edge Cases",
+              "10 Heuristics",
+              "8pt Grid"
+            ],
+            "highlight": true
+          },
+          {
+            "code": "MODULE B \u00b7 PROTOTYPING & MOTION DESIGN",
+            "name": "Interactive Prototyping & Motion Choreography",
+            "marks": "100 pts",
+            "meta": "Figma Smart Animate \u00b7 Protopie \u00b7 Micro-Interactions",
+            "desc": "Building realistic interactive prototypes with natural physics-based motion to test complex user scenarios with real stakeholders.",
+            "topics": [
+              "Figma prototyping: Smart Animate, interactive components, variables, and boolean conditions",
+              "Advanced micro-interactions with Protopie (sensor inputs, conditional logic, formula calculations)",
+              "Functional animation principles: spatial continuity, focus management, and transition easing (cubic-bezier)",
+              "Micro-haptic and auditory feedback design for critical user confirmation triggers",
+              "Rapid stakeholder walkthroughs and clickable testing protocol"
+            ],
+            "tags": [
+              "Figma Variables",
+              "Protopie",
+              "Motion Curves",
+              "Smart Animate"
+            ],
+            "border_class": "gold-border"
+          }
+        ],
+        "callout": {
+          "type": "gold",
+          "title": "Edge Case Specification Protocol",
+          "text": "A designer is evaluated by their edge cases, not their happy path. Production-ready designs must specify: (1) Empty states with clear calls-to-action, (2) Network latency skeletons, (3) Boundary inputs (1-character vs 10,000-character truncation), and (4) Reversible destructive actions (undo toasts over modal confirmation)."
+        }
+      }
+    },
+    {
+      "type": "blueprint_section",
+      "title": "Stage 03 \u2014 Design Systems, Tokens & Accessibility (WCAG)",
+      "content": {
+        "kicker": "STAGE 03 \u00b7 SYSTEMATIZED UI & DESIGN TOKENS",
+        "badge": "SCALABLE ATOMIC DESIGN SYSTEMS",
+        "scale": "Design Engineering",
+        "weight": "25% Total Competency",
+        "papers_count": "2 Systems Tracks",
+        "description": "Constructing unified, reusable component ecosystems across web and native mobile platforms. Focuses on W3C Design Tokens, Figma variant architecture, WCAG 2.2 accessibility compliance, and developer parity.",
+        "papers": [
+          {
+            "code": "MODULE A \u00b7 DESIGN TOKEN ARCHITECTURE",
+            "name": "Design Tokens & Atomic Components",
+            "marks": "100 pts",
+            "meta": "W3C Token Specs \u00b7 Multi-Brand Theming \u00b7 Auto Layout 5.0",
+            "desc": "Architecting atomic design libraries in Figma that mirror code components (React/Tailwind) via semantic tokens and variables.",
+            "topics": [
+              "3-Tier Design Token Architecture: Global (Raw), Semantic (Alias), and Component tokens",
+              "Multi-brand and dark mode theming using Figma Variables and Modes",
+              "Atomic component modeling: Atoms (Buttons, Inputs), Molecules (Search bars), Organisms (Headers)",
+              "Advanced Auto Layout: flex wrapping, absolute positioning within auto layout, and responsive min/max constraints",
+              "Component governance: versioning, deprecation lifecycle, and documentation in Storybook/Zeroheight"
+            ],
+            "tags": [
+              "Design Tokens",
+              "Figma Variables",
+              "Atomic Design",
+              "Storybook Sync"
+            ],
+            "border_class": "cyan-border"
+          },
+          {
+            "code": "MODULE B \u00b7 ACCESSIBILITY & CODE HANDOFF",
+            "name": "WCAG 2.2 Compliance & Developer Spec Handoff",
+            "marks": "100 pts",
+            "meta": "WCAG 2.2 AA/AAA \u00b7 Screen Readers \u00b7 Dev Mode Specs",
+            "desc": "Ensuring digital products are inclusive for all users regardless of ability, while generating pixel-perfect technical handoff specs for engineering.",
+            "topics": [
+              "WCAG 2.2 Guidelines: AA and AAA compliance across contrast ratios (4.5:1 text, 3:1 graphical elements)",
+              "Semantic HTML mapping: headings (H1\u2013H6), landmarks (main, nav), button vs anchor tags, and ARIA roles",
+              "Keyboard navigation flows: logical tab index order, visible focus rings, and skip links",
+              "Figma Dev Mode specs: redlining, CSS snippet generation, spacing tokens, and asset optimization (SVG/WebP)",
+              "Color-blindness simulation (Deuteranopia, Protanopia) and motion sensitivity fallbacks (prefers-reduced-motion)"
+            ],
+            "tags": [
+              "WCAG 2.2 AA",
+              "Screen Readers",
+              "Keyboard Navigation",
+              "Dev Mode Handoff"
+            ],
+            "border_class": "gold-border"
+          }
+        ],
+        "callout": {
+          "type": "info",
+          "title": "Token Governance & Dev Parity",
+          "text": "A design system is only as strong as its code parity. Semantic tokens (e.g., color.background.surface.default) must match 1:1 between Figma variables and the frontend CSS/Tailwind config. Changes must be governed with semantic versioning to prevent breaking component changes in production."
+        }
+      }
+    },
+    {
+      "type": "blueprint_section",
+      "title": "Stage 04 \u2014 Product Strategy, Metrics & Design Leadership",
+      "content": {
+        "kicker": "STAGE 04 \u00b7 PRODUCT LEADERSHIP & BUSINESS IMPACT",
+        "badge": "PRODUCT STRATEGY & METRIC ALIGNMENT",
+        "scale": "Product Strategy",
+        "weight": "30% Total Competency",
+        "papers_count": "2 Strategy Tracks",
+        "description": "Elevating product design from visual craft to executive business impact. Connecting design decisions directly to acquisition, conversion, retention, North Star metrics, and cross-functional leadership.",
+        "papers": [
+          {
+            "code": "MODULE A \u00b7 BEHAVIORAL METRICS & EXPERIMENTATION",
+            "name": "Product Telemetry & A/B Experimentation",
+            "marks": "100 pts",
+            "meta": "North Star Metrics \u00b7 Retention Cohorts \u00b7 Growth Funnels",
+            "desc": "Using product analytics tools (Mixpanel, Amplitude, PostHog) to identify drop-off friction and orchestrate continuous A/B experimentation.",
+            "topics": [
+              "Defining product North Star metrics and input metric drivers",
+              "Funnel analysis: diagnosing drop-offs in onboarding, checkout, and activation flows",
+              "Designing rigorous A/B experiment variants with hypothesis-driven design changes",
+              "Measuring qualitative feedback alongside quantitative telemetry (NPS vs CSAT vs CES)",
+              "Design ROI formulation: translating usability improvements into quantifiable revenue & retention uplift"
+            ],
+            "tags": [
+              "A/B Testing",
+              "Funnel Optimization",
+              "Amplitude / Mixpanel",
+              "North Star Metric"
+            ],
+            "highlight": true
+          },
+          {
+            "code": "MODULE B \u00b7 DESIGN LEADERSHIP & CRITIQUE",
+            "name": "Case Study Architecture & Design Critique",
+            "marks": "100 pts",
+            "meta": "Portfolio Presentation \u00b7 Whiteboard Challenges \u00b7 Stakeholder Alignment",
+            "desc": "Structuring high-impact case studies that tell a compelling narrative of problem discovery, iteration, technical trade-offs, and measurable outcomes.",
+            "topics": [
+              "Structuring portfolio case studies: Context, Problem, Constraints, Hypothesis, Iterations, and Outcome",
+              "Conducting structured design critiques: providing actionable feedback and defending trade-offs without ego",
+              "Executive stakeholder management: pitching design proposals to C-suite and engineering leads",
+              "Live whiteboard design challenge mastery: framing ambiguous product briefs in 45-minute live interviews",
+              "App critique framework: evaluating mobile/web apps on interaction elegance, business model, and information hierarchy"
+            ],
+            "tags": [
+              "Portfolio Case Studies",
+              "App Critique",
+              "Whiteboard Challenge",
+              "Executive Pitching"
+            ],
+            "border_class": "cyan-border"
+          }
+        ],
+        "callout": {
+          "type": "warning",
+          "title": "Business Impact Multiplier",
+          "text": "Elite product designers speak the language of business. During portfolio evaluations and executive reviews, candidates who clearly demonstrate how their UX decisions increased activation rates by 18% or decreased churn by 12% outperform designers who only present polished visual mockups."
+        }
+      }
+    },
+    {
+      "type": "schedule",
+      "title": "Design Mastery Milestone Progression Schedule",
+      "content": {
+        "sub": "Phased 12 to 18-Month Mastery Protocol \u00b7 Visual Foundations to Enterprise Product Systems",
+        "days": [
+          {
+            "day_no": "PHASE 01",
+            "session": "Visual Foundations\nTypography & 8pt Grids",
+            "hrs": "Months 01\u201303 \u00b7 100 pts"
+          },
+          {
+            "day_no": "PHASE 02",
+            "session": "UX Research\nWireframing & IA",
+            "hrs": "Months 04\u201306 \u00b7 100 pts"
+          },
+          {
+            "day_no": "PHASE 03",
+            "session": "Figma Prototyping\nInteractive States",
+            "hrs": "Months 07\u201309 \u00b7 100 pts"
+          },
+          {
+            "day_no": "PHASE 04",
+            "session": "Design Systems\nTokens & WCAG 2.2",
+            "hrs": "Months 10\u201313 \u00b7 100 pts"
+          },
+          {
+            "day_no": "PHASE 05",
+            "session": "Product Telemetry\nPortfolio Case Studies",
+            "hrs": "Months 14\u201318 \u00b7 100 pts"
+          }
+        ]
+      }
+    },
+    {
+      "type": "requirements",
+      "title": "Statutory & Industry Portfolio Prerequisites",
+      "content": {
+        "prerequisites": [
+          "Portfolio Requirement: Minimum 3 comprehensive, documented case studies showcasing end-to-end design thinking from discovery and wireframes to component tokens and shipped impact.",
+          "Tooling Mastery: Expert-level fluency in Figma (Auto Layout 5.0, Component Variants, Variables, Dev Mode) and modern prototyping suites (Protopie / Framer).",
+          "Design System Literacy: Deep understanding of atomic design principles, W3C design tokens, multi-platform design guidelines (Apple HIG, Google Material Design 3).",
+          "Cross-Functional Fluency: Proven capacity to partner with frontend engineering teams, read basic HTML/CSS structures, and participate in sprint planning rituals."
+        ]
+      }
+    }
+  ],
+  "roadmap": [
+    {
+      "title": "Visual Design Fundamentals & Typography Systems",
+      "description": "Master the 8pt grid system, typographic scale, color theory, visual hierarchy, and spatial rhythm in interface design.",
+      "estimated_months": 3,
+      "status": "completed",
+      "dependencies": [],
+      "resources": [],
+      "tags": [
+        "typography",
+        "visual-design",
+        "grids",
+        "figma"
+      ],
+      "prerequisites": []
+    },
+    {
+      "title": "User Research, Journey Mapping & Information Architecture",
+      "description": "Conduct qualitative user interviews, construct journey maps, execute card sorting, and design intuitive navigation taxonomies.",
+      "estimated_months": 3,
+      "status": "in-progress",
+      "dependencies": [],
+      "resources": [],
+      "tags": [
+        "research",
+        "journey-mapping",
+        "information-architecture",
+        "heuristics"
+      ],
+      "prerequisites": []
+    },
+    {
+      "title": "Low-to-High Fidelity Prototyping & Edge Cases",
+      "description": "Translate research into wireframes, design comprehensive empty and error states, and build interactive prototypes in Figma and Protopie.",
+      "estimated_months": 3,
+      "status": "todo",
+      "dependencies": [],
+      "resources": [],
+      "tags": [
+        "wireframing",
+        "prototyping",
+        "protopie",
+        "micro-interactions"
+      ],
+      "prerequisites": []
+    },
+    {
+      "title": "Design Tokens, Atomic Systems & WCAG Accessibility",
+      "description": "Architect multi-brand token ecosystems, establish accessible WCAG 2.2 component libraries, and configure developer handoff specs.",
+      "estimated_months": 4,
+      "status": "todo",
+      "dependencies": [],
+      "resources": [],
+      "tags": [
+        "design-systems",
+        "tokens",
+        "wcag",
+        "storybook"
+      ],
+      "prerequisites": []
+    },
+    {
+      "title": "Product Telemetry, Growth Funnels & A/B Experimentation",
+      "description": "Diagnose funnel friction with Amplitude and Mixpanel, formulate testable design hypotheses, and design A/B experiment variants.",
+      "estimated_months": 3,
+      "status": "todo",
+      "dependencies": [],
+      "resources": [],
+      "tags": [
+        "metrics",
+        "experimentation",
+        "telemetry",
+        "analytics"
+      ],
+      "prerequisites": []
+    },
+    {
+      "title": "Portfolio Production & Live Whiteboard Challenge Readiness",
+      "description": "Author 3 polished case studies articulating measurable business impact, and practice live app critiques and whiteboard design sessions.",
+      "estimated_months": 2,
+      "status": "todo",
+      "dependencies": [],
+      "resources": [],
+      "tags": [
+        "portfolio",
+        "case-studies",
+        "interview-prep",
+        "whiteboarding"
+      ],
+      "prerequisites": []
+    }
+  ],
+  "metrics": {
+    "duration_months": 12,
+    "entry_threshold": "Portfolio Case Studies + Design Degree or Equivalent Experience",
+    "compensation": "\u20b912L\u201345L+ / 5k\u2013220k+",
+    "selection_ratio": "High demand for senior systems talent",
+    "total_marks": 0
+  }
+}

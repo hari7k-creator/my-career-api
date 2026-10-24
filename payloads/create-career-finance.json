@@ -1,0 +1,514 @@
+{
+  "name": "Quantitative Trader",
+  "slug": "quantitative-trader",
+  "description": "Develop mathematical models to identify market inefficiencies and execute algorithmic high-frequency trading strategies.",
+  "category": "finance",
+  "difficulty": "elite",
+  "tags": [
+    "finance",
+    "trading",
+    "quant",
+    "mathematics",
+    "algorithmic",
+    "high-frequency",
+    "stochastic-calculus",
+    "blueprint"
+  ],
+  "skills": [
+    "Probability & Combinatorics",
+    "Stochastic Calculus & It\u00f4 Lemma",
+    "Ultra-Low Latency C++ (C++20)",
+    "Market Microstructure & Order Books",
+    "Statistical Arbitrage & Cointegration",
+    "Risk Management & Kelly Criterion",
+    "Kernel Bypass & Hardware Acceleration"
+  ],
+  "content_blocks": [
+    {
+      "type": "hero",
+      "title": "Quantitative Trader \u2014 Algorithmic & Market Microstructure Blueprint",
+      "content": {
+        "kicker": "QUANTITATIVE SYSTEMS & STOCHASTIC FINANCE \u00b7 PROPRIETARY TRADING",
+        "subtitle": "Mathematical Modeling, Market Microstructure & Sub-Microsecond Execution",
+        "description": "Comprehensive architectural blueprint of the Quantitative Trading pathway. Spans discrete probability distributions, stochastic differential equations, market making order book dynamics, statistical arbitrage signal research, and ultra-low-latency C++ execution engines.",
+        "scale": "50k \u2013 00k+ / \u20b940L\u20132.5Cr+",
+        "stage": "Stages 01, 02, 03 & 04",
+        "total_papers": "4 Quantitative Pillars",
+        "written_merit": "Math Modeling & Backtested Alpha",
+        "interview": "Mental Math, Probability & Market Making Games",
+        "grand_total": "Portfolio Manager / Partner Track"
+      }
+    },
+    {
+      "type": "macro_metrics",
+      "title": "Macro Statistics",
+      "content": {
+        "metrics": [
+          {
+            "label": "Base Preparation Horizon",
+            "value": "24\u201336 M",
+            "sub": "Stochastic calculus, statistical arbitrage & modern C++"
+          },
+          {
+            "label": "Compensation Spectrum",
+            "value": "50k \u2013 00k+",
+            "sub": "Global Prop Desks: 50k\u201300k+ \u00b7 India: \u20b940L\u2013\u20b92.5Cr+ Base + PnL Bonus",
+            "highlight": true
+          },
+          {
+            "label": "Core Quantitative Tracks",
+            "value": "4 Pillars",
+            "sub": "Stochastics \u00b7 Systems C++ \u00b7 Microstructure \u00b7 Alpha Research"
+          },
+          {
+            "label": "Selection Selectivity",
+            "value": "< 0.5%",
+            "sub": "Olympiad (IMO) & Putnam level mathematical intuition"
+          }
+        ]
+      }
+    },
+    {
+      "type": "merit_bar",
+      "title": "Quantitative Competency Distribution & Skill Ledger",
+      "content": {
+        "dim_note": "Relative Weighting across Core Production Trading Competencies",
+        "breakdown_written": "Mathematical Foundations & Systems Architecture: 70%",
+        "breakdown_interview": "Market Intuition, Signal Research & Risk Controls: 30%",
+        "total_num": "100%",
+        "total_txt": "PROPRIETARY TRADING READINESS BENCHMARK",
+        "segments": [
+          {
+            "code": "PROB",
+            "name": "Probability & Stochastics",
+            "marks": "25%",
+            "percentage": "25%",
+            "fill": "fill-a",
+            "flexGrow": 1.25
+          },
+          {
+            "code": "CPP",
+            "name": "Ultra-Low Latency C++",
+            "marks": "25%",
+            "percentage": "25%",
+            "fill": "fill-a",
+            "flexGrow": 1.25
+          },
+          {
+            "code": "LOB",
+            "name": "Market Microstructure",
+            "marks": "20%",
+            "percentage": "20%",
+            "fill": "fill-a",
+            "flexGrow": 1
+          },
+          {
+            "code": "ALPHA",
+            "name": "Statistical Arbitrage",
+            "marks": "20%",
+            "percentage": "20%",
+            "fill": "fill-b",
+            "flexGrow": 1
+          },
+          {
+            "code": "RISK",
+            "name": "Risk & Kelly Criterion",
+            "marks": "10%",
+            "percentage": "10%",
+            "fill": "fill-c",
+            "flexGrow": 0.5
+          }
+        ]
+      }
+    },
+    {
+      "type": "blueprint_section",
+      "title": "Stage 01 \u2014 Probability Theory, Mental Math & Stochastic Calculus",
+      "content": {
+        "kicker": "STAGE 01 \u00b7 PROBABILITY & STOCHASTIC CALCULUS",
+        "badge": "MATHEMATICAL PROBABILITY & MARKOV SYSTEMS",
+        "scale": "Core Mathematical Foundation",
+        "weight": "25% Total Competency",
+        "papers_count": "2 Core Modules",
+        "description": "The rigorous mathematical foundation powering quantitative pricing, risk management, and probabilistic decision-making under uncertainty.",
+        "papers": [
+          {
+            "code": "MODULE A \u00b7 DISCRETE PROBABILITY & GAMES",
+            "name": "Probability Theory, Combinatorics & Martingales",
+            "marks": "100 pts",
+            "meta": "Conditional Expectation \u00b7 Martingales \u00b7 Game Theory",
+            "desc": "Solving complex probability puzzles, stopping times, random walks, and Bayesian probability estimation under intense time pressure.",
+            "topics": [
+              "Combinatorics, inclusion-exclusion principle, and discrete distributions (Poisson, Binomial, Geometric)",
+              "Conditional expectation, law of total probability, and Bayesian updating",
+              "Markov chains, transition probability matrices, stationary distributions, and absorbing states",
+              "Martingales, Optional Stopping Theorem, and random walk hitting times",
+              "Game theory: zero-sum games, Nash equilibrium, and Kelly Criterion for optimal capital allocation"
+            ],
+            "tags": [
+              "Martingales",
+              "Markov Chains",
+              "Bayesian Updating",
+              "Kelly Criterion"
+            ],
+            "highlight": true
+          },
+          {
+            "code": "MODULE B \u00b7 STOCHASTIC CALCULUS",
+            "name": "Continuous-Time Finance & Option Pricing",
+            "marks": "100 pts",
+            "meta": "It\u00f4 Lemma \u00b7 Brownian Motion \u00b7 Black-Scholes PDE",
+            "desc": "Formulating continuous stochastic processes to model asset price evolution, volatility surfaces, and derivative hedging.",
+            "topics": [
+              "Standard Brownian motion, Wiener processes, and quadratic variation properties",
+              "It\u00f4\u2019s Lemma and stochastic integration for nonlinear financial instruments",
+              "Geometric Brownian Motion (GBM) and mean-reverting Ornstein-Uhlenbeck processes",
+              "Black-Scholes-Merton Partial Differential Equation (PDE) derivation via risk-neutral replication",
+              "The Greeks (Delta, Gamma, Vega, Theta, Rho) and dynamic volatility surface modeling"
+            ],
+            "tags": [
+              "It\u00f4 Lemma",
+              "Brownian Motion",
+              "Black-Scholes",
+              "The Greeks"
+            ],
+            "border_class": "cyan-border"
+          }
+        ],
+        "callout": {
+          "type": "warning",
+          "title": "Mental Math & Fast Heuristics Protocol",
+          "text": "Proprietary trading desks (Jane Street, Optiver, Citadel Securities) evaluate candidates on rapid mental arithmetic, expected value estimation in dice/card games, and market making under 15-second time limits. Mathematical intuition must be instantaneous and mathematically sound without reliance on calculators."
+        }
+      }
+    },
+    {
+      "type": "blueprint_section",
+      "title": "Stage 02 \u2014 High-Performance C++, Systems Architecture & FPGA",
+      "content": {
+        "kicker": "STAGE 02 \u00b7 ULTRA-LOW LATENCY SYSTEMS & C++",
+        "badge": "SUB-MICROSECOND EXECUTION ARCHITECTURE",
+        "scale": "Systems Engineering",
+        "weight": "25% Total Competency",
+        "papers_count": "2 Systems Tracks",
+        "description": "Engineering algorithmic execution engines where latency is measured in nanoseconds. Eliminating OS bottlenecks via lock-free programming, cache-line alignment, and kernel bypass networking.",
+        "papers": [
+          {
+            "code": "MODULE A \u00b7 MODERN C++ FOR TRADING",
+            "name": "Lock-Free Algorithms & Memory Alignment",
+            "marks": "100 pts",
+            "meta": "C++20/23 \u00b7 RAII \u00b7 Template Metaprogramming \u00b7 Cache Lines",
+            "desc": "Writing allocation-free, branch-predictable C++ code that executes along the critical trading path without CPU pipeline stalls.",
+            "topics": [
+              "C++20/23 concepts, move semantics, and zero-overhead template metaprogramming",
+              "Lock-free data structures: Single-Producer Single-Consumer (SPSC) ring buffers and atomic primitives",
+              "Memory layout optimization: cache-line alignment (64-byte padding), false sharing prevention, and struct packing",
+              "Eliminating dynamic heap allocation along the hot path: object pools and stack memory allocators",
+              "CPU branch prediction optimization: [[likely]] and [[unlikely]] attributes, and inlining policies"
+            ],
+            "tags": [
+              "Lock-Free SPSC",
+              "C++20",
+              "False Sharing",
+              "Object Pools"
+            ],
+            "highlight": true
+          },
+          {
+            "code": "MODULE B \u00b7 KERNEL BYPASS & NETWORKING",
+            "name": "Kernel Bypass (Solarflare/DPDK) & FPGA Acceleration",
+            "marks": "100 pts",
+            "meta": "Solarflare OpenOnload \u00b7 DPDK \u00b7 FPGA Synthesis \u00b7 ITCH/OUCH",
+            "desc": "Bypassing the standard Linux TCP/IP stack to ingest exchange market data feeds directly into user-space memory with sub-microsecond latency.",
+            "topics": [
+              "Kernel bypass technologies: Solarflare OpenOnload and Intel DPDK (Data Plane Development Kit)",
+              "Exchange feed protocols: NASDAQ ITCH (market data multicast) and OUCH (order entry TCP)",
+              "Ring buffers in shared memory and inter-process communication (IPC) via POSIX shm",
+              "FPGA (Field-Programmable Gate Array) integration: hardware tick-to-trade logic in Verilog/VHDL",
+              "High-precision timestamping: PTP (Precision Time Protocol IEEE 1588) and hardware packet capture"
+            ],
+            "tags": [
+              "Kernel Bypass",
+              "Solarflare",
+              "ITCH / OUCH",
+              "FPGA Tick-to-Trade"
+            ],
+            "border_class": "gold-border"
+          }
+        ],
+        "callout": {
+          "type": "gold",
+          "title": "Nanosecond Latency Budget",
+          "text": "In High-Frequency Trading (HFT), order book tick-to-trade latency is measured in nanoseconds. Any OS kernel context switch, page fault, or dynamic heap malloc() during order evaluation results in queue priority loss and immediate adverse trade execution."
+        }
+      }
+    },
+    {
+      "type": "blueprint_section",
+      "title": "Stage 03 \u2014 Market Microstructure, Order Books & Execution",
+      "content": {
+        "kicker": "STAGE 03 \u00b7 MARKET MICROSTRUCTURE & LIQUIDITY",
+        "badge": "LIMIT ORDER BOOK DYNAMICS & PRICING",
+        "scale": "Market Microstructure",
+        "weight": "25% Total Competency",
+        "papers_count": "2 Trading Tracks",
+        "description": "Analyzing how orders interact inside electronic financial exchanges. Modeling Limit Order Books (LOB), adverse selection, market impact, and automated market-making algorithms.",
+        "papers": [
+          {
+            "code": "MODULE A \u00b7 LIMIT ORDER BOOK MECHANICS",
+            "name": "Order Book Topology & Queue Dynamics",
+            "marks": "100 pts",
+            "meta": "L1/L2/L3 Depth \u00b7 Matching Engines \u00b7 Queue Priority",
+            "desc": "Modeling the discrete auction dynamics of electronic exchanges: price-time priority, pro-rata matching, cancellations, and order book imbalance.",
+            "topics": [
+              "Level 1 (Top of Book), Level 2 (Aggregated Depth), and Level 3 (Individual Order Queue) data",
+              "Order book matching engine algorithms: Price-Time Priority (FIFO) vs Pro-Rata matching",
+              "Order book imbalance (OBI) metrics and short-term price drift forecasting",
+              "Tick sizes, bid-ask spread constraints, and exchange rebate/fee structures (Maker-Taker)",
+              "Simulating synthetic limit order books from raw packet PCAP captures"
+            ],
+            "tags": [
+              "L3 Order Book",
+              "Order Book Imbalance",
+              "Matching Engines",
+              "Maker-Taker"
+            ],
+            "border_class": "cyan-border"
+          },
+          {
+            "code": "MODULE B \u00b7 MARKET MAKING ALGORITHMS",
+            "name": "Liquidity Provision & Avellaneda-Stoikov Model",
+            "marks": "100 pts",
+            "meta": "Inventory Risk \u00b7 Optimal Spreads \u00b7 Adverse Selection",
+            "desc": "Executing automated market-making strategies that harvest the bid-ask spread while dynamically managing inventory risk against informed toxic flow.",
+            "topics": [
+              "Avellaneda-Stoikov optimal bid-ask quotation model under inventory constraints",
+              "Glosten-Milgrom and Kyle models of adverse selection from informed traders",
+              "Inventory decay functions and reservation price skewing to shed toxic position accumulation",
+              "Algorithmic execution strategies: VWAP (Volume-Weighted Average Price) and TWAP (Time-Weighted)",
+              "Cross-venue latency arbitrage and dark pool routing dynamics"
+            ],
+            "tags": [
+              "Avellaneda-Stoikov",
+              "Inventory Risk",
+              "Adverse Selection",
+              "VWAP / TWAP"
+            ],
+            "border_class": "gold-border"
+          }
+        ],
+        "callout": {
+          "type": "info",
+          "title": "Adverse Selection & Toxic Flow",
+          "text": "A naive market maker who quotes symmetric bid-ask spreads will rapidly lose capital due to adverse selection: orders filled immediately are typically informed traders anticipating market moves. Spreads must dynamically skew based on inventory level and high-frequency trade order flow toxicity (VPIN)."
+        }
+      }
+    },
+    {
+      "type": "blueprint_section",
+      "title": "Stage 04 \u2014 Statistical Arbitrage, Alpha Research & Risk Management",
+      "content": {
+        "kicker": "STAGE 04 \u00b7 ALPHA GENERATION & PORTFOLIO RISK",
+        "badge": "STATISTICAL ARBITRAGE & QUANT RESEARCH",
+        "scale": "Alpha Generation & Risk",
+        "weight": "25% Total Competency",
+        "papers_count": "2 Research Tracks",
+        "description": "Identifying quantitative alpha signals across equities, futures, FX, and crypto. Rigorous backtesting to isolate statistically significant predictive edge while avoiding overfitting.",
+        "papers": [
+          {
+            "code": "MODULE A \u00b7 STATISTICAL ARBITRAGE SIGNALS",
+            "name": "Pairs Trading, Cointegration & Momentum",
+            "marks": "100 pts",
+            "meta": "Cointegration \u00b7 Mean Reversion \u00b7 Multi-Factor Models",
+            "desc": "Constructing market-neutral portfolios that generate alpha independent of broad market direction through statistical mean-reversion and cross-asset momentum.",
+            "topics": [
+              "Time series econometrics: Augmented Dickey-Fuller (ADF) test and Johansen cointegration test",
+              "Pairs trading and statistical arbitrage: Engle-Granger two-step method and z-score spread trading",
+              "Cross-asset momentum, lead-lag relationships, and order flow cross-correlation",
+              "Multi-factor equity risk models: Barra risk models, Fama-French 5-factor model, and PCA factor extraction",
+              "Machine learning for alpha research: Gradient boosted decision trees on engineered micro-features"
+            ],
+            "tags": [
+              "Pairs Trading",
+              "Cointegration",
+              "Mean Reversion",
+              "Factor Investing"
+            ],
+            "highlight": true
+          },
+          {
+            "code": "MODULE B \u00b7 RISK MANAGEMENT & OVERFITTING",
+            "name": "Backtest Hygiene, Sharpe Ratios & VaR Controls",
+            "marks": "100 pts",
+            "meta": "Sharpe / Sortino \u00b7 Deflated Sharpe Ratio \u00b7 Value-at-Risk",
+            "desc": "Preventing backtest overfitting (p-hacking) and designing real-time risk throttles to protect trading capital from fat-tailed black swan events.",
+            "topics": [
+              "Walk-forward cross-validation and Purged K-Fold Cross-Validation for non-stationary financial data",
+              "Deflated Sharpe Ratio (Bailey & Lopez de Prado) adjusting for multiple testing and selection bias",
+              "Risk metrics: Sharpe Ratio, Sortino Ratio, Maximum Drawdown (MDD), and Calmar Ratio",
+              "Value-at-Risk (VaR) and Expected Shortfall (CVaR) under heavy-tailed Student-t distributions",
+              "Automated circuit breakers, kill-switches, and real-time portfolio gross/net exposure caps"
+            ],
+            "tags": [
+              "Sharpe Ratio",
+              "Backtest Hygiene",
+              "VaR & CVaR",
+              "Circuit Breakers"
+            ],
+            "border_class": "cyan-border"
+          }
+        ],
+        "callout": {
+          "type": "warning",
+          "title": "The Backtest Overfitting Trap",
+          "text": "A strategy backtest that appears highly profitable in simulation often collapses in production due to lookahead bias, survivorship bias, and failure to factor in realistic slippage, market impact, and exchange exchange fees. Backtests must be subjected to walk-forward validation and deflated Sharpe ratio analysis."
+        }
+      }
+    },
+    {
+      "type": "schedule",
+      "title": "Quantitative Mastery Milestone Progression Schedule",
+      "content": {
+        "sub": "Phased 24 to 36-Month Quantitative Protocol \u00b7 Discrete Math to Sub-Microsecond Production Trading",
+        "days": [
+          {
+            "day_no": "PHASE 01",
+            "session": "Probability & Combinatorics\nMental Math Heuristics",
+            "hrs": "Months 01\u201306 \u00b7 100 pts"
+          },
+          {
+            "day_no": "PHASE 02",
+            "session": "Modern C++ (C++20)\nLock-Free Data Structures",
+            "hrs": "Months 07\u201312 \u00b7 100 pts"
+          },
+          {
+            "day_no": "PHASE 03",
+            "session": "Stochastic Calculus\nOptions & Volatility Greeks",
+            "hrs": "Months 13\u201318 \u00b7 100 pts"
+          },
+          {
+            "day_no": "PHASE 04",
+            "session": "LOB Microstructure\nMarket Making Models",
+            "hrs": "Months 19\u201324 \u00b7 100 pts"
+          },
+          {
+            "day_no": "PHASE 05",
+            "session": "Statistical Arbitrage\nLive Desk Simulation",
+            "hrs": "Months 25\u201330 \u00b7 100 pts"
+          }
+        ]
+      }
+    },
+    {
+      "type": "requirements",
+      "title": "Statutory & Industry Mathematical Prerequisites",
+      "content": {
+        "prerequisites": [
+          "Academic Pedigree: Bachelor, Master, or PhD in Mathematics, Theoretical Physics, Computer Science, Quantitative Finance, or Electrical Engineering from a globally elite institution.",
+          "Competitive Mathematics Background: Proven track record in International Mathematical Olympiad (IMO), Putnam Competition, Codeforces (Master/Grandmaster), or elite competitive programming.",
+          "Systems Software Mastery: Expert-level C++ programming skills with deep comprehension of CPU architectures, memory hierarchy, cache lines, assembly instructions, and multithreading.",
+          "Commercial Mental Discipline: High emotional resilience, risk tolerance, and the ability to make rapid expected-value calculations under financial pressure."
+        ]
+      }
+    }
+  ],
+  "roadmap": [
+    {
+      "title": "Discrete Probability, Combinatorics & Mental Math",
+      "description": "Master probability distributions, martingales, random walks, Bayesian inference, and rapid mental math calculation drills.",
+      "estimated_months": 6,
+      "status": "completed",
+      "dependencies": [],
+      "resources": [],
+      "tags": [
+        "probability",
+        "mental-math",
+        "combinatorics",
+        "martingales"
+      ],
+      "prerequisites": []
+    },
+    {
+      "title": "Modern Ultra-Low-Latency C++ & Systems Architecture",
+      "description": "Master C++20, lock-free ring buffers, cache-line alignment, zero-allocation patterns, and memory-mapped IPC.",
+      "estimated_months": 6,
+      "status": "in-progress",
+      "dependencies": [],
+      "resources": [],
+      "tags": [
+        "cpp",
+        "low-latency",
+        "lock-free",
+        "systems"
+      ],
+      "prerequisites": []
+    },
+    {
+      "title": "Stochastic Calculus, Brownian Motion & Volatility Surfaces",
+      "description": "Implement It\u00f4 Lemma, Geometric Brownian Motion, Black-Scholes PDE, and option Greeks hedging algorithms.",
+      "estimated_months": 6,
+      "status": "todo",
+      "dependencies": [],
+      "resources": [],
+      "tags": [
+        "stochastic-calculus",
+        "options",
+        "ito-lemma",
+        "black-scholes"
+      ],
+      "prerequisites": []
+    },
+    {
+      "title": "Market Microstructure, Order Books & Market Making",
+      "description": "Build L2/L3 order book matching engines, implement Avellaneda-Stoikov inventory models, and model adverse selection.",
+      "estimated_months": 6,
+      "status": "todo",
+      "dependencies": [],
+      "resources": [],
+      "tags": [
+        "microstructure",
+        "order-book",
+        "market-making",
+        "avellaneda-stoikov"
+      ],
+      "prerequisites": []
+    },
+    {
+      "title": "Statistical Arbitrage, Cointegration & Alpha Signal Research",
+      "description": "Develop pairs trading models, Johansen cointegration tests, cross-asset momentum strategies, and multi-factor models.",
+      "estimated_months": 6,
+      "status": "todo",
+      "dependencies": [],
+      "resources": [],
+      "tags": [
+        "stat-arb",
+        "cointegration",
+        "pairs-trading",
+        "alpha"
+      ],
+      "prerequisites": []
+    },
+    {
+      "title": "Backtest Hygiene, Risk Management & Live Desk Preparation",
+      "description": "Implement walk-forward validation, deflated Sharpe ratio analysis, VaR circuit breakers, and practice proprietary trading interviews.",
+      "estimated_months": 4,
+      "status": "todo",
+      "dependencies": [],
+      "resources": [],
+      "tags": [
+        "risk-management",
+        "backtesting",
+        "interview-prep",
+        "sharpe-ratio"
+      ],
+      "prerequisites": []
+    }
+  ],
+  "metrics": {
+    "duration_months": 24,
+    "entry_threshold": "Top quant programs / elite universities / Math Olympiad",
+    "compensation": "Elite base + performance bonus (50k\u201300k+ / \u20b940L\u20132.5Cr+)",
+    "selection_ratio": "Very competitive (<0.5%)",
+    "total_marks": 0
+  }
+}

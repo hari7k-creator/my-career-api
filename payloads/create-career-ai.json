@@ -1,0 +1,516 @@
+{
+  "name": "AI & Machine Learning Engineer",
+  "slug": "ai-ml-engineer",
+  "description": "Architect foundation models, fine-tune LLMs, design RAG pipelines, and deploy scalable inference infrastructure.",
+  "category": "tech",
+  "difficulty": "advanced",
+  "tags": [
+    "technology",
+    "ai",
+    "ml",
+    "deep-learning",
+    "llm",
+    "data-science",
+    "generative-ai",
+    "blueprint"
+  ],
+  "skills": [
+    "Python",
+    "PyTorch",
+    "TensorFlow",
+    "Transformer Architectures",
+    "Vector Databases",
+    "RAG Pipelines",
+    "CUDA & TensorRT",
+    "MLOps & Triton"
+  ],
+  "content_blocks": [
+    {
+      "type": "hero",
+      "title": "AI & Machine Learning Engineer \u2014 Technical Architecture Blueprint",
+      "content": {
+        "kicker": "TECHNOLOGY & SYSTEMS ARCHITECTURE \u00b7 AI & MACHINE LEARNING",
+        "subtitle": "Architecting Foundation Models, Generative Systems & Autonomous Intelligence",
+        "description": "End-to-end architectural blueprint of the AI & Machine Learning Engineering pathway. Spans mathematical foundations in linear algebra, deep learning transformer mechanics, parameter-efficient fine-tuning (PEFT), enterprise retrieval-augmented generation (RAG), and high-throughput inference serving with vLLM and TensorRT.",
+        "scale": "40k \u2013 20k+ / \u20b925L\u201370L+",
+        "stage": "Stages 01, 02, 03 & 04",
+        "total_papers": "4 Evaluation Tracks",
+        "written_merit": "Portfolio & Live System Design",
+        "interview": "Architecture & ML Systems",
+        "grand_total": "Senior / Staff Band"
+      }
+    },
+    {
+      "type": "macro_metrics",
+      "title": "Macro Statistics",
+      "content": {
+        "metrics": [
+          {
+            "label": "Base Preparation Horizon",
+            "value": "18\u201324 M",
+            "sub": "Mathematical grounding through production deployment"
+          },
+          {
+            "label": "Compensation Spectrum",
+            "value": "40k \u2013 20k+",
+            "sub": "US: 40k\u201320k+ \u00b7 India: \u20b925L\u2013\u20b970L+ Base + Equity",
+            "highlight": true
+          },
+          {
+            "label": "Core Technology Tracks",
+            "value": "4 Stages",
+            "sub": "Math & Python \u00b7 Deep Learning \u00b7 LLMs/RAG \u00b7 Production MLOps"
+          },
+          {
+            "label": "Industry Selection Bar",
+            "value": "Top 1%",
+            "sub": "Vectorized coding & distributed systems rigor"
+          }
+        ]
+      }
+    },
+    {
+      "type": "merit_bar",
+      "title": "Technical Competency Distribution & Skill Ledger",
+      "content": {
+        "dim_note": "Relative Weighting across Core Production Competencies",
+        "breakdown_written": "Mathematical Foundations & Neural Systems: 70%",
+        "breakdown_interview": "Architecture Design & MLOps Infrastructure: 30%",
+        "total_num": "100%",
+        "total_txt": "PRODUCTION AI READINESS BENCHMARK",
+        "segments": [
+          {
+            "code": "MATH",
+            "name": "Linear Algebra & Calculus",
+            "marks": "15%",
+            "percentage": "15%",
+            "fill": "fill-a",
+            "flexGrow": 1
+          },
+          {
+            "code": "ML",
+            "name": "Classical ML & Modeling",
+            "marks": "20%",
+            "percentage": "20%",
+            "fill": "fill-a",
+            "flexGrow": 1.2
+          },
+          {
+            "code": "DL",
+            "name": "PyTorch & Transformers",
+            "marks": "25%",
+            "percentage": "25%",
+            "fill": "fill-a",
+            "flexGrow": 1.5
+          },
+          {
+            "code": "LLM",
+            "name": "Generative AI & RAG",
+            "marks": "20%",
+            "percentage": "20%",
+            "fill": "fill-b",
+            "flexGrow": 1.2
+          },
+          {
+            "code": "OPS",
+            "name": "MLOps & vLLM Inference",
+            "marks": "20%",
+            "percentage": "20%",
+            "fill": "fill-c",
+            "flexGrow": 1.2
+          }
+        ]
+      }
+    },
+    {
+      "type": "blueprint_section",
+      "title": "Stage 01 \u2014 Mathematical Foundations & Scientific Computing",
+      "content": {
+        "kicker": "STAGE 01 \u00b7 MATHEMATICS & VECTORIZED ALGORITHMS",
+        "badge": "FOUNDATIONAL SCIENTIFIC COMPUTING",
+        "scale": "Core Prerequisite",
+        "weight": "20% Total Competency",
+        "papers_count": "2 Core Modules",
+        "description": "The fundamental mathematical substrate required for modern machine learning. Emphasizes matrix decomposition, vector calculus gradients, numerical stability, and high-performance tensor broadcasting in Python and C++.",
+        "papers": [
+          {
+            "code": "MODULE A \u00b7 LINEAR ALGEBRA & CALCULUS",
+            "name": "Matrix Decompositions & Gradient Optimization",
+            "marks": "100 pts",
+            "meta": "Mathematical Rigor \u00b7 Vector Calculus \u00b7 Convex Optimization",
+            "desc": "Core theoretical foundations powering gradient descent, latent embedding spaces, and dimensionality transformations.",
+            "topics": [
+              "Vector spaces, subspaces, basis, and linear independence",
+              "Matrix transformations, Eigenvalues, Eigenvectors, and Spectral Decomposition",
+              "Singular Value Decomposition (SVD) and Principal Component Analysis (PCA)",
+              "Multivariable calculus, Jacobian and Hessian matrices, Taylor approximations",
+              "Convex optimization, Gradient Descent, Momentum, and Adam optimizer dynamics",
+              "Probability distributions, Maximum Likelihood Estimation (MLE), and Bayesian priors"
+            ],
+            "tags": [
+              "Linear Algebra",
+              "SVD & PCA",
+              "Multivariable Calculus",
+              "Convex Optimization"
+            ],
+            "highlight": true
+          },
+          {
+            "code": "MODULE B \u00b7 VECTORIZED PYTHON",
+            "name": "High-Performance NumPy & Algorithmics",
+            "marks": "100 pts",
+            "meta": "Vectorized Data Structures \u00b7 Memory Strides \u00b7 Cache Locality",
+            "desc": "Writing vectorized numerical code without slow Python loops, understanding memory strides, contiguous arrays, and cache efficiency.",
+            "topics": [
+              "NumPy tensor strides, broadcasting rules, and memory layout (C vs Fortran contiguous)",
+              "Vectorized algorithm design: avoiding iterative loops for matrix calculations",
+              "Scientific computing with SciPy, sparse matrix representations, and linear solvers",
+              "Custom autograd function implementation and computational graph construction",
+              "Complexity profiling with cProfile, line_profiler, and memory_profiler"
+            ],
+            "tags": [
+              "Vectorization",
+              "NumPy Strides",
+              "Computational Graphs",
+              "Memory Profiling"
+            ],
+            "border_class": "cyan-border"
+          }
+        ],
+        "callout": {
+          "type": "warning",
+          "title": "Vectorization Rule & Numerical Stability",
+          "text": "Explicit for-loops over data samples are prohibited in production pipelines. All data transformations must be vectorized using NumPy or PyTorch tensor broadcasting. Numerical stability techniques\u2014such as Log-Sum-Exp tricks and gradient clipping\u2014must be strictly applied to avoid underflow/overflow during backpropagation."
+        }
+      }
+    },
+    {
+      "type": "blueprint_section",
+      "title": "Stage 02 \u2014 Deep Learning & Transformer Architectures",
+      "content": {
+        "kicker": "STAGE 02 \u00b7 NEURAL NETWORKS & ATTENTION MECHANISMS",
+        "badge": "CORE DEEP LEARNING ARCHITECTURE",
+        "scale": "Advanced Modeling",
+        "weight": "30% Total Competency",
+        "papers_count": "2 Deep Learning Tracks",
+        "description": "Mastery of modern deep neural network architectures, autograd computation engines, convolutional feature extractors, and self-attention mechanisms powering state-of-the-art foundation models.",
+        "papers": [
+          {
+            "code": "MODULE A \u00b7 PYTORCH FOUNDATIONS",
+            "name": "Neural Network Architectures & Autograd",
+            "marks": "100 pts",
+            "meta": "PyTorch Deep Dive \u00b7 Custom Layers \u00b7 GPU Memory Management",
+            "desc": "Implementing custom PyTorch modules, loss functions, CUDA tensor pinning, mixed precision (FP16/BF16), and distributed data parallel (DDP).",
+            "topics": [
+              "Custom PyTorch nn.Module, autograd functions, and tensor memory management",
+              "Convolutional Neural Networks (CNNs), residual connections (ResNet), and vision backbones",
+              "Recurrent models, LSTMs, and sequence-to-sequence encoder-decoder paradigms",
+              "Normalization layers: BatchNorm, LayerNorm, GroupNorm, and RMSNorm mechanics",
+              "Automatic Mixed Precision (AMP), gradient scaling, and CUDA out-of-memory mitigation"
+            ],
+            "tags": [
+              "PyTorch Autograd",
+              "Mixed Precision (BF16)",
+              "DDP Training",
+              "RMSNorm"
+            ],
+            "highlight": true
+          },
+          {
+            "code": "MODULE B \u00b7 TRANSFORMERS & ATTENTION",
+            "name": "Self-Attention & Foundation Model Architecture",
+            "marks": "100 pts",
+            "meta": "Transformer Anatomy \u00b7 Multi-Head Attention \u00b7 Rotary Embeddings",
+            "desc": "Deep structural breakdown of Scaled Dot-Product Attention, Multi-Head Attention (MHA), Grouped-Query Attention (GQA), and positional encodings.",
+            "topics": [
+              "Scaled Dot-Product Attention: Q, K, V matrix projections and softmax scaling",
+              "Multi-Head Attention (MHA), Multi-Query Attention (MQA), and Grouped-Query Attention (GQA)",
+              "Positional embeddings: Sinusoidal, Learned, and Rotary Position Embeddings (RoPE)",
+              "FlashAttention: IO-aware tiled matrix computation mitigating quadratic memory overhead",
+              "Mixture of Experts (MoE): Router networks, top-k expert gating, and load balancing"
+            ],
+            "tags": [
+              "Self-Attention",
+              "GQA & MQA",
+              "RoPE",
+              "FlashAttention",
+              "MoE"
+            ],
+            "border_class": "gold-border"
+          }
+        ],
+        "callout": {
+          "type": "gold",
+          "title": "Attention Complexity & KV Cache Optimization",
+          "text": "Standard self-attention scales quadratically O(N^2) with sequence length N. Modern production transformer deployments utilize FlashAttention algorithms to exploit SRAM memory locality and maintain a Key-Value (KV) cache during autoregressive decoding to prevent redundant matrix recomputations."
+        }
+      }
+    },
+    {
+      "type": "blueprint_section",
+      "title": "Stage 03 \u2014 Large Language Models, Generative AI & Enterprise RAG",
+      "content": {
+        "kicker": "STAGE 03 \u00b7 GENERATIVE SYSTEMS & RETRIEVAL (LLMs)",
+        "badge": "FOUNDATION MODELS & VECTOR RETRIEVAL",
+        "scale": "Generative AI Specialization",
+        "weight": "30% Total Competency",
+        "papers_count": "2 Applied LLM Tracks",
+        "description": "Advanced generative AI engineering covering parameter-efficient fine-tuning (PEFT), model alignment (DPO/RLHF), semantic vector search, hybrid retrieval pipelines, and production RAG architecture.",
+        "papers": [
+          {
+            "code": "MODULE A \u00b7 PEFT & ALIGNMENT",
+            "name": "LoRA, QLoRA & Foundation Model Adaptation",
+            "marks": "100 pts",
+            "meta": "Parameter-Efficient Fine-Tuning \u00b7 Quantization \u00b7 Alignment",
+            "desc": "Adapting massive foundation models to proprietary enterprise domains with minimal GPU compute using Low-Rank Adaptation and 4-bit quantization.",
+            "topics": [
+              "LoRA (Low-Rank Adaptation) and QLoRA 4-bit NF4 quantized fine-tuning",
+              "Tokenizer architecture: Byte-Pair Encoding (BPE), WordPiece, and vocabulary expansion",
+              "Instruction fine-tuning, dataset formatting, and multi-turn conversation templates",
+              "Alignment strategies: Reinforcement Learning from Human Feedback (RLHF) and Direct Preference Optimization (DPO)",
+              "Evaluation benchmarks: MMLU, GSM8k, HumanEval, and LLM-as-a-Judge frameworks"
+            ],
+            "tags": [
+              "LoRA / QLoRA",
+              "DPO Alignment",
+              "Tokenization",
+              "Benchmark Evaluation"
+            ],
+            "border_class": "cyan-border"
+          },
+          {
+            "code": "MODULE B \u00b7 ENTERPRISE RAG SYSTEMS",
+            "name": "Retrieval-Augmented Generation & Vector DBs",
+            "marks": "100 pts",
+            "meta": "Vector Databases \u00b7 Hybrid Search \u00b7 Re-Ranking \u00b7 Guardrails",
+            "desc": "Constructing fault-tolerant retrieval pipelines that dynamically fetch enterprise knowledge and ground LLM outputs against factual documents.",
+            "topics": [
+              "Semantic chunking strategies, parent-child documents, and contextual embeddings",
+              "Vector databases: Qdrant, Pinecone, Milvus, Chroma, and HNSW indexing mechanics",
+              "Hybrid retrieval: fusing sparse keyword search (BM25) with dense vector embeddings",
+              "Cross-encoder re-ranking (Cohere, BGE) and contextual compression for noise reduction",
+              "Agentic workflows, function calling, tool use, and hallucination guardrails (NeMo Guardrails)"
+            ],
+            "tags": [
+              "Enterprise RAG",
+              "Vector Databases",
+              "Hybrid BM25 + Dense",
+              "Cross-Encoders"
+            ],
+            "border_class": "gold-border"
+          }
+        ],
+        "callout": {
+          "type": "info",
+          "title": "RAG Production Quality & Grounding Framework",
+          "text": "A naive vector search pipeline fails in production due to embedding drift and irrelevant context noise. Modern enterprise RAG systems enforce hybrid search (BM25 + Dense), cross-encoder re-ranking, and dynamic context trimming to guarantee sub-second response times and zero-hallucination factual grounding."
+        }
+      }
+    },
+    {
+      "type": "blueprint_section",
+      "title": "Stage 04 \u2014 Production MLOps, Triton & Low-Latency Serving",
+      "content": {
+        "kicker": "STAGE 04 \u00b7 INFERENCE ACCELERATION & DISTRIBUTED SYSTEMS",
+        "badge": "PRODUCTION INFERENCE ENGINEERING",
+        "scale": "Production Infrastructure",
+        "weight": "20% Total Competency",
+        "papers_count": "2 Infrastructure Tracks",
+        "description": "Packaging deep learning models into ultra-low-latency, high-concurrency microservices deployed across distributed GPU clusters using specialized inference engines.",
+        "papers": [
+          {
+            "code": "MODULE A \u00b7 INFERENCE ACCELERATION",
+            "name": "vLLM, TensorRT-LLM & Triton Inference Server",
+            "marks": "100 pts",
+            "meta": "PagedAttention \u00b7 Continuous Batching \u00b7 Model Quantization",
+            "desc": "Optimizing inference throughput using PagedAttention, TensorRT engine compilation, and multi-model Triton deployment.",
+            "topics": [
+              "vLLM architecture: PagedAttention algorithm preventing GPU VRAM fragmentation",
+              "Continuous batching & speculative decoding to double token generation speed",
+              "NVIDIA TensorRT-LLM and ONNX Runtime compilation for custom kernel fusion",
+              "Weight quantization: AWQ (Activation-aware Weight Quantization) and GPTQ 4-bit serving",
+              "NVIDIA Triton Inference Server: dynamic batching, concurrent model execution, and GPU metrics"
+            ],
+            "tags": [
+              "vLLM",
+              "PagedAttention",
+              "TensorRT-LLM",
+              "Triton",
+              "AWQ Quantization"
+            ],
+            "highlight": true
+          },
+          {
+            "code": "MODULE B \u00b7 CLUSTER ORCHESTRATION",
+            "name": "Kubernetes GPU Scheduling & MLflow Observability",
+            "marks": "100 pts",
+            "meta": "Cloud GPU Infrastructure \u00b7 Autoscaling \u00b7 Drift Monitoring",
+            "desc": "Orchestrating GPU infrastructure on AWS/GCP, automated canary deployments, model registry management, and continuous data drift monitoring.",
+            "topics": [
+              "Kubernetes with NVIDIA GPU Operator, resource requests/limits, and node affinities",
+              "Distributed training & inference with Ray (Ray Train, Ray Serve)",
+              "Model registry, versioning, and lineage tracking with MLflow and Weights & Biases",
+              "Real-time observability: Prometheus GPU metrics, Grafana dashboards, and latency percentiles (p95, p99)",
+              "CI/CD pipelines for automated model weight validation and regression testing"
+            ],
+            "tags": [
+              "Kubernetes GPU",
+              "Ray Serve",
+              "MLflow",
+              "Prometheus & Grafana",
+              "CI/CD"
+            ],
+            "border_class": "cyan-border"
+          }
+        ],
+        "callout": {
+          "type": "warning",
+          "title": "SLA Latency Budget & VRAM Fragmentation",
+          "text": "Production LLM APIs enforce strict Service Level Agreements (SLAs): Time-To-First-Token (TTFT) must remain below 150ms and Inter-Token Latency (ITL) below 25ms. PagedAttention must be configured to eliminate the 60\u201380% VRAM waste typical of traditional memory allocators."
+        }
+      }
+    },
+    {
+      "type": "schedule",
+      "title": "Technical Milestone Progression Schedule",
+      "content": {
+        "sub": "Phased 18-Month Mastery Protocol \u00b7 Foundations to Distributed Inference Clusters",
+        "days": [
+          {
+            "day_no": "PHASE 01",
+            "session": "Math & Calculus\nVectorized NumPy",
+            "hrs": "Months 01\u201303 \u00b7 100 pts"
+          },
+          {
+            "day_no": "PHASE 02",
+            "session": "Classical ML\nStatistical Inference",
+            "hrs": "Months 04\u201306 \u00b7 100 pts"
+          },
+          {
+            "day_no": "PHASE 03",
+            "session": "PyTorch & Autograd\nTransformer Attention",
+            "hrs": "Months 07\u201310 \u00b7 100 pts"
+          },
+          {
+            "day_no": "PHASE 04",
+            "session": "LLMs & Fine-Tuning\nEnterprise RAG",
+            "hrs": "Months 11\u201314 \u00b7 100 pts"
+          },
+          {
+            "day_no": "PHASE 05",
+            "session": "vLLM Serving\nKubernetes MLOps",
+            "hrs": "Months 15\u201318 \u00b7 100 pts"
+          }
+        ]
+      }
+    },
+    {
+      "type": "requirements",
+      "title": "Statutory & Industry Engineering Prerequisites",
+      "content": {
+        "prerequisites": [
+          "Academic Background: Bachelor or Master degree in Computer Science, Data Science, Mathematics, Electrical Engineering, or equivalent verified portfolio.",
+          "Core Software Engineering: Proficiency in modular Python, Git, Linux CLI, containerization (Docker), and asynchronous API development (FastAPI/gRPC).",
+          "Mathematical Rigor: Fluency in linear algebra, multivariable gradients, probability distributions, and loss formulation mechanics.",
+          "Model Deployment Portfolio: Production repository demonstrating a fine-tuned model or production RAG pipeline with quantifiable latency & benchmark metrics."
+        ]
+      }
+    }
+  ],
+  "roadmap": [
+    {
+      "title": "Mathematics & Scientific Python Foundations",
+      "description": "Master linear algebra, vector calculus, probability distributions, NumPy vectorization, and data structures.",
+      "estimated_months": 3,
+      "status": "completed",
+      "dependencies": [],
+      "resources": [],
+      "tags": [
+        "python",
+        "math",
+        "statistics"
+      ],
+      "prerequisites": []
+    },
+    {
+      "title": "Classical Machine Learning & Statistical Pipelines",
+      "description": "Build classification, regression, and clustering models using Scikit-Learn and gradient-boosted trees with statistical evaluation.",
+      "estimated_months": 3,
+      "status": "in-progress",
+      "dependencies": [],
+      "resources": [],
+      "tags": [
+        "scikit-learn",
+        "xgboost",
+        "validation"
+      ],
+      "prerequisites": []
+    },
+    {
+      "title": "Deep Learning with PyTorch & Neural Architectures",
+      "description": "Implement backpropagation, CNNs, attention mechanisms, and custom PyTorch training loops with GPU acceleration.",
+      "estimated_months": 4,
+      "status": "todo",
+      "dependencies": [],
+      "resources": [],
+      "tags": [
+        "pytorch",
+        "deep-learning",
+        "transformers"
+      ],
+      "prerequisites": []
+    },
+    {
+      "title": "Foundation Models, LLMs & Retrieval Systems (RAG)",
+      "description": "Fine-tune language models with LoRA/QLoRA, construct semantic search engines with vector databases, and integrate LlamaIndex/LangChain.",
+      "estimated_months": 4,
+      "status": "todo",
+      "dependencies": [],
+      "resources": [],
+      "tags": [
+        "llm",
+        "rag",
+        "lora",
+        "vector-db"
+      ],
+      "prerequisites": []
+    },
+    {
+      "title": "High-Throughput Inference & Quantization",
+      "description": "Optimize inference latency using vLLM, TensorRT-LLM, ONNX Runtime, and 4-bit/8-bit quantization techniques.",
+      "estimated_months": 2,
+      "status": "todo",
+      "dependencies": [],
+      "resources": [],
+      "tags": [
+        "inference",
+        "vllm",
+        "tensorrt",
+        "quantization"
+      ],
+      "prerequisites": []
+    },
+    {
+      "title": "Production MLOps, Orchestration & Observability",
+      "description": "Deploy distributed inference pipelines on Kubernetes, configure automated CI/CD for model weights, and track drift with MLflow.",
+      "estimated_months": 2,
+      "status": "todo",
+      "dependencies": [],
+      "resources": [],
+      "tags": [
+        "mlops",
+        "kubernetes",
+        "docker",
+        "monitoring"
+      ],
+      "prerequisites": []
+    }
+  ],
+  "metrics": {
+    "duration_months": 18,
+    "entry_threshold": "Bachelor's in CS/Related field or Equivalent Portfolio",
+    "compensation": "40k \u2013 20k+ / \u20b925L\u201370L+",
+    "selection_ratio": "High demand",
+    "total_marks": 0
+  }
+}
