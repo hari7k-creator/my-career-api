@@ -22,3 +22,8 @@ go.work
 
 # Go sum file (uncomment if needed)
 # go.sum
+
+# Build output
+app
+career-api
+main
