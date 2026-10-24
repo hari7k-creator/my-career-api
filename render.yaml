@@ -2,8 +2,9 @@ services:
   - type: web
     name: my-career-api
     runtime: go
-    buildCommand: go build -tags netgo -ldflags '-s -w' -o app ./cmd/api
+    buildCommand: bash build.sh
     startCommand: ./app
+    healthCheckPath: /health
     envVars:
       - key: PORT
         value: 8080
