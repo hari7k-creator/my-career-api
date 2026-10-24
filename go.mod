@@ -1,4 +1,4 @@
-module career-arch-backend
+module github.com/hari7k-creator/my-career-api
 
 go 1.21
 

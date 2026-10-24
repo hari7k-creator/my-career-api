@@ -7,11 +7,11 @@ import (
 	"net/http"
 	"time"
 
-	"career-arch-backend/internal/config"
-	carrier "career-arch-backend/internal/handlers"
-	"career-arch-backend/internal/middleware"
-	"career-arch-backend/internal/models"
-	"career-arch-backend/internal/repository"
+	"github.com/hari7k-creator/my-career-api/internal/config"
+	carrier "github.com/hari7k-creator/my-career-api/internal/handlers"
+	"github.com/hari7k-creator/my-career-api/internal/middleware"
+	"github.com/hari7k-creator/my-career-api/internal/models"
+	"github.com/hari7k-creator/my-career-api/internal/repository"
 
 	"github.com/gorilla/handlers"
 	"github.com/gorilla/mux"
