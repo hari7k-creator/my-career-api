@@ -6,7 +6,7 @@ import (
 	"log"
 	"time"
 
-	"career-arch-backend/internal/models"
+	"github.com/hari7k-creator/my-career-api/internal/models"
 
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"

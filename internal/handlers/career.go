@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"career-arch-backend/internal/models"
+	"github.com/hari7k-creator/my-career-api/internal/models"
 
 	"github.com/gorilla/mux"
 )
